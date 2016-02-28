@@ -1,0 +1,38 @@
+baseurl = "http://ankigene.github.io/"
+languageCode = "ja"
+title = "Ankigene"
+author = "luminosspice"
+paginate = 5
+canonifyurls = true
+hasCJKLanguage = true
+
+[permalinks] 
+  post = "/:section/:filename/"
+ 
+[taxonomies]
+tag = "tags"
+ankigene = "ankigene"
+
+[params]
+    description = "Anki ユーザーの意欲を活性化するユニークな話題を要約して紹介します。"
+    author_url = "http://rightstuff.luminosspice.com"
+    project_url = "http://github.com/ankigene/ankigene"
+    project_documentation = "http://ankihene.github.io/docs"
+    github_project_name = "ankigene"
+    github_user_name = "ankigene"
+
+    first_color="#f8f8f8"
+    first_border_color="#e7e7e7"
+    first_text_color="#333"
+
+    second_color="white"
+    second_text_color="#333"
+
+    header_color="#f8f8f8"
+    header_text_color="rgb(51, 51, 51)"
+
+    header_link_color="#777"
+    header_link_hover_color="rgb(51, 51, 51)"
+
+	topitem = 5
+
