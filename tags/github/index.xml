@@ -6,8 +6,18 @@
     <description>Recent content in Github on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 31 Jan 2016 08:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Feb 2016 00:03:52 +0900</lastBuildDate>
     <atom:link href="http://ankigene.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カードの内容をブラウザーの中で検索するアドオン</title>
+      <link>http://ankigene.github.io/post/search-browser-addon/</link>
+      <pubDate>Mon, 29 Feb 2016 00:03:52 +0900</pubDate>
+      
+      <guid>http://ankigene.github.io/post/search-browser-addon/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開された「Search browser for selected words」というアドオンは、Anki のカード面で選択した内容を検索して、カードブラウザー内に結果を表示する機能を提供します。別のカードに同じ項目が含まれていないか調べるのに役立ちます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiDroid テーマ切り替え機能</title>
@@ -147,16 +157,6 @@
       
       <guid>http://ankigene.github.io/post/generator-for-jazz-piano-cords/</guid>
       <description>&lt;p&gt;GitHub に公開の pianochords は、コードネーム (コードシンボル) で質問し、解答を鍵盤図で表示するジャズピアノのコード学習用の Anki 単語帳用データを自動生成します。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Anki 単語帳をウェブブラウザーで一覧</title>
-      <link>http://ankigene.github.io/post/open-anki-decks-with-web-browser/</link>
-      <pubDate>Wed, 27 Aug 2014 12:00:40 +0000</pubDate>
-      
-      <guid>http://ankigene.github.io/post/open-anki-decks-with-web-browser/</guid>
-      <description>&lt;p&gt;GitHub に公開の Fuzzy-Anki を使うとウェブブラウザで Anki 単語帳パッケージファイル (AKPG) の内容を一覧できます。サーバー上でもローカルでも使えます。&lt;/p&gt;
 </description>
     </item>
     

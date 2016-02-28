@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>検索 on Ankigene</title>
-    <link>http://ankigene.github.io/tags/%E6%A4%9C%E7%B4%A2/</link>
-    <description>Recent content in 検索 on Ankigene</description>
+    <title>Ankigene</title>
+    <link>http://ankigene.github.io/ankigene/</link>
+    <description>Recent content on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 29 Feb 2016 00:03:52 +0900</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/%E6%A4%9C%E7%B4%A2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.github.io/ankigene/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>カードの内容をブラウザーの中で検索するアドオン</title>
@@ -16,16 +16,6 @@
       
       <guid>http://ankigene.github.io/post/search-browser-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開された「Search browser for selected words」というアドオンは、Anki のカード面で選択した内容を検索して、カードブラウザー内に結果を表示する機能を提供します。別のカードに同じ項目が含まれていないか調べるのに役立ちます。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>単語単位でフィールド検索をするためのアドオン</title>
-      <link>http://ankigene.github.io/post/search-by-word-addon/</link>
-      <pubDate>Sat, 21 Mar 2015 06:08:55 +0000</pubDate>
-      
-      <guid>http://ankigene.github.io/post/search-by-word-addon/</guid>
-      <description>&lt;p&gt;Anki アドオン &amp;ldquo;Word search and wildcard field name&amp;rdquo; は、カードブラウザーでのフィールド検索にワイルドカードの使用や単語単位での検索の機能を追加します。&lt;/p&gt;
 </description>
     </item>
     

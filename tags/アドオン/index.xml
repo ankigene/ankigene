@@ -6,8 +6,18 @@
     <description>Recent content in アドオン on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Feb 2016 20:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Feb 2016 00:03:52 +0900</lastBuildDate>
     <atom:link href="http://ankigene.github.io/tags/%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カードの内容をブラウザーの中で検索するアドオン</title>
+      <link>http://ankigene.github.io/post/search-browser-addon/</link>
+      <pubDate>Mon, 29 Feb 2016 00:03:52 +0900</pubDate>
+      
+      <guid>http://ankigene.github.io/post/search-browser-addon/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開された「Search browser for selected words」というアドオンは、Anki のカード面で選択した内容を検索して、カードブラウザー内に結果を表示する機能を提供します。別のカードに同じ項目が含まれていないか調べるのに役立ちます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AwesomeTTS による読み上げ設定チュートリアル</title>
@@ -146,16 +156,6 @@
       
       <guid>http://ankigene.github.io/post/customize-anki-stats/</guid>
       <description>&lt;p&gt;統計情報のカスタマイズがサポートサイトで話題になりました。アドオンを作る方法と、データベースから直接データ出力する方法が紹介され、サンプルアドオンも投稿されています。アドオン開発者には必須の情報源です。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AwesomeTTS 公式ドキュメント</title>
-      <link>http://ankigene.github.io/post/awesometts-document/</link>
-      <pubDate>Tue, 29 Jul 2014 19:20:23 +0000</pubDate>
-      
-      <guid>http://ankigene.github.io/post/awesometts-document/</guid>
-      <description>&lt;p&gt;Text-to-Speech 機能を Anki に追加するアドオン AwesomeTTS v.1.0.0 が公式ドキュメントともに公開。このアドオンの設定方法、呼び出し方、利用 TTS 別の設定法が文書化されました。&lt;/p&gt;
 </description>
     </item>
     

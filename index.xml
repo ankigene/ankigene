@@ -6,8 +6,18 @@
     <description>Recent content on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Feb 2016 21:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Feb 2016 00:03:52 +0900</lastBuildDate>
     <atom:link href="http://ankigene.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カードの内容をブラウザーの中で検索するアドオン</title>
+      <link>http://ankigene.github.io/post/search-browser-addon/</link>
+      <pubDate>Mon, 29 Feb 2016 00:03:52 +0900</pubDate>
+      
+      <guid>http://ankigene.github.io/post/search-browser-addon/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開された「Search browser for selected words」というアドオンは、Anki のカード面で選択した内容を検索して、カードブラウザー内に結果を表示する機能を提供します。別のカードに同じ項目が含まれていないか調べるのに役立ちます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>米国医師国家試験のための Anki の活用法</title>
@@ -150,16 +160,6 @@
       
       <guid>http://ankigene.github.io/post/deck-hexadecimal-multiplication-table/</guid>
       <description>&lt;p&gt;AnkiWeb の共有単語帳一覧に「十六進数掛け算」が登録されました。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AnkiDroid でバックグラウンド同期</title>
-      <link>http://ankigene.github.io/post/ankidroid-background-sync/</link>
-      <pubDate>Sun, 03 Jan 2016 20:00:41 +0000</pubDate>
-      
-      <guid>http://ankigene.github.io/post/ankidroid-background-sync/</guid>
-      <description>&lt;p&gt;AnkiDroid 2.5 は、オートメーションアプリの Tasker を利用したバックグラウンド同期をサポートしています。GitHub の Wiki に設定方法とプロファイルのサンプルが掲載されました。&lt;/p&gt;
 </description>
     </item>
     

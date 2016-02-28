@@ -6,8 +6,18 @@
     <description>Recent content in Posts on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Feb 2016 21:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Feb 2016 00:03:52 +0900</lastBuildDate>
     <atom:link href="http://ankigene.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カードの内容をブラウザーの中で検索するアドオン</title>
+      <link>http://ankigene.github.io/post/search-browser-addon/</link>
+      <pubDate>Mon, 29 Feb 2016 00:03:52 +0900</pubDate>
+      
+      <guid>http://ankigene.github.io/post/search-browser-addon/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開された「Search browser for selected words」というアドオンは、Anki のカード面で選択した内容を検索して、カードブラウザー内に結果を表示する機能を提供します。別のカードに同じ項目が含まれていないか調べるのに役立ちます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>米国医師国家試験のための Anki の活用法</title>
@@ -146,16 +156,6 @@
       
       <guid>http://ankigene.github.io/post/ankidroid-background-sync/</guid>
       <description>&lt;p&gt;AnkiDroid 2.5 は、オートメーションアプリの Tasker を利用したバックグラウンド同期をサポートしています。GitHub の Wiki に設定方法とプロファイルのサンプルが掲載されました。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AnkiDroid 2.5 日本語マニュアル</title>
-      <link>http://ankigene.github.io/post/ankidroid-2-5-japanese-manual/</link>
-      <pubDate>Sun, 03 Jan 2016 19:50:51 +0000</pubDate>
-      
-      <guid>http://ankigene.github.io/post/ankidroid-2-5-japanese-manual/</guid>
-      <description>&lt;p&gt;AnkiDroid 2.5 日本語マニュアルが公開になりました。ユーザーインターフェイスの変更や新機能を反映した内容になっています。&lt;/p&gt;
 </description>
     </item>
     
