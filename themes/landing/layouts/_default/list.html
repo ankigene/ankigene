@@ -1,0 +1,13 @@
+{{ partial "head.html" . }}
+{{ partial "nav.html" . }}
+{{ partial "header.html" . }}
+<section id="services">
+
+<!-- Page Content -->
+{{ range .Paginator.Pages }}
+  {{ partial "ankigene_content.html" . }}
+{{ end }}
+
+{{ partial "pagination.html" . }}
+</section>
+{{ partial "footer.html" . }}

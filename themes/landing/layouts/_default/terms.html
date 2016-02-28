@@ -1,0 +1,29 @@
+{{ partial "head.html" . }}
+{{ partial "nav.html" . }}
+{{ partial "header.html" . }}
+
+<section id="services">
+   <div class="content-section">
+
+      <div class="container">
+
+        <div class="row">
+          <div>
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <h2 class="section-heading">{{ if eq .Title "Ankigene" }}バックナンバー{{ else }}タグ一覧{{ end }}</h2>
+						<ul class="terms">
+							{{ $data := .Data }}
+							{{ range $key, $value := .Data.Terms }}
+							<li><a href="{{ $data.Plural }}/{{ $key | urlize }}">{{ replace $key "-" " " }}</a> </li>
+							{{ end }}
+						</ul>
+        </div>
+    </div>
+
+</div>
+</div>
+
+</section>
+
+{{ partial "footer.html" . }}

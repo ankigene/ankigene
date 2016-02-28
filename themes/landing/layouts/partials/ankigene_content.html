@@ -1,0 +1,28 @@
+    <div class="content-section">
+
+        <div class="container">
+
+            <div class="row">
+                <div>
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ if ne .Params.thumbnail nil }}<img class="element" src="images/{{ .Params.thumbnail }}"/>{{ end }}{{ .Title }}</h2>
+                    {{ .Content }}
+										{{ if ne .Params.gene_url nil }}
+										<a href="{{ .Params.gene_url }}" class="btn btn-default" role="button">出典元 <span class="icon-new-tab" aria-hidden="true"></span></a>
+										{{ end }}
+										<div class="tags">
+										  {{ range .Params.tags }}
+										    <a href="tags/{{ . | urlize }}" class="btn btn-default btn-sm"><span class="icon-tag" aria-label="タグ"></span> {{ . }}</a> 
+										  {{ end }}
+										</div>
+										<div class="date">
+											<span class="icon-clock" aria-label="更新日"></span> {{ .Date.Format "2006-1-2" }} 
+										</div>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>

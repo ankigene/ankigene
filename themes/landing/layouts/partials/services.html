@@ -1,0 +1,8 @@
+<section id="services">
+
+<!-- Page Content -->
+ {{ range first .Site.Params.topitem .Data.Pages }}
+ {{ partial "ankigene_content.html" . }}
+ {{ end }}
+
+</section>
