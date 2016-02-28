@@ -3,7 +3,7 @@ slug: "incremental-reading-log"
 date: "2015-02-08T08:55:06+00:00"
 lastmod: "2015-02-08T09:05:24+00:00"
 title: "Incremental Reading を利用した記憶するための読書ログ"
-gene_url: "http://michiksas.tumblr.com/post/110353652726/anki-incremental-reading"
+gene_url: "http://michiksas.tumblr.com/post/110353652726/"
 tags: ["Incremental Reading","アドオン","利用事例","記憶術","読書ログ"]
 thumbnail: "incremental-reading-log.png"
 Ankigene: "019"

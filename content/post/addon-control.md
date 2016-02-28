@@ -1,4 +1,5 @@
 ---
+draft: true
 slug: "addon-control"
 date: "2014-05-06T04:30:56+00:00"
 lastmod: "2016-02-09T20:54:05+00:00"

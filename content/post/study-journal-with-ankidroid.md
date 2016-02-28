@@ -1,4 +1,5 @@
 ---
+draft: true
 slug: "study-journal-with-ankidroid"
 date: "2014-08-13T00:00:40+00:00"
 lastmod: "2014-09-06T23:37:34+00:00"

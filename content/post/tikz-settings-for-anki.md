@@ -1,4 +1,5 @@
 ---
+draft: true
 slug: "tikz-settings-for-anki"
 date: "2015-06-01T00:00:48+00:00"
 lastmod: "2015-06-17T13:58:08+00:00"
