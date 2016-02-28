@@ -24,16 +24,18 @@ dependencies:
 
 test:
   pre:
-    - git clone git@github.com:ankigene/ankigene.github.io.git public
   post:
     - hugo -v
     # https://github.com/gjtorikian/html-proofer
-    - bundle exec htmlproof ./public --external_only --href_ignore '/anki.tenderapp.com/' --alt-ignore '/.*/' --file-ignore /.*vendor\/bundle*/
+    - bundle exec htmlproof ./public --external_only --href-ignore '/anki.tenderapp.com/' --alt-ignore '/.*/' --file-ignore /.*vendor\/bundle*/
+    - rm -rf ./public/
 
 deployment:
   master:
     branch: develop
     commands:
+      - git clone git@github.com:ankigene/ankigene.github.io.git public
+      - hugo
       - cd public && git add .
       - cd public && git commit -m "[ci skip] publish"
       - cd public && git push origin master
