@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>配色 on Ankigene</title>
+    <link>http://ankigene.github.io/tags/%E9%85%8D%E8%89%B2/</link>
+    <description>Recent content in 配色 on Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 21 Feb 2015 17:30:21 +0000</lastBuildDate>
+    <atom:link href="http://ankigene.github.io/tags/%E9%85%8D%E8%89%B2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiDroid ナイトモード提案</title>
+      <link>http://ankigene.github.io/post/ankidroid-color-theme/</link>
+      <pubDate>Sat, 21 Feb 2015 17:30:21 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/ankidroid-color-theme/</guid>
+      <description>&lt;p&gt;AnkiDroid Forum &amp;ldquo;True black version and improved theming&amp;rdquo; では、ナイトモードの新しいデザインとそのための配色管理の仕組みについて提案が行われました。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

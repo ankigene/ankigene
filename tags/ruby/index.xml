@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruby on Ankigene</title>
+    <link>http://ankigene.github.io/tags/ruby/</link>
+    <description>Recent content in Ruby on Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 27 Aug 2014 13:15:02 +0000</lastBuildDate>
+    <atom:link href="http://ankigene.github.io/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ジャズピアノのコード学習</title>
+      <link>http://ankigene.github.io/post/generator-for-jazz-piano-cords/</link>
+      <pubDate>Wed, 27 Aug 2014 13:15:02 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/generator-for-jazz-piano-cords/</guid>
+      <description>&lt;p&gt;GitHub に公開の pianochords は、コードネーム (コードシンボル) で質問し、解答を鍵盤図で表示するジャズピアノのコード学習用の Anki 単語帳用データを自動生成します。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>プログラミング学習のための Tips</title>
+      <link>http://ankigene.github.io/post/mastering-programing-with-anki/</link>
+      <pubDate>Wed, 20 Aug 2014 10:00:54 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/mastering-programing-with-anki/</guid>
+      <description>&lt;p&gt;Smashing Magazine &amp;ldquo;Tips For Mastering A Programming Language Using Spaced Repetition&amp;rdquo; では、Anki を使ってプログラミングを学習するための Tips を紹介。Janki Method のベストプラクティス。Ruby と JavaScript のサンプル単語帳もダウンロードできます。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

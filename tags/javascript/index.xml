@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Ankigene</title>
+    <link>http://ankigene.github.io/tags/javascript/</link>
+    <description>Recent content in Javascript on Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 17 Jan 2015 21:30:56 +0000</lastBuildDate>
+    <atom:link href="http://ankigene.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kindle ハイライトを Anki に取り組む方法</title>
+      <link>http://ankigene.github.io/post/import-kindle-hightlights-into-anki/</link>
+      <pubDate>Sat, 17 Jan 2015 21:30:56 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/import-kindle-hightlights-into-anki/</guid>
+      <description>&lt;p&gt;NomoLog の記事「KindleハイライトをAnkiへ移すためのブックマークレット作ったよ」では、Kindle にためたハイライトを Anki に取り込む方法が紹介されています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>復習スケジュールのシュミレーション</title>
+      <link>http://ankigene.github.io/post/random-simulator/</link>
+      <pubDate>Sat, 18 Oct 2014 22:20:25 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/random-simulator/</guid>
+      <description>&lt;p&gt;Anki Random Simulator は、モンテカルロ法を使って Anki の復習スケジュールをシュミレーションします。
+このサイトでは、正解率90%、5年間に設定していますが、GitHub でソースコードを公開していますので、設定変更してシュミレーションできます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>カードへの JavaScript 利用</title>
+      <link>http://ankigene.github.io/post/javascript-support-on-cards/</link>
+      <pubDate>Sat, 06 Sep 2014 20:00:17 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/javascript-support-on-cards/</guid>
+      <description>&lt;p&gt;Anki マニュアルにカード上での JavaScript 利用のサポートについて記述追加。これまでのサポートでの回答の通り動作保証はせず、開発上の制約と注意点についてまとめられています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anki 単語帳をウェブブラウザーで一覧</title>
+      <link>http://ankigene.github.io/post/open-anki-decks-with-web-browser/</link>
+      <pubDate>Wed, 27 Aug 2014 12:00:40 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/open-anki-decks-with-web-browser/</guid>
+      <description>&lt;p&gt;GitHub に公開の Fuzzy-Anki を使うとウェブブラウザで Anki 単語帳パッケージファイル (AKPG) の内容を一覧できます。サーバー上でもローカルでも使えます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>プログラミング学習のための Tips</title>
+      <link>http://ankigene.github.io/post/mastering-programing-with-anki/</link>
+      <pubDate>Wed, 20 Aug 2014 10:00:54 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/mastering-programing-with-anki/</guid>
+      <description>&lt;p&gt;Smashing Magazine &amp;ldquo;Tips For Mastering A Programming Language Using Spaced Repetition&amp;rdquo; では、Anki を使ってプログラミングを学習するための Tips を紹介。Janki Method のベストプラクティス。Ruby と JavaScript のサンプル単語帳もダウンロードできます。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>利用事例 on Ankigene</title>
+    <link>http://ankigene.github.io/tags/%E5%88%A9%E7%94%A8%E4%BA%8B%E4%BE%8B/</link>
+    <description>Recent content in 利用事例 on Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 20 Feb 2016 21:00:38 +0000</lastBuildDate>
+    <atom:link href="http://ankigene.github.io/tags/%E5%88%A9%E7%94%A8%E4%BA%8B%E4%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>米国医師国家試験のための Anki の活用法</title>
+      <link>http://ankigene.github.io/post/usmle-step1/</link>
+      <pubDate>Sat, 20 Feb 2016 21:00:38 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/usmle-step1/</guid>
+      <description>&lt;p&gt;医師アメリカ留学のためのブログ～USMLE勉強法、MPH～ の投稿「USMLE STEP1 勉強法　各論１ 」では、米国医師国家試験 (USMLE) に合格した著者の Anki 活用法を取り上げています。カードの内容や分量、学習ペースなどを具体的に紹介しています。医学生の Anki の活用法は英文では簡単に見つかりますが、日本から医学留学した方が自らの体験を元に日本語で書いている点が大変貴重です。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>三年間 Anki を続けたら</title>
+      <link>http://ankigene.github.io/post/anki-for-3years/</link>
+      <pubDate>Mon, 18 Jan 2016 18:00:21 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/anki-for-3years/</guid>
+      <description>&lt;p&gt;Reddit の投稿 &amp;ldquo;Anki every day for 3 years straight&amp;rdquo; では、20年間のブランクの後、イタリア語を再開して CEFR C2レベルに達するまで Anki をどう活用したか説明しています。統計情報もリンクしているので、詳しい学習状況も確認できます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>保育士試験のための活用法</title>
+      <link>http://ankigene.github.io/post/certificate-for-childcare-worker/</link>
+      <pubDate>Sun, 27 Dec 2015 14:00:36 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/certificate-for-childcare-worker/</guid>
+      <description>&lt;p&gt;☆妊活と保育士を頑張るブログ☆の投稿「合格のために工夫したこと(筆記)②」では、AnkiDroid を活用した保育士試験の過去問や予想問題の復習方法を紹介しています。AnkiDroid の読み上げ機能を利用した音声による復習が効果的なのだそうです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AnkiDroid へ音声を読み込む効率的な方法</title>
+      <link>http://ankigene.github.io/post/attach-audio-to-ankidroid/</link>
+      <pubDate>Sat, 29 Aug 2015 14:15:03 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/attach-audio-to-ankidroid/</guid>
+      <description>&lt;p&gt;kuni1591 さんの YouTube の投稿動画「Ankidroidへの音声ファイル・カット＆ペースト」では、Android 内で完結する AnkiDroid への音声データの取り込み方を紹介しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>人物整理に Anki を利用する読書法</title>
+      <link>http://ankigene.github.io/post/effective-reading-with-anki/</link>
+      <pubDate>Sat, 29 Aug 2015 13:50:11 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/effective-reading-with-anki/</guid>
+      <description>&lt;p&gt;@UncleMonoglot さんのツイートでは、登場人物の多い書籍を読む際の Anki 活用法が紹介されました。登場人物の一覧表を Anki で記憶しながら読むそうです。名刺帳代わりの使い方は以前から知られていましたが、本の中の人物整理に活用する点が独創的です。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>医療従事者のための Anki を活用した学習ガイド</title>
+      <link>http://ankigene.github.io/post/learning-medicine/</link>
+      <pubDate>Sat, 29 Aug 2015 13:37:15 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/learning-medicine/</guid>
+      <description>&lt;p&gt;Dr. Peter Wei、Alex Chamessian 著 &amp;ldquo;Learning Medicine: An Evidence-Based Guide&amp;rdquo; は、医学生や看護師や理学療法士のような医療従事者向けの Anki を活用した医学学習のガイドとのことです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anki を活用して Go 言語を学ぼう</title>
+      <link>http://ankigene.github.io/post/learning-golang-with-anki/</link>
+      <pubDate>Wed, 17 Jun 2015 13:40:18 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/learning-golang-with-anki/</guid>
+      <description>&lt;p&gt;Atlassian Developers の記事 &amp;ldquo;Learning Go with flashcards and spaced repetition&amp;rdquo; で Developer Advocate の Nicola Paolucci さんが Go 言語を取得するための Anki の使い方を紹介しています。コーディングしているときに時につまずいた知識を Stack Overflow などで調べてノート化しているようです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>毎日 Anki を使って数年経つとどうなるの</title>
+      <link>http://ankigene.github.io/post/anki-experience-for-years/</link>
+      <pubDate>Mon, 01 Jun 2015 01:50:53 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/anki-experience-for-years/</guid>
+      <description>&lt;p&gt;reddit での質問 &amp;ldquo;I was wondering what peoples experience is like after a few years of daily anki&amp;hellip; is it like a superpower having vast knowledge always at hand?&amp;rdquo; に対して、実際に年単位でのAnki 利用経験者からのコメントが集まっています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>教員資格認定試験のための利用法</title>
+      <link>http://ankigene.github.io/post/qualified-for-teaching/</link>
+      <pubDate>Mon, 30 Mar 2015 23:40:39 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/qualified-for-teaching/</guid>
+      <description>&lt;p&gt;種子島の真ん中で先生目指してます！「平成２６年度小学校教員資格認定試験　成績開示結果」では、小学校教員資格認定試験の一次試験対策のための Anki 利用法を紹介しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>語学留学で成果を上げる Anki の使い方</title>
+      <link>http://ankigene.github.io/post/language-class-with-anki/</link>
+      <pubDate>Sat, 28 Mar 2015 17:50:15 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/language-class-with-anki/</guid>
+      <description>&lt;p&gt;ハゲおっさんのフィリピン日記「色々工夫してますが・・・」では、語学留学先の英語のクラスで成果を上げるための Anki の活用法を紹介しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ピアノ練習への Anki 活用例</title>
+      <link>http://ankigene.github.io/post/piano-practice-anki/</link>
+      <pubDate>Sat, 28 Mar 2015 17:14:53 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/piano-practice-anki/</guid>
+      <description>&lt;p&gt;YouTube の動画 &amp;ldquo;Piano practice session using Anki&amp;rdquo; では、ピアノの演奏練習に Anki を活用している様子を収録しています。既存カードの譜面から切り取って新規カードとして発展させる方法も確認できます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>気象予報士取得のための Anki 活用法</title>
+      <link>http://ankigene.github.io/post/certified-weather-forecaster/</link>
+      <pubDate>Mon, 16 Mar 2015 16:18:39 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/certified-weather-forecaster/</guid>
+      <description>&lt;p&gt;高台からの観天望気のブログ投稿「便利ツール5　Anki」に、気象予報士試験のための Anki 活用法が紹介されました。Anki で暗記した項目や具体的な使い方具体的に解説しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>クイズ番組 Jeopardy! チャンピオンの Anki 活用法</title>
+      <link>http://ankigene.github.io/post/jeopardy-champion/</link>
+      <pubDate>Sat, 07 Mar 2015 18:40:09 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/jeopardy-champion/</guid>
+      <description>&lt;p&gt;Mental Floss の記事 &amp;ldquo;Our Interview With Jeopardy! Champion Arthur Chu&amp;rdquo; は、米国のクイズ番組  Jeopardy! でチャンピオンになった Arthur Chu 氏へのインタビューを収録しています。その中で Anki をどのように活用したか説明しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anki でギターの指板を暗記する</title>
+      <link>http://ankigene.github.io/post/anki-for-guitar-fretboard/</link>
+      <pubDate>Sat, 21 Feb 2015 16:00:37 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/anki-for-guitar-fretboard/</guid>
+      <description>&lt;p&gt;Know The Fretboard &amp;ldquo;Flashcards For Everything On The Guitar Fretboard&amp;rdquo; ではギターの指板を暗記するための Anki 単語帳 (要ユーザー登録) の使い方と、作成済みの Anki 単語帳へのリンクが紹介されています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anki を使って歌詞を覚える</title>
+      <link>http://ankigene.github.io/post/how-to-memorize-lyrics/</link>
+      <pubDate>Sat, 21 Feb 2015 15:40:30 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/how-to-memorize-lyrics/</guid>
+      <description>&lt;p&gt;Guitarhabits &amp;ldquo;How to Memorize Music and Lyrics Forever and Ever!&amp;rdquo; では、Anki を利用して歌詞 (lyrics) を覚える方法を具体的な設問を示しながら解説しています。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

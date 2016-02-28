@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>005 on Ankigene</title>
+    <link>http://ankigene.github.io/ankigene/005/</link>
+    <description>Recent content in 005 on Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 29 Jul 2014 19:20:23 +0000</lastBuildDate>
+    <atom:link href="http://ankigene.github.io/ankigene/005/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AwesomeTTS 公式ドキュメント</title>
+      <link>http://ankigene.github.io/post/awesometts-document/</link>
+      <pubDate>Tue, 29 Jul 2014 19:20:23 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/awesometts-document/</guid>
+      <description>&lt;p&gt;Text-to-Speech 機能を Anki に追加するアドオン AwesomeTTS v.1.0.0 が公式ドキュメントともに公開。このアドオンの設定方法、呼び出し方、利用 TTS 別の設定法が文書化されました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AnkiDroid 2.2 リリース</title>
+      <link>http://ankigene.github.io/post/ankidroid-2-2-released/</link>
+      <pubDate>Tue, 29 Jul 2014 17:10:04 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/ankidroid-2-2-released/</guid>
+      <description>&lt;p&gt;このリリースでレイアウト設計の見直しが行われました。多くの機能や設定項目が画面左上の Anki アイコンをクリックして開くドロワーにまとめられた点に注意です。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AnkiWeb 上での音声再生</title>
+      <link>http://ankigene.github.io/post/html5-audio-on-ankiweb/</link>
+      <pubDate>Tue, 29 Jul 2014 16:30:07 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/html5-audio-on-ankiweb/</guid>
+      <description>&lt;p&gt;AnkiWeb 上で音声の再生が可能になりました。HTML5 audio 要素を利用しています。表示するブラウザーのHTML5 オーディオのサポート状況によって動作が異なります。現在利用なフォーマットは、mp3 のみのようです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OS X Yosemite 動作情報</title>
+      <link>http://ankigene.github.io/post/os-x-yosemite/</link>
+      <pubDate>Tue, 29 Jul 2014 16:01:31 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/os-x-yosemite/</guid>
+      <description>&lt;p&gt;OS X Yosemite パブリックベータ版の公開にともなって、Anki の動作報告がサポートサイトに集まってきました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anki 2.0.28 リリース</title>
+      <link>http://ankigene.github.io/post/anki-2-0-28-released/</link>
+      <pubDate>Tue, 29 Jul 2014 16:00:07 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/anki-2-0-28-released/</guid>
+      <description>&lt;p&gt;この最新版のリリースには、メディア同期機能の改良、ブラウザーでの検索条件の保存などの新機能と多くの修正点が含まれています。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bot on Ankigene</title>
+    <link>http://ankigene.github.io/tags/bot/</link>
+    <description>Recent content in Bot on Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 21 Sep 2014 20:10:02 +0000</lastBuildDate>
+    <atom:link href="http://ankigene.github.io/tags/bot/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anki Tips をつぶやく Bot</title>
+      <link>http://ankigene.github.io/post/ankigene-bot/</link>
+      <pubDate>Sun, 21 Sep 2014 20:10:02 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/ankigene-bot/</guid>
+      <description>&lt;p&gt;Anki の Tips や用語解説を定期的にランダムにつぶやく Bot (@Ankigene) を公開しました。Anki Tips の記事と、公開済みの記事から How-to を抜き出して、ツイートのサイズにに収まるように編集しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anki のヒントをつぶやく Bot</title>
+      <link>http://ankigene.github.io/post/anki-tips-bot/</link>
+      <pubDate>Sat, 30 Aug 2014 21:15:37 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/anki-tips-bot/</guid>
+      <description>&lt;p&gt;Ankigne Bot (@Ankigene) は Anki Tips や Anki の用語など、Anki を使う上で役立つヒントをつぶやく Bot です。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>027 on Ankigene</title>
+    <link>http://ankigene.github.io/ankigene/027/</link>
+    <description>Recent content in 027 on Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 31 Dec 2015 11:59:35 +0000</lastBuildDate>
+    <atom:link href="http://ankigene.github.io/ankigene/027/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiDroid 同期サーバー変更可能に</title>
+      <link>http://ankigene.github.io/post/ankidroid-supports-custom-sync-server/</link>
+      <pubDate>Thu, 31 Dec 2015 11:59:35 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/ankidroid-supports-custom-sync-server/</guid>
+      <description>&lt;p&gt;AnkiDroid 2.6Alpha3 より同期サーバーが選択できるようになりました。この機能によって個人的に立ち上げた Anki Sync Server のようなサーバーをデータの同期先に指定できるようになります。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AwesomeTTS における Google Translate TTS サポート終了</title>
+      <link>http://ankigene.github.io/post/awesometts-ends-gtts-support/</link>
+      <pubDate>Sun, 27 Dec 2015 17:30:54 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/awesometts-ends-gtts-support/</guid>
+      <description>&lt;p&gt;アドオン AwesomeTTS の作者によれば、Google Translate TTS サービスのサポートを終了するとのことです。既存のデータを Google TTS から変更する際に参考となる、利用可能な TTS の一覧とその詳細は AwesomeTTS サイトで紹介しています。なお、標準設定は Windows では SAPI、OS X では SAY コマンド、Linux では Yandex Translate に変更とのことです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AnkiDroid 書式ガイド</title>
+      <link>http://ankigene.github.io/post/ankidroid-advanced-formatting/</link>
+      <pubDate>Sun, 27 Dec 2015 17:00:26 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/ankidroid-advanced-formatting/</guid>
+      <description>&lt;p&gt;AnkiDroid 2.5 からノートタイプの編集ができるようになりました。これにあわせて AnkiDroid 用の書式ガイドが GitHub の Wiki 上に公開になりました。垂直方向のセンタリングやワードラップ、ナイトモードのカスタム方法などが紹介されています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AnkiDroid 2.5 リリース</title>
+      <link>http://ankigene.github.io/post/ankidroid-2-5/</link>
+      <pubDate>Sun, 27 Dec 2015 16:30:42 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/ankidroid-2-5/</guid>
+      <description>&lt;p&gt;AnkiDroid 2.5 シリーズでは、ユーザーインターフェイスを一新しました。ナイトモードも新しくなり、ノートタイプの管理やカードブラウザーでの検索条件の保存も AnkiDroid 上でできるようになりました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>保育士試験のための活用法</title>
+      <link>http://ankigene.github.io/post/certificate-for-childcare-worker/</link>
+      <pubDate>Sun, 27 Dec 2015 14:00:36 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/certificate-for-childcare-worker/</guid>
+      <description>&lt;p&gt;☆妊活と保育士を頑張るブログ☆の投稿「合格のために工夫したこと(筆記)②」では、AnkiDroid を活用した保育士試験の過去問や予想問題の復習方法を紹介しています。AnkiDroid の読み上げ機能を利用した音声による復習が効果的なのだそうです。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

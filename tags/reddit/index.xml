@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reddit on Ankigene</title>
+    <link>http://ankigene.github.io/tags/reddit/</link>
+    <description>Recent content in Reddit on Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 07 Feb 2016 23:30:39 +0000</lastBuildDate>
+    <atom:link href="http://ankigene.github.io/tags/reddit/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3年間でフランス語 DALF C1 を取るためにやったこと</title>
+      <link>http://ankigene.github.io/post/3years-for-french-c1/</link>
+      <pubDate>Sun, 07 Feb 2016 23:30:39 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/3years-for-french-c1/</guid>
+      <description>&lt;p&gt;reddit の投稿 &amp;ldquo;3 years ago I started teaching myself French and I passed C1 today!&amp;rdquo; では、台湾人の方が3年でフランス語 C1 レベルの DALF を取得するために行った学習内容を説明しています。ネットの動画やラジオの活用に加えて、早い段階で小説を読み始めるのが特徴的です。一番最初の本はタラ・ダンカン (Tara Duncun) シリーズだそうです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>突然外国語が分かり出す決定的な瞬間</title>
+      <link>http://ankigene.github.io/post/aha-eureka-moment/</link>
+      <pubDate>Thu, 28 Jan 2016 15:15:54 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/aha-eureka-moment/</guid>
+      <description>&lt;p&gt;Reddit の投稿 &amp;lsquo;Is there such thing as an &amp;ldquo;aha / eureka&amp;rdquo; moment in language learning and why?&amp;rsquo; では、学習している外国語が突然分かり出す瞬間とはどのようなものだったか、ドイツ語、フランス語、スペイン語、アラビア語エジプト方言などについてコメントが寄せられています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>三年間 Anki を続けたら</title>
+      <link>http://ankigene.github.io/post/anki-for-3years/</link>
+      <pubDate>Mon, 18 Jan 2016 18:00:21 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/anki-for-3years/</guid>
+      <description>&lt;p&gt;Reddit の投稿 &amp;ldquo;Anki every day for 3 years straight&amp;rdquo; では、20年間のブランクの後、イタリア語を再開して CEFR C2レベルに達するまで Anki をどう活用したか説明しています。統計情報もリンクしているので、詳しい学習状況も確認できます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>毎日 Anki を使って数年経つとどうなるの</title>
+      <link>http://ankigene.github.io/post/anki-experience-for-years/</link>
+      <pubDate>Mon, 01 Jun 2015 01:50:53 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/anki-experience-for-years/</guid>
+      <description>&lt;p&gt;reddit での質問 &amp;ldquo;I was wondering what peoples experience is like after a few years of daily anki&amp;hellip; is it like a superpower having vast knowledge always at hand?&amp;rdquo; に対して、実際に年単位でのAnki 利用経験者からのコメントが集まっています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>医学生にとっての適正な学習枚数</title>
+      <link>http://ankigene.github.io/post/proper-limits-a-day/</link>
+      <pubDate>Sun, 05 Oct 2014 23:45:00 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/proper-limits-a-day/</guid>
+      <description>&lt;p&gt;reddit に膨大な暗記量に頭を悩ませている米国の医学生たちから、Anki で学習するカードの適正学習枚数について、失敗談も含めて投稿されています。進級試験の対応も含めた Anki 活用法を知ることができます。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

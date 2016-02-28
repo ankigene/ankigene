@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>記憶 on Ankigene</title>
+    <link>http://ankigene.github.io/tags/%E8%A8%98%E6%86%B6/</link>
+    <description>Recent content in 記憶 on Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 09 Aug 2014 12:18:28 +0000</lastBuildDate>
+    <atom:link href="http://ankigene.github.io/tags/%E8%A8%98%E6%86%B6/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>10分歩いてからAnkiしよう</title>
+      <link>http://ankigene.github.io/post/walk-before-anki/</link>
+      <pubDate>Sat, 09 Aug 2014 12:18:28 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/walk-before-anki/</guid>
+      <description>&lt;p&gt;イリノイ大学のCarlos R. Salasらによる研究によると、30の名詞を記憶する実験で、覚える前に10分歩いた人は、25％良い結果を得たそうです。駅まで歩いて電車の中でAnkiを使う、それだけで効果あるの？&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

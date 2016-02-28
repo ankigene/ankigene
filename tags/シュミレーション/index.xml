@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>シュミレーション on Ankigene</title>
+    <link>http://ankigene.github.io/tags/%E3%82%B7%E3%83%A5%E3%83%9F%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+    <description>Recent content in シュミレーション on Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 30 Jan 2016 09:00:30 +0000</lastBuildDate>
+    <atom:link href="http://ankigene.github.io/tags/%E3%82%B7%E3%83%A5%E3%83%9F%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiDroid シュミレーションによる学習量予測</title>
+      <link>http://ankigene.github.io/post/ankidroid-stats-simulation/</link>
+      <pubDate>Sat, 30 Jan 2016 09:00:30 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/ankidroid-stats-simulation/</guid>
+      <description>&lt;p&gt;AnkiDroid 2.6alpha7 では、学習量を予測するシュミレーション機能が追加になりました。ユーザーが設定した正解率 (初期設定では 90%) で学習量を計算します。この機能は AnkiDroid のアドオンとして Jeffrey van Prehn が開発したものです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>復習スケジュールのシュミレーション</title>
+      <link>http://ankigene.github.io/post/random-simulator/</link>
+      <pubDate>Sat, 18 Oct 2014 22:20:25 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/random-simulator/</guid>
+      <description>&lt;p&gt;Anki Random Simulator は、モンテカルロ法を使って Anki の復習スケジュールをシュミレーションします。
+このサイトでは、正解率90%、5年間に設定していますが、GitHub でソースコードを公開していますので、設定変更してシュミレーションできます。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>004 on Ankigene</title>
+    <link>http://ankigene.github.io/ankigene/004/</link>
+    <description>Recent content in 004 on Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 18 Jul 2014 11:30:26 +0000</lastBuildDate>
+    <atom:link href="http://ankigene.github.io/ankigene/004/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anki活用した宅建資格独学法</title>
+      <link>http://ankigene.github.io/post/anki-for-real-estate-transaction-specialist/</link>
+      <pubDate>Fri, 18 Jul 2014 11:30:26 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/anki-for-real-estate-transaction-specialist/</guid>
+      <description>&lt;p&gt;3ヶ月の独学で宅地建物取引主任者資格試験に一発合格した勉強法が公開されました。
+この方法では、過去問10年分を全て暗記するのにAnkiと共有単語帳を活用しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>記憶術の古典的な基本書</title>
+      <link>http://ankigene.github.io/post/memory-william-walker-atkinson/</link>
+      <pubDate>Fri, 18 Jul 2014 11:00:29 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/memory-william-walker-atkinson/</guid>
+      <description>&lt;p&gt;ウィリアム・Ｗ・アトキンソンの「記憶力」は、記憶する能力を高める基本的な訓練法を学ぶことができます。記憶術を使うのは Anki が初めてという方は、この本で記憶術の基礎知識を身につけておくとよいでしょう。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anki マニュアル &amp;#8211; 翻訳言語拡大中</title>
+      <link>http://ankigene.github.io/post/anki-manual-translation/</link>
+      <pubDate>Fri, 18 Jul 2014 10:50:53 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/anki-manual-translation/</guid>
+      <description>&lt;p&gt;Ankiのマニュアルは、既に日本語、イタリア語、フランス語に翻訳されています。ドイツ語、ポーランド語、中国語の翻訳作業が進んでいて、作業内容を確認することもできます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Android でも PC 版 Anki と同じ統計情報</title>
+      <link>http://ankigene.github.io/post/ankistats-for-ankidroid/</link>
+      <pubDate>Fri, 18 Jul 2014 10:45:18 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/ankistats-for-ankidroid/</guid>
+      <description>&lt;p&gt;Android アプリ AnkiStats は AnkiDroid の学習データを使って、PC版 Anki と同じ形式の統計情報を表示します。(追記) この機能は AnkiDroid 2.3 の統計情報として採用されました。最新の Alpha 版で確認できます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>15歳のアーティストの移動時間の活用法</title>
+      <link>http://ankigene.github.io/post/an-15-year-old-artist-uses-anki/</link>
+      <pubDate>Fri, 18 Jul 2014 10:30:09 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/an-15-year-old-artist-uses-anki/</guid>
+      <description>&lt;p&gt;15歳のアーティスト、當山みれいさんは、音楽活動の合間にAnkiDroidを使って英文を暗記しているとのことです。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

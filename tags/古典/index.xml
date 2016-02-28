@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>古典 on Ankigene</title>
+    <link>http://ankigene.github.io/tags/%E5%8F%A4%E5%85%B8/</link>
+    <description>Recent content in 古典 on Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 14 Jan 2015 12:45:22 +0000</lastBuildDate>
+    <atom:link href="http://ankigene.github.io/tags/%E5%8F%A4%E5%85%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>単語帳 変体仮名の読み方</title>
+      <link>http://ankigene.github.io/post/hentaigana/</link>
+      <pubDate>Wed, 14 Jan 2015 12:45:22 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/hentaigana/</guid>
+      <description>&lt;p&gt;AnkiWeb の共有単語帳に変体仮名 (異体仮名) の読み方を練習する単語帳が登録されました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>単語帳 万葉仮名の読み方</title>
+      <link>http://ankigene.github.io/post/manyougana/</link>
+      <pubDate>Wed, 14 Jan 2015 12:30:09 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/manyougana/</guid>
+      <description>&lt;p&gt;AnkiWeb の共有単語帳に万葉仮名の読み方を練習する単語帳が登録されました。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

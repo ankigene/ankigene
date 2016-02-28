@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>同期 on Ankigene</title>
+    <link>http://ankigene.github.io/tags/%E5%90%8C%E6%9C%9F/</link>
+    <description>Recent content in 同期 on Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 03 Jan 2016 20:00:41 +0000</lastBuildDate>
+    <atom:link href="http://ankigene.github.io/tags/%E5%90%8C%E6%9C%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiDroid でバックグラウンド同期</title>
+      <link>http://ankigene.github.io/post/ankidroid-background-sync/</link>
+      <pubDate>Sun, 03 Jan 2016 20:00:41 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/ankidroid-background-sync/</guid>
+      <description>&lt;p&gt;AnkiDroid 2.5 は、オートメーションアプリの Tasker を利用したバックグラウンド同期をサポートしています。GitHub の Wiki に設定方法とプロファイルのサンプルが掲載されました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AnkiDroid 同期サーバー変更可能に</title>
+      <link>http://ankigene.github.io/post/ankidroid-supports-custom-sync-server/</link>
+      <pubDate>Thu, 31 Dec 2015 11:59:35 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/ankidroid-supports-custom-sync-server/</guid>
+      <description>&lt;p&gt;AnkiDroid 2.6Alpha3 より同期サーバーが選択できるようになりました。この機能によって個人的に立ち上げた Anki Sync Server のようなサーバーをデータの同期先に指定できるようになります。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

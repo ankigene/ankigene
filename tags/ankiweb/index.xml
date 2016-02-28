@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ankiweb on Ankigene</title>
+    <link>http://ankigene.github.io/tags/ankiweb/</link>
+    <description>Recent content in Ankiweb on Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 06 Mar 2015 10:30:02 +0000</lastBuildDate>
+    <atom:link href="http://ankigene.github.io/tags/ankiweb/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiWeb のフリーミアム化に対する開発者からの回答</title>
+      <link>http://ankigene.github.io/post/ankiweb-freemium/</link>
+      <pubDate>Fri, 06 Mar 2015 10:30:02 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/ankiweb-freemium/</guid>
+      <description>&lt;p&gt;AnkiWeb の契約条件に &amp;ldquo;Freemium&amp;rdquo; の可能性を留保する文言が入っていることに対して、Anki の開発者より Anki サポートフォーラム のスレッド&amp;rdquo;
+Question about changes to conditions regarding Ipad App&amp;rdquo; の中で回答がありました。この文言は 2011 年から既に存在し、短期的な計画の中にフリーミアム化は入っていないそうです。仮にそうなった場合の既存ユーザーに対する方針も触れています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AnkiWeb 契約条件更新</title>
+      <link>http://ankigene.github.io/post/ankiweb-update-terms-conditions/</link>
+      <pubDate>Fri, 06 Mar 2015 10:20:07 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/ankiweb-update-terms-conditions/</guid>
+      <description>&lt;p&gt;AnkiWeb の Terms and Conditions (契約条件) が更新され、AnkiWeb のアカウントを継続利用するためには、Webブラウザーでサインインした上でこの契約条件を承諾する必要があります。AnkiWeb に同期したコンテンツのプライバシー、共有コンテンツを公開する際の遵守すべき条件、運営側の免責事項などこれまでよりも明確に記述されています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>広告ブロックアプリと AnkiDroid の同期機能</title>
+      <link>http://ankigene.github.io/post/adblock-ankidroid-sync/</link>
+      <pubDate>Fri, 06 Mar 2015 10:00:06 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/adblock-ankidroid-sync/</guid>
+      <description>&lt;p&gt;Anki サポートフォーラムに広告ブロックアプリを利用すると AnkiDroid と AnkiWeb との同期に問題が発生することが報告されました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AnkiWeb 上での音声再生</title>
+      <link>http://ankigene.github.io/post/html5-audio-on-ankiweb/</link>
+      <pubDate>Tue, 29 Jul 2014 16:30:07 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/html5-audio-on-ankiweb/</guid>
+      <description>&lt;p&gt;AnkiWeb 上で音声の再生が可能になりました。HTML5 audio 要素を利用しています。表示するブラウザーのHTML5 オーディオのサポート状況によって動作が異なります。現在利用なフォーマットは、mp3 のみのようです。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>003 on Ankigene</title>
+    <link>http://ankigene.github.io/ankigene/003/</link>
+    <description>Recent content in 003 on Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 16 May 2014 21:30:24 +0000</lastBuildDate>
+    <atom:link href="http://ankigene.github.io/ankigene/003/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>学術英語の学習辞典</title>
+      <link>http://ankigene.github.io/post/eap-dictionary/</link>
+      <pubDate>Fri, 16 May 2014 21:30:24 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/eap-dictionary/</guid>
+      <description>&lt;p&gt;先日出版の Oxford Learner&amp;rsquo;s Dictionary of Academic English は学術英語ための学習辞典です。学術英語の語義を2300の頻出定義語で説明。学術文献のコーパスから実用性の高い例文を収録。EAP学習者向けのユニークな語彙学習ツールです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>音楽家のレパートリと Anki</title>
+      <link>http://ankigene.github.io/post/musical-repertoire/</link>
+      <pubDate>Thu, 15 May 2014 15:20:09 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/musical-repertoire/</guid>
+      <description>&lt;p&gt;スズキ・メソードで歌とバイオリンを学んでいる音楽家から Anki を使ったレパートリ管理の事例がサポートサイトに寄せられました。期日設定の上限、復習の際の難易の判断について具体的に解説しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>米国医師国家試験のためのAnki FAQ</title>
+      <link>http://ankigene.github.io/post/anki-for-medical-school-faq-for-the-usmle/</link>
+      <pubDate>Mon, 12 May 2014 18:00:28 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/anki-for-medical-school-faq-for-the-usmle/</guid>
+      <description>&lt;p&gt;米国の医師国家試験 (USMLE) 受験者に向けた Anki の効果的な使い方について FAQ が取りまとめられました。復習の設定やノートの記述内容など具体的に説明しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anki が Hacker Newsで話題になる</title>
+      <link>http://ankigene.github.io/post/anki-on-hacker-news/</link>
+      <pubDate>Mon, 12 May 2014 18:00:25 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/anki-on-hacker-news/</guid>
+      <description>&lt;p&gt;ソーシャルニュースサイト Hacker NewsでAnkiが突然話題になり100件以上のコメントが集まりました。AnkiやSRSの最新トピックスがまとめ読みできる貴重な情報源となりました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1万枚カードからの教訓</title>
+      <link>http://ankigene.github.io/post/anki-10000-cards-later/</link>
+      <pubDate>Mon, 12 May 2014 18:00:07 +0000</pubDate>
+      
+      <guid>http://ankigene.github.io/post/anki-10000-cards-later/</guid>
+      <description>&lt;p&gt;1 年で 1 万枚のカードを Anki で学習した結果得られた効果的な利用方法が6つのトピックスにまとめています。Why形式の質問、画像、関連づけ、一つのデッキにまとめる、双方向の関連、何でも追加する。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
