@@ -20,16 +20,6 @@
     </item>
     
     <item>
-      <title>アドオンの一括管理</title>
-      <link>http://ankigene.github.io/post/addon-control/</link>
-      <pubDate>Tue, 06 May 2014 04:30:56 +0000</pubDate>
-      
-      <guid>http://ankigene.github.io/post/addon-control/</guid>
-      <description>&lt;p&gt;Ankiのアドオン管理アドオン Addon Control が開発中です。最新バージョンでは、専用画面でアドオンのインストール、アンインストール、検索が出来ます。インストールの際にダウンロードコードの入力や、Ankiの再起動が不要になります。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>テキスト購読中心の語彙学習</title>
       <link>http://ankigene.github.io/post/learning-thai-vocabulary-with-anki-and-lwt/</link>
       <pubDate>Sat, 03 May 2014 00:00:38 +0000</pubDate>

@@ -6,18 +6,8 @@
     <description>Recent content in Latex on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Jun 2015 00:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2014 15:00:28 +0000</lastBuildDate>
     <atom:link href="http://ankigene.github.io/tags/latex/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>TikZ を使って図やグラフを表示するための設定方法</title>
-      <link>http://ankigene.github.io/post/tikz-settings-for-anki/</link>
-      <pubDate>Mon, 01 Jun 2015 00:00:48 +0000</pubDate>
-      
-      <guid>http://ankigene.github.io/post/tikz-settings-for-anki/</guid>
-      <description>&lt;p&gt;BeatsMe1978 さんの Qiita への投稿「Ankiで図を表示させるのにTikZを使用する設定」では、Anki のカードに図やグラフをTikZを使って表示する必要な Anki の環境設定やアドオンの設定方法がまとめられています。&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>TeX Live できれいな数式表示</title>
