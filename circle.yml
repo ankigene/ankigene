@@ -28,7 +28,7 @@ test:
   post:
     - hugo -v
     # https://github.com/gjtorikian/html-proofer
-    - bundle exec htmlproof ./public --disable-external --alt-ignore '/.*/' --file-ignore /.*vendor\/bundle*/
+    - bundle exec htmlproof ./public --external_only --alt-ignore '/.*/' --file-ignore /.*vendor\/bundle*/
 
 deployment:
   master:
