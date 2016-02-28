@@ -10,23 +10,30 @@ checkout:
 
 machine:
   timezone: Asia/Tokyo
+  ruby:
+    version: 2.2.3
 
 dependencies:
   pre:
     - go get -v github.com/spf13/hugo
     - git config --global user.name "CircleCI"
     - git config --global user.email "circleci@example.com"
+  override:
+    # http://stackoverflow.com/a/31032379
+    - bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
 
 test:
-  override:
-   - echo
+  pre:
+    - git clone git@github.com:ankigene/ankigene.github.io.git public
+  post:
+    - hugo -v
+    # https://github.com/gjtorikian/html-proofer
+    - bundle exec htmlproof ./public --disable-external --alt-ignore '/.*/' --file-ignore /.*vendor\/bundle*/
 
 deployment:
   master:
     branch: develop
     commands:
-      - git clone git@github.com:ankigene/ankigene.github.io.git public
-      - hugo
       - cd public && git add .
       - cd public && git commit -m "[ci skip] publish"
       - cd public && git push origin master
