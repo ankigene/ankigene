@@ -130,8 +130,8 @@ div.content-section:nth-child(odd) {
 
 .element {
     float: right; 
-    width: 360px;
-    height: 240px;
+    width: 300px;
+    height: 200px;
 		margin: 0 1em .5em;
     border-radius: 10px;
     -webkit-border-radius: 10px;
@@ -234,10 +234,6 @@ p.copyright {
 
     ul.contact-social-buttons > li:last-child {
         margin-bottom: 0;
-    }
-    .element {
-        width: 300px;
-        height: 200px;
     }
 	  #logo {
 	    font-size: 12em;
