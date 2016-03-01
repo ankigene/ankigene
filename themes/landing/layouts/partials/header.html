@@ -11,7 +11,7 @@
 		    </figure>
 				</div>
 				<div class="intro-message col-md-8">
-					<h1>{{ .Site.Title }}</h1>
+					<h1>{{ .Site.Title }}{{ if (ne .Data.Plural nil) }}{{ if (ne (title .Data.Plural) .Title) }} #{{ .Title }}{{ end }}{{ end }}</h1>
 					<h3>{{ .Site.Params.description }}</h3>
 					<hr class="intro-divider">
 							<ul class="icons">
