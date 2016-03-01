@@ -35,5 +35,5 @@ deployment:
       - git clone git@github.com:ankigene/ankigene.github.io.git public
       - hugo
       - cd public && git add .
-      - cd public && git commit -m "[ci skip] publish"
+      - cd public && git commit -m "[ci skip] publish build ${CIRCLE_BUILD_NUM} (${CIRCLE_SHA1})"
       - cd public && git push origin master
