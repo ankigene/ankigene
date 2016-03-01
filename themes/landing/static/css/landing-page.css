@@ -45,7 +45,7 @@ h6 {
 
 .intro-message > h1 {
     font-family: -apple-system-subheadline, "Hiragino Kaku Gothic Pro", "Meiryo", "Source Han Sans", Helvetica, sans-serif;
-    font-size: 5em;
+    font-size: 4.5em;
 }
 
 .intro-divider {
@@ -309,8 +309,8 @@ ul.icons {
     cursor: default;
     list-style: none;
     padding-left: 0;
-		background: rgba(128,128,128,0.05);
-		border-radius: 1em;
+		background: rgba(204, 204, 204, 0.15);
+		border-radius: 2em;
 		padding: 1em;
 		text-align: center;
 }
@@ -326,15 +326,15 @@ ul.icons li a {
     border-bottom: none;
     position: relative;
 		color: #a0a0a0;
-	  -webkit-transition: all 1.25s ease-in;
-	  -moz-transition: all 1.25s ease-in;
-	  -ms-transition: all 1.25s ease-in;
-	  transition: all 1.25s ease-in;
+	  -webkit-transition: all 1s ease-in-out;
+	  -moz-transition: all 1s ease-in-out;
+	  -ms-transition: all 1s ease-in-out;
+	  transition: all 1s ease-in-out;
 }
 
 ul.icons li a:hover {
   text-decoration: none;
-		color: #333;
+  color: rgba(247, 249, 252, 0.9);
 }
 
 @font-face {
