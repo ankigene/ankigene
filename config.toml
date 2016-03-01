@@ -35,5 +35,7 @@ ankigene = "ankigene"
     header_link_color="#777"
     header_link_hover_color="rgb(51, 51, 51)"
 
-	topitem = 5
+    topitem = 5
+		twitter_user_name = "@Ankigene"
+		site_Image = ""
 

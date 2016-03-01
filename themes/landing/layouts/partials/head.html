@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ .Site.LanguageCode }}" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# {{ if .IsHome }}website: http://ogp.me/ns/website#{{ else }}article: http://ogp.me/ns/article#{{ end }}">
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <base href="{{ .Site.BaseURL }}">
-    <title>{{ .Title }}{{if ne .Data.Plural nil }} | {{ if eq (title .Data.Plural) .Title }}一覧{{ else }}{{ title .Data.Singular }}{{ end }}{{ end }}</title>
+
+    {{ partial "meta.html" . }}
+
 
     <!-- Bootstrap Core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
