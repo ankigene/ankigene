@@ -25,7 +25,7 @@ test:
   post:
     - hugo -v
     # https://github.com/gjtorikian/html-proofer
-    - bundle exec htmlproof ./public --external_only --only-4xx --href-ignore '/anki.tenderapp.com/' --alt-ignore '/.*/' --file-ignore /.*vendor\/bundle*/
+    - bundle exec htmlproof ./public --only-4xx --href-ignore '/anki.tenderapp.com/','/ankigene.github.io/' --alt-ignore '/.*/' --file-ignore /.*vendor\/bundle*/
     - rm -rf ./public/
 
 deployment:
