@@ -339,11 +339,11 @@ ul.icons li a:hover {
 
 @font-face {
     font-family: 'ankigene';
-    src:    url('/fonts/ankigene.eot?33q81i');
-    src:    url('/fonts/ankigene.eot?33q81i#iefix') format('embedded-opentype'),
-        url('/fonts/ankigene.ttf?33q81i') format('truetype'),
-        url('/fonts/ankigene.woff?33q81i') format('woff'),
-        url('/fonts/ankigene.svg?33q81i#ankigene') format('svg');
+    src:    url('/fonts/ankigene.eot');
+    src:    url('/fonts/ankigene.eot#iefix') format('embedded-opentype'),
+        url('/fonts/ankigene.ttf') format('truetype'),
+        url('/fonts/ankigene.woff') format('woff'),
+        url('/fonts/ankigene.svg#ankigene') format('svg');
     font-weight: normal;
     font-style: normal;
 }
