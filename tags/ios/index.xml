@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ios on Ankigene</title>
-    <link>http://ankigene.github.io/tags/ios/</link>
+    <link>https://ankigene.github.io/tags/ios/</link>
     <description>Recent content in Ios on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 23 Jan 2015 15:15:23 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiMobile 2.0.17 リリース</title>
-      <link>http://ankigene.github.io/post/ankimobile-2-0-17/</link>
+      <link>https://ankigene.github.io/post/ankimobile-2-0-17/</link>
       <pubDate>Fri, 23 Jan 2015 15:15:23 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankimobile-2-0-17/</guid>
+      <guid>https://ankigene.github.io/post/ankimobile-2-0-17/</guid>
       <description>&lt;p&gt;Anki の iOS アプリ AnkiMobile の最新版は、2015/1/5 公開の 2.0.17 です。前回のバージョンからたくさんのメディアファイルを同期した時にクラッシュする問題を修正しています。このバージョンから開発元の表示が Ankitects Pty Ltd に変わりました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiMobile 2.0.13 の問題点</title>
-      <link>http://ankigene.github.io/post/ankimobile-2013-crash-on-syncing/</link>
+      <link>https://ankigene.github.io/post/ankimobile-2013-crash-on-syncing/</link>
       <pubDate>Thu, 30 Oct 2014 20:50:11 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankimobile-2013-crash-on-syncing/</guid>
+      <guid>https://ankigene.github.io/post/ankimobile-2013-crash-on-syncing/</guid>
       <description>&lt;p&gt;&lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;29&lt;/sub&gt; リリースの Anki iOS アプリ AnkiMobile 2.0.13 には、以前のバージョンからアップグレードすると同期中にクラッシュする問題を抱えています。修正版公開までの回避策はメディア同期を無効にします。設定手順 Preference &amp;gt; Syncing &amp;gt; Transfer Media で [OFF] を選択。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiMobile 2.0.12 リリース</title>
-      <link>http://ankigene.github.io/post/ankimobile-2-0-12/</link>
+      <link>https://ankigene.github.io/post/ankimobile-2-0-12/</link>
       <pubDate>Fri, 24 Oct 2014 15:00:39 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankimobile-2-0-12/</guid>
+      <guid>https://ankigene.github.io/post/ankimobile-2-0-12/</guid>
       <description>&lt;p&gt;Anki iOS アプリ AnkiMobile 2.0.12 がリリースされました。iPhone 6 画面対応と iOS8 での問題の修正が行われています。自動アップデートを有効にしている方はダウンロード済みかもしれません。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiMobile 次期バージョンについて</title>
-      <link>http://ankigene.github.io/post/ankimobile-update/</link>
+      <link>https://ankigene.github.io/post/ankimobile-update/</link>
       <pubDate>Sun, 05 Oct 2014 23:00:11 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankimobile-update/</guid>
+      <guid>https://ankigene.github.io/post/ankimobile-update/</guid>
       <description>&lt;p&gt;作者からサポートサイトに、Anki の iOS アプリの次期バージョンのリリース時期の見込みと、変更内容について説明が投稿されました。報告済みの iOS8上でのノートを追加する際のノートタイプと保存先単語帳の選択の問題に加えて、重大な問題点が修正されたようです。追加機能としては、新しい iPhone の画面サポートとユーザーインターフェイスの向上をあげています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>iOS 8 互換性情報</title>
-      <link>http://ankigene.github.io/post/ankimobile-ios8-compatibility/</link>
+      <link>https://ankigene.github.io/post/ankimobile-ios8-compatibility/</link>
       <pubDate>Thu, 18 Sep 2014 15:00:36 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankimobile-ios8-compatibility/</guid>
+      <guid>https://ankigene.github.io/post/ankimobile-ios8-compatibility/</guid>
       <description>&lt;p&gt;サポートサイトに AnkiMobile の iOS 8 互換性について報告があり、早速 Knowledge Base が作成されました。最新版 2.0.11 はノート追加画面で単語帳 (Deck) とノートタイプの選択が出来ないとのことです。開発者から対応版を出来るだけ早くリリースするとの回答がありました。現在、把握している iOS 8 の問題はこの件だけだそうです。&lt;/p&gt;
 </description>
     </item>

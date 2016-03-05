@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Toeic on Ankigene</title>
-    <link>http://ankigene.github.io/tags/toeic/</link>
+    <link>https://ankigene.github.io/tags/toeic/</link>
     <description>Recent content in Toeic on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 13 Aug 2014 00:25:25 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/toeic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/toeic/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>学習オプション設定例</title>
-      <link>http://ankigene.github.io/post/example-of-study-options/</link>
+      <link>https://ankigene.github.io/post/example-of-study-options/</link>
       <pubDate>Wed, 13 Aug 2014 00:25:25 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/example-of-study-options/</guid>
+      <guid>https://ankigene.github.io/post/example-of-study-options/</guid>
       <description>&lt;p&gt;Anki に使い慣れてくると既定の Anki の学習オプションでは飽き足らなくなってきます。ゼムリア通信「【Ankidroid】アンキドロイドをTOEICの学習に使う」では、TOEIC 問題集のための学習オプションカスタマイズ例が紹介されています。&lt;/p&gt;
 </description>
     </item>

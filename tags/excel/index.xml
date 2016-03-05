@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Excel on Ankigene</title>
-    <link>http://ankigene.github.io/tags/excel/</link>
+    <link>https://ankigene.github.io/tags/excel/</link>
     <description>Recent content in Excel on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 06 Feb 2015 10:00:49 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/excel/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiDroid の使い方</title>
-      <link>http://ankigene.github.io/post/ankidroid-tutorial/</link>
+      <link>https://ankigene.github.io/post/ankidroid-tutorial/</link>
       <pubDate>Fri, 06 Feb 2015 10:00:49 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-tutorial/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-tutorial/</guid>
       <description>&lt;p&gt;履歴書に書ける！　簡単に取得できる資格の記事「AnkiDroid（単語帳アプリ）の使い方」は、カードの作り方、Anki PC版を活用した Excel データの読み込み方、AnkiWeb を利用したスマホ と PC 連携について説明するチュートリアルです。&lt;/p&gt;
 </description>
     </item>

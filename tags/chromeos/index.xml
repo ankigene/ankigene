@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chromeos on Ankigene</title>
-    <link>http://ankigene.github.io/tags/chromeos/</link>
+    <link>https://ankigene.github.io/tags/chromeos/</link>
     <description>Recent content in Chromeos on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 07 Apr 2015 14:00:55 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/chromeos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/chromeos/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PC 上で AnkiDroid を動かす方法</title>
-      <link>http://ankigene.github.io/post/ankidroid-on-pc-with-arc-welder/</link>
+      <link>https://ankigene.github.io/post/ankidroid-on-pc-with-arc-welder/</link>
       <pubDate>Tue, 07 Apr 2015 14:00:55 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-on-pc-with-arc-welder/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-on-pc-with-arc-welder/</guid>
       <description>&lt;p&gt;Capricious POV「ARC Welderを使いPC上でAnkiDroidを動かす」では、Chrome ブラウザ上で Android アプリを動かすための Chrome アプリ ARC Welder を使って、PC 上で AnkiDroid を起動する方法を紹介しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid 2.4 リリース</title>
-      <link>http://ankigene.github.io/post/ankidroid-2-4-released/</link>
+      <link>https://ankigene.github.io/post/ankidroid-2-4-released/</link>
       <pubDate>Thu, 29 Jan 2015 17:50:54 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-2-4-released/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-2-4-released/</guid>
       <description>&lt;p&gt;このリリースでは、日本語版マニュアルとの連携、作成済みのカードのノートタイプの変更、カードテンプレートの表示削除、動画再生のサポートなどが行われました。また、Chromebook のサポートがこのバージョンから正式に行われています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Chromebook で AnkiDroid を使う</title>
-      <link>http://ankigene.github.io/post/ankidroid-on-chromebook/</link>
+      <link>https://ankigene.github.io/post/ankidroid-on-chromebook/</link>
       <pubDate>Sat, 20 Sep 2014 18:50:41 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-on-chromebook/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-on-chromebook/</guid>
       <description>&lt;p&gt;AnkiDroid Forum への投稿 &amp;ldquo;AnkiDroid running on Chromebooks&amp;rdquo; では apk を Chrome OS 用に変換するツール Chromeos-apk を使って、AnkiDroid を Chromebook 上で実行する方法を紹介しています。(追記)  AnkiDroid 2.4 で Chromebook が正式サポートされました。&lt;/p&gt;
 </description>
     </item>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>授業 on Ankigene</title>
-    <link>http://ankigene.github.io/tags/%E6%8E%88%E6%A5%AD/</link>
+    <link>https://ankigene.github.io/tags/%E6%8E%88%E6%A5%AD/</link>
     <description>Recent content in 授業 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 24 Aug 2014 01:20:31 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/%E6%8E%88%E6%A5%AD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/%E6%8E%88%E6%A5%AD/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>クラスで Anki をつかう2</title>
-      <link>http://ankigene.github.io/post/anki-in-classroom/</link>
+      <link>https://ankigene.github.io/post/anki-in-classroom/</link>
       <pubDate>Sun, 24 Aug 2014 01:20:31 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-in-classroom/</guid>
+      <guid>https://ankigene.github.io/post/anki-in-classroom/</guid>
       <description>&lt;p&gt;Ankiサポートサイトに、教師が作成した単語帳のクラスでの配布方法についてユーザーからの利用事例が寄せられました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>クラスで Anki をつかう</title>
-      <link>http://ankigene.github.io/post/anki-in-the-class/</link>
+      <link>https://ankigene.github.io/post/anki-in-the-class/</link>
       <pubDate>Sat, 26 Apr 2014 14:23:58 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-in-the-class/</guid>
+      <guid>https://ankigene.github.io/post/anki-in-the-class/</guid>
       <description>&lt;p&gt;語学の授業で複数の生徒が同じ内容を Anki 単語帳を使って学習し、進捗管理をする場合の指導者の注意点についてサポートフォーラムで議論がありました。&lt;/p&gt;
 </description>
     </item>

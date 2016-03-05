@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Json on Ankigene</title>
-    <link>http://ankigene.github.io/tags/json/</link>
+    <link>https://ankigene.github.io/tags/json/</link>
     <description>Recent content in Json on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 09 Feb 2016 20:00:16 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/json/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/json/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>メディアの登録を強化する JSON 読み込みアドオン</title>
-      <link>http://ankigene.github.io/post/json-importer-addon/</link>
+      <link>https://ankigene.github.io/post/json-importer-addon/</link>
       <pubDate>Tue, 09 Feb 2016 20:00:16 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/json-importer-addon/</guid>
+      <guid>https://ankigene.github.io/post/json-importer-addon/</guid>
       <description>&lt;p&gt;AnkiWeb で公開のアドオン &amp;ldquo;Json Importer&amp;rdquo; は、Anki の読み込み機能に JSON 形式のサポートを追加します。読み込みデータのフィールドの内容を画像や動画のパスにすると、自動的にメディアファイルとして取り込む機能を提供しています。&lt;/p&gt;
 </description>
     </item>

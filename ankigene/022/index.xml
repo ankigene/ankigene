@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>022 on Ankigene</title>
-    <link>http://ankigene.github.io/ankigene/022/</link>
+    <link>https://ankigene.github.io/ankigene/022/</link>
     <description>Recent content in 022 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 21 Mar 2015 06:08:55 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/ankigene/022/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/ankigene/022/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>単語単位でフィールド検索をするためのアドオン</title>
-      <link>http://ankigene.github.io/post/search-by-word-addon/</link>
+      <link>https://ankigene.github.io/post/search-by-word-addon/</link>
       <pubDate>Sat, 21 Mar 2015 06:08:55 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/search-by-word-addon/</guid>
+      <guid>https://ankigene.github.io/post/search-by-word-addon/</guid>
       <description>&lt;p&gt;Anki アドオン &amp;ldquo;Word search and wildcard field name&amp;rdquo; は、カードブラウザーでのフィールド検索にワイルドカードの使用や単語単位での検索の機能を追加します。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ubuntu ユーザーのための Anki 設定のポイント</title>
-      <link>http://ankigene.github.io/post/anki-settings-on-ubuntu/</link>
+      <link>https://ankigene.github.io/post/anki-settings-on-ubuntu/</link>
       <pubDate>Sat, 21 Mar 2015 05:29:30 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-settings-on-ubuntu/</guid>
+      <guid>https://ankigene.github.io/post/anki-settings-on-ubuntu/</guid>
       <description>&lt;p&gt;萌え萌えmoebuntu「語学学習や暗記物に「Anki」アプリ設定のポイント」は、Linux ディストリビューション Ubuntu 環境での Anki のチュートリアルです。インストールからテキストファイル読み込みによる教材作成、Google TTS の設定など、Anki の基本的な使い方をコンパクトにまとめています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid 2.4.2 リリース</title>
-      <link>http://ankigene.github.io/post/ankidroid-2-4-2/</link>
+      <link>https://ankigene.github.io/post/ankidroid-2-4-2/</link>
       <pubDate>Tue, 17 Mar 2015 12:10:01 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-2-4-2/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-2-4-2/</guid>
       <description>&lt;p&gt;このリリースでは、2.4.1 で新たに発生したカードテンプレートに利用する Conditional Replacement (条件置換) の動作に問題を修正しました。なお、2.4.1 ではフィルター単語帳、ズーム機能、穴埋め問題、共有単語帳のダウンロード、ブラウザーで単語帳変更、AnkiWeb との同期などの機能に関する問題点が修正されました。また、クラッシュの原因となる問題点も解決しました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>気象予報士取得のための Anki 活用法</title>
-      <link>http://ankigene.github.io/post/certified-weather-forecaster/</link>
+      <link>https://ankigene.github.io/post/certified-weather-forecaster/</link>
       <pubDate>Mon, 16 Mar 2015 16:18:39 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/certified-weather-forecaster/</guid>
+      <guid>https://ankigene.github.io/post/certified-weather-forecaster/</guid>
       <description>&lt;p&gt;高台からの観天望気のブログ投稿「便利ツール5　Anki」に、気象予報士試験のための Anki 活用法が紹介されました。Anki で暗記した項目や具体的な使い方具体的に解説しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid でのパーリ語アクセント表示</title>
-      <link>http://ankigene.github.io/post/ankidroid-pali-accents-support/</link>
+      <link>https://ankigene.github.io/post/ankidroid-pali-accents-support/</link>
       <pubDate>Mon, 16 Mar 2015 14:00:56 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-pali-accents-support/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-pali-accents-support/</guid>
       <description>&lt;p&gt;AnkiDroid Forum では、AnkiDroid で固有に発生するパーリ語のアクセント記号表示の問題について投稿が寄せられました。&lt;/p&gt;
 </description>
     </item>

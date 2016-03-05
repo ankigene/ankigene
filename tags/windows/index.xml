@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on Ankigene</title>
-    <link>http://ankigene.github.io/tags/windows/</link>
+    <link>https://ankigene.github.io/tags/windows/</link>
     <description>Recent content in Windows on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 29 Aug 2015 14:30:43 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Windows 10 へのアップグレード後の注意点</title>
-      <link>http://ankigene.github.io/post/upgrading-to-win10/</link>
+      <link>https://ankigene.github.io/post/upgrading-to-win10/</link>
       <pubDate>Sat, 29 Aug 2015 14:30:43 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/upgrading-to-win10/</guid>
+      <guid>https://ankigene.github.io/post/upgrading-to-win10/</guid>
       <description>&lt;p&gt;Anki Support サイトの Knowledge Base &amp;ldquo;Errors after upgrading to Windows 10&amp;rdquo; では、Windows 10 にアップグレードした後に発生するエラーの対応方法がまとめられています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>TeX Live できれいな数式表示</title>
-      <link>http://ankigene.github.io/post/anki-with-tex-live/</link>
+      <link>https://ankigene.github.io/post/anki-with-tex-live/</link>
       <pubDate>Sat, 25 Oct 2014 15:00:28 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-with-tex-live/</guid>
+      <guid>https://ankigene.github.io/post/anki-with-tex-live/</guid>
       <description>&lt;p&gt;Qiita「WindowsのAnkiでTeXを使う TeX Live 2014の場合」では、Windows 版 Anki で数式表示するための Tex Live ディストリビューションの設定手順を解説しています。&lt;/p&gt;
 </description>
     </item>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows8 on Ankigene</title>
-    <link>http://ankigene.github.io/tags/windows8/</link>
+    <link>https://ankigene.github.io/tags/windows8/</link>
     <description>Recent content in Windows8 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 05 Oct 2014 23:20:18 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/windows8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/windows8/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Windows 8  へのインストール</title>
-      <link>http://ankigene.github.io/post/install-anki-for-windows8/</link>
+      <link>https://ankigene.github.io/post/install-anki-for-windows8/</link>
       <pubDate>Sun, 05 Oct 2014 23:20:18 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/install-anki-for-windows8/</guid>
+      <guid>https://ankigene.github.io/post/install-anki-for-windows8/</guid>
       <description>&lt;p&gt;Windows 8 にインストール後、Anki が起動できない問題が繰り返しサポートサイトに報告されてます。Anki フォルダ内の prefs.db を削除するか、名前を変更するのがサポート推奨の解決方法です。今回の投稿では、起動時のエラーメッセージの画像が投稿されていますので、この問題が自分に当てはまるかの判断材料になります。&lt;/p&gt;
 </description>
     </item>

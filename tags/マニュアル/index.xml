@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>マニュアル on Ankigene</title>
-    <link>http://ankigene.github.io/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
+    <link>https://ankigene.github.io/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
     <description>Recent content in マニュアル on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 03 Jan 2016 20:00:41 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiDroid でバックグラウンド同期</title>
-      <link>http://ankigene.github.io/post/ankidroid-background-sync/</link>
+      <link>https://ankigene.github.io/post/ankidroid-background-sync/</link>
       <pubDate>Sun, 03 Jan 2016 20:00:41 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-background-sync/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-background-sync/</guid>
       <description>&lt;p&gt;AnkiDroid 2.5 は、オートメーションアプリの Tasker を利用したバックグラウンド同期をサポートしています。GitHub の Wiki に設定方法とプロファイルのサンプルが掲載されました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid 2.5 日本語マニュアル</title>
-      <link>http://ankigene.github.io/post/ankidroid-2-5-japanese-manual/</link>
+      <link>https://ankigene.github.io/post/ankidroid-2-5-japanese-manual/</link>
       <pubDate>Sun, 03 Jan 2016 19:50:51 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-2-5-japanese-manual/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-2-5-japanese-manual/</guid>
       <description>&lt;p&gt;AnkiDroid 2.5 日本語マニュアルが公開になりました。ユーザーインターフェイスの変更や新機能を反映した内容になっています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AwesomeTTS における Google Translate TTS サポート終了</title>
-      <link>http://ankigene.github.io/post/awesometts-ends-gtts-support/</link>
+      <link>https://ankigene.github.io/post/awesometts-ends-gtts-support/</link>
       <pubDate>Sun, 27 Dec 2015 17:30:54 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/awesometts-ends-gtts-support/</guid>
+      <guid>https://ankigene.github.io/post/awesometts-ends-gtts-support/</guid>
       <description>&lt;p&gt;アドオン AwesomeTTS の作者によれば、Google Translate TTS サービスのサポートを終了するとのことです。既存のデータを Google TTS から変更する際に参考となる、利用可能な TTS の一覧とその詳細は AwesomeTTS サイトで紹介しています。なお、標準設定は Windows では SAPI、OS X では SAY コマンド、Linux では Yandex Translate に変更とのことです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid 書式ガイド</title>
-      <link>http://ankigene.github.io/post/ankidroid-advanced-formatting/</link>
+      <link>https://ankigene.github.io/post/ankidroid-advanced-formatting/</link>
       <pubDate>Sun, 27 Dec 2015 17:00:26 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-advanced-formatting/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-advanced-formatting/</guid>
       <description>&lt;p&gt;AnkiDroid 2.5 からノートタイプの編集ができるようになりました。これにあわせて AnkiDroid 用の書式ガイドが GitHub の Wiki 上に公開になりました。垂直方向のセンタリングやワードラップ、ナイトモードのカスタム方法などが紹介されています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid 2 取扱説明書</title>
-      <link>http://ankigene.github.io/post/ankidroid-2-manual/</link>
+      <link>https://ankigene.github.io/post/ankidroid-2-manual/</link>
       <pubDate>Wed, 14 Jan 2015 13:00:28 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-2-manual/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-2-manual/</guid>
       <description>&lt;p&gt;AnkiDroid 2 取扱説明書が海月玲二さんの手により日本語訳され AnkiDroid オフィシャルサイトに公開されました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anki 復習間隔を決める仕組み</title>
-      <link>http://ankigene.github.io/post/anki-manual-sched/</link>
+      <link>https://ankigene.github.io/post/anki-manual-sched/</link>
       <pubDate>Sat, 18 Oct 2014 23:53:58 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-manual-sched/</guid>
+      <guid>https://ankigene.github.io/post/anki-manual-sched/</guid>
       <description>&lt;p&gt;Anki ユーザーマニュアルに、スケジュールアルゴリズムの概要が掲載されました。復習での解答ボタンの選択によって、復習間隔や易しさ (ease) を決定する仕組みを解説しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid 2.3 マニュアル</title>
-      <link>http://ankigene.github.io/post/ankidroid-2-3-manual/</link>
+      <link>https://ankigene.github.io/post/ankidroid-2-3-manual/</link>
       <pubDate>Wed, 01 Oct 2014 17:00:40 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-2-3-manual/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-2-3-manual/</guid>
       <description>&lt;p&gt;AnkiDroid 2.3 リリースに向けて、ユーザーマニュアルが公開されました。AnkiDroid の機能全般を画像を交えながら説明しています。AnkiDroid 2.3 Alpha 34 以降は新しいマニュアルにリンクを設定しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>カードへの JavaScript 利用</title>
-      <link>http://ankigene.github.io/post/javascript-support-on-cards/</link>
+      <link>https://ankigene.github.io/post/javascript-support-on-cards/</link>
       <pubDate>Sat, 06 Sep 2014 20:00:17 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/javascript-support-on-cards/</guid>
+      <guid>https://ankigene.github.io/post/javascript-support-on-cards/</guid>
       <description>&lt;p&gt;Anki マニュアルにカード上での JavaScript 利用のサポートについて記述追加。これまでのサポートでの回答の通り動作保証はせず、開発上の制約と注意点についてまとめられています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>統計情報を手動分析する</title>
-      <link>http://ankigene.github.io/post/document-for-manual-analysis/</link>
+      <link>https://ankigene.github.io/post/document-for-manual-analysis/</link>
       <pubDate>Wed, 13 Aug 2014 00:14:57 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/document-for-manual-analysis/</guid>
+      <guid>https://ankigene.github.io/post/document-for-manual-analysis/</guid>
       <description>&lt;p&gt;Anki学習の統計情報をデータベースから取り出し、手動で直接分析する方法がドキュメント化されました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>復習期日のばらつき</title>
-      <link>http://ankigene.github.io/post/variation-of-intervals/</link>
+      <link>https://ankigene.github.io/post/variation-of-intervals/</link>
       <pubDate>Sat, 09 Aug 2014 13:45:21 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/variation-of-intervals/</guid>
+      <guid>https://ankigene.github.io/post/variation-of-intervals/</guid>
       <description>&lt;p&gt;Ankiは、一緒に追加したカードが常に固まって復習することがないように、復習期日に一定のばらつきを追加しています。回答ボタンの上に表示している期日から、多少ずれて設定することがあります。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid マニュアル</title>
-      <link>http://ankigene.github.io/post/ankidroid-manual/</link>
+      <link>https://ankigene.github.io/post/ankidroid-manual/</link>
       <pubDate>Tue, 05 Aug 2014 00:35:08 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-manual/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-manual/</guid>
       <description>&lt;p&gt;AnkiDroid のユーザーマニュアルの作成が始まりました。iOS アプリの AnkiMobile のマニュアルを参考に拡充するようです。プログラマ以外のユーザーがプロジェクトに貢献する機会がさらに加わりました。(追記) 出典先を最新ベータ版 2.3 beta 14 がリンクしているマニュアルに変更しました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anki マニュアル &amp;#8211; 翻訳言語拡大中</title>
-      <link>http://ankigene.github.io/post/anki-manual-translation/</link>
+      <link>https://ankigene.github.io/post/anki-manual-translation/</link>
       <pubDate>Fri, 18 Jul 2014 10:50:53 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-manual-translation/</guid>
+      <guid>https://ankigene.github.io/post/anki-manual-translation/</guid>
       <description>&lt;p&gt;Ankiのマニュアルは、既に日本語、イタリア語、フランス語に翻訳されています。ドイツ語、ポーランド語、中国語の翻訳作業が進んでいて、作業内容を確認することもできます。&lt;/p&gt;
 </description>
     </item>

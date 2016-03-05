@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>動画 on Ankigene</title>
-    <link>http://ankigene.github.io/tags/%E5%8B%95%E7%94%BB/</link>
+    <link>https://ankigene.github.io/tags/%E5%8B%95%E7%94%BB/</link>
     <description>Recent content in 動画 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 01 Jun 2015 00:10:25 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/%E5%8B%95%E7%94%BB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/%E5%8B%95%E7%94%BB/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiDroid チュートリアル動画</title>
-      <link>http://ankigene.github.io/post/ankidroid-tutorial-movie/</link>
+      <link>https://ankigene.github.io/post/ankidroid-tutorial-movie/</link>
       <pubDate>Mon, 01 Jun 2015 00:10:25 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-tutorial-movie/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-tutorial-movie/</guid>
       <description>&lt;p&gt;kuni1591 さんが YouTube に投稿した「Ankidroid使いこなし」では、AnkiDroid の基本的な操作方法と、PC 版 Anki との連携方法を紹介しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ピアノ練習への Anki 活用例</title>
-      <link>http://ankigene.github.io/post/piano-practice-anki/</link>
+      <link>https://ankigene.github.io/post/piano-practice-anki/</link>
       <pubDate>Sat, 28 Mar 2015 17:14:53 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/piano-practice-anki/</guid>
+      <guid>https://ankigene.github.io/post/piano-practice-anki/</guid>
       <description>&lt;p&gt;YouTube の動画 &amp;ldquo;Piano practice session using Anki&amp;rdquo; では、ピアノの演奏練習に Anki を活用している様子を収録しています。既存カードの譜面から切り取って新規カードとして発展させる方法も確認できます。&lt;/p&gt;
 </description>
     </item>

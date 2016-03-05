@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ギター on Ankigene</title>
-    <link>http://ankigene.github.io/tags/%E3%82%AE%E3%82%BF%E3%83%BC/</link>
+    <link>https://ankigene.github.io/tags/%E3%82%AE%E3%82%BF%E3%83%BC/</link>
     <description>Recent content in ギター on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 21 Feb 2015 16:00:37 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/%E3%82%AE%E3%82%BF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/%E3%82%AE%E3%82%BF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anki でギターの指板を暗記する</title>
-      <link>http://ankigene.github.io/post/anki-for-guitar-fretboard/</link>
+      <link>https://ankigene.github.io/post/anki-for-guitar-fretboard/</link>
       <pubDate>Sat, 21 Feb 2015 16:00:37 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-for-guitar-fretboard/</guid>
+      <guid>https://ankigene.github.io/post/anki-for-guitar-fretboard/</guid>
       <description>&lt;p&gt;Know The Fretboard &amp;ldquo;Flashcards For Everything On The Guitar Fretboard&amp;rdquo; ではギターの指板を暗記するための Anki 単語帳 (要ユーザー登録) の使い方と、作成済みの Anki 単語帳へのリンクが紹介されています。&lt;/p&gt;
 </description>
     </item>

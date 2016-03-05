@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>028 on Ankigene</title>
-    <link>http://ankigene.github.io/ankigene/028/</link>
+    <link>https://ankigene.github.io/ankigene/028/</link>
     <description>Recent content in 028 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 22 Jan 2016 21:00:12 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/ankigene/028/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/ankigene/028/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>期間限定で Anki 電子書籍を公開</title>
-      <link>http://ankigene.github.io/post/anki-essentials/</link>
+      <link>https://ankigene.github.io/post/anki-essentials/</link>
       <pubDate>Fri, 22 Jan 2016 21:00:12 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-essentials/</guid>
+      <guid>https://ankigene.github.io/post/anki-essentials/</guid>
       <description>&lt;p&gt;バークレーの人工知能研究機関 MIRI (Machine Intelligence Research Institute) に勤務する Alex Vermeer 氏執筆による電子書籍 &amp;ldquo;Anki Essentials - the Complete Guide to Remembering Anything with Anki&amp;rdquo; が期間限定で無料ダウンロードできるようになりました。Anki の操作方法に加えて、マニュアルよりも更に詳しく Anki の動作を知りたい方のために、図解しながら丁寧に説明しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>三年間 Anki を続けたら</title>
-      <link>http://ankigene.github.io/post/anki-for-3years/</link>
+      <link>https://ankigene.github.io/post/anki-for-3years/</link>
       <pubDate>Mon, 18 Jan 2016 18:00:21 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-for-3years/</guid>
+      <guid>https://ankigene.github.io/post/anki-for-3years/</guid>
       <description>&lt;p&gt;Reddit の投稿 &amp;ldquo;Anki every day for 3 years straight&amp;rdquo; では、20年間のブランクの後、イタリア語を再開して CEFR C2レベルに達するまで Anki をどう活用したか説明しています。統計情報もリンクしているので、詳しい学習状況も確認できます。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>16進数九九の単語帳</title>
-      <link>http://ankigene.github.io/post/deck-hexadecimal-multiplication-table/</link>
+      <link>https://ankigene.github.io/post/deck-hexadecimal-multiplication-table/</link>
       <pubDate>Mon, 11 Jan 2016 18:40:38 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/deck-hexadecimal-multiplication-table/</guid>
+      <guid>https://ankigene.github.io/post/deck-hexadecimal-multiplication-table/</guid>
       <description>&lt;p&gt;AnkiWeb の共有単語帳一覧に「十六進数掛け算」が登録されました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid でバックグラウンド同期</title>
-      <link>http://ankigene.github.io/post/ankidroid-background-sync/</link>
+      <link>https://ankigene.github.io/post/ankidroid-background-sync/</link>
       <pubDate>Sun, 03 Jan 2016 20:00:41 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-background-sync/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-background-sync/</guid>
       <description>&lt;p&gt;AnkiDroid 2.5 は、オートメーションアプリの Tasker を利用したバックグラウンド同期をサポートしています。GitHub の Wiki に設定方法とプロファイルのサンプルが掲載されました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid 2.5 日本語マニュアル</title>
-      <link>http://ankigene.github.io/post/ankidroid-2-5-japanese-manual/</link>
+      <link>https://ankigene.github.io/post/ankidroid-2-5-japanese-manual/</link>
       <pubDate>Sun, 03 Jan 2016 19:50:51 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-2-5-japanese-manual/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-2-5-japanese-manual/</guid>
       <description>&lt;p&gt;AnkiDroid 2.5 日本語マニュアルが公開になりました。ユーザーインターフェイスの変更や新機能を反映した内容になっています。&lt;/p&gt;
 </description>
     </item>

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>チュートリアル on Ankigene</title>
-    <link>http://ankigene.github.io/tags/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB/</link>
+    <link>https://ankigene.github.io/tags/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB/</link>
     <description>Recent content in チュートリアル on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 01 Jun 2015 00:10:25 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiDroid チュートリアル動画</title>
-      <link>http://ankigene.github.io/post/ankidroid-tutorial-movie/</link>
+      <link>https://ankigene.github.io/post/ankidroid-tutorial-movie/</link>
       <pubDate>Mon, 01 Jun 2015 00:10:25 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-tutorial-movie/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-tutorial-movie/</guid>
       <description>&lt;p&gt;kuni1591 さんが YouTube に投稿した「Ankidroid使いこなし」では、AnkiDroid の基本的な操作方法と、PC 版 Anki との連携方法を紹介しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ubuntu ユーザーのための Anki 設定のポイント</title>
-      <link>http://ankigene.github.io/post/anki-settings-on-ubuntu/</link>
+      <link>https://ankigene.github.io/post/anki-settings-on-ubuntu/</link>
       <pubDate>Sat, 21 Mar 2015 05:29:30 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-settings-on-ubuntu/</guid>
+      <guid>https://ankigene.github.io/post/anki-settings-on-ubuntu/</guid>
       <description>&lt;p&gt;萌え萌えmoebuntu「語学学習や暗記物に「Anki」アプリ設定のポイント」は、Linux ディストリビューション Ubuntu 環境での Anki のチュートリアルです。インストールからテキストファイル読み込みによる教材作成、Google TTS の設定など、Anki の基本的な使い方をコンパクトにまとめています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid の使い方</title>
-      <link>http://ankigene.github.io/post/ankidroid-tutorial/</link>
+      <link>https://ankigene.github.io/post/ankidroid-tutorial/</link>
       <pubDate>Fri, 06 Feb 2015 10:00:49 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-tutorial/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-tutorial/</guid>
       <description>&lt;p&gt;履歴書に書ける！　簡単に取得できる資格の記事「AnkiDroid（単語帳アプリ）の使い方」は、カードの作り方、Anki PC版を活用した Excel データの読み込み方、AnkiWeb を利用したスマホ と PC 連携について説明するチュートリアルです。&lt;/p&gt;
 </description>
     </item>

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mac on Ankigene</title>
-    <link>http://ankigene.github.io/tags/mac/</link>
+    <link>https://ankigene.github.io/tags/mac/</link>
     <description>Recent content in Mac on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 18 Oct 2014 22:00:13 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mac 用代替ビルドでの同期は 2.0.30 以降が必須</title>
-      <link>http://ankigene.github.io/post/anki-2-0-30/</link>
+      <link>https://ankigene.github.io/post/anki-2-0-30/</link>
       <pubDate>Sat, 18 Oct 2014 22:00:13 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-2-0-30/</guid>
+      <guid>https://ankigene.github.io/post/anki-2-0-30/</guid>
       <description>&lt;p&gt;Anki 2.0.30 がリリースになりました。OS X 10.5, 10.6 用の代替ビルドで同期機能を継続利用するには、このバージョンへのアップグレードが必要です。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>OS X Yosemite 動作情報</title>
-      <link>http://ankigene.github.io/post/os-x-yosemite/</link>
+      <link>https://ankigene.github.io/post/os-x-yosemite/</link>
       <pubDate>Tue, 29 Jul 2014 16:01:31 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/os-x-yosemite/</guid>
+      <guid>https://ankigene.github.io/post/os-x-yosemite/</guid>
       <description>&lt;p&gt;OS X Yosemite パブリックベータ版の公開にともなって、Anki の動作報告がサポートサイトに集まってきました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anki 2.0.26 と Mac OS X Mavericks</title>
-      <link>http://ankigene.github.io/post/anki-2-0-26-os-x-mavericks/</link>
+      <link>https://ankigene.github.io/post/anki-2-0-26-os-x-mavericks/</link>
       <pubDate>Sat, 26 Apr 2014 22:15:46 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-2-0-26-os-x-mavericks/</guid>
+      <guid>https://ankigene.github.io/post/anki-2-0-26-os-x-mavericks/</guid>
       <description>&lt;p&gt;Mac OS X 10.9 Mavericks上でのクラッシュはこの半年ぐらい色々な形で発生していたのですが、ついにAnki 2.0.26で解決したようです。最後のバグ出しスレッドを紹介します。関係者の皆様お疲れさまでした。&lt;/p&gt;
 </description>
     </item>

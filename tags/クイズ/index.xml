@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>クイズ on Ankigene</title>
-    <link>http://ankigene.github.io/tags/%E3%82%AF%E3%82%A4%E3%82%BA/</link>
+    <link>https://ankigene.github.io/tags/%E3%82%AF%E3%82%A4%E3%82%BA/</link>
     <description>Recent content in クイズ on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 07 Mar 2015 18:40:09 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/%E3%82%AF%E3%82%A4%E3%82%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/%E3%82%AF%E3%82%A4%E3%82%BA/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>クイズ番組 Jeopardy! チャンピオンの Anki 活用法</title>
-      <link>http://ankigene.github.io/post/jeopardy-champion/</link>
+      <link>https://ankigene.github.io/post/jeopardy-champion/</link>
       <pubDate>Sat, 07 Mar 2015 18:40:09 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/jeopardy-champion/</guid>
+      <guid>https://ankigene.github.io/post/jeopardy-champion/</guid>
       <description>&lt;p&gt;Mental Floss の記事 &amp;ldquo;Our Interview With Jeopardy! Champion Arthur Chu&amp;rdquo; は、米国のクイズ番組  Jeopardy! でチャンピオンになった Arthur Chu 氏へのインタビューを収録しています。その中で Anki をどのように活用したか説明しています。&lt;/p&gt;
 </description>
     </item>

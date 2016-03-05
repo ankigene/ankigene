@@ -2,159 +2,159 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>アドオン on Ankigene</title>
-    <link>http://ankigene.github.io/tags/%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/</link>
+    <link>https://ankigene.github.io/tags/%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/</link>
     <description>Recent content in アドオン on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 29 Feb 2016 00:03:52 +0900</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>カードの内容をブラウザーの中で検索するアドオン</title>
-      <link>http://ankigene.github.io/post/search-browser-addon/</link>
+      <link>https://ankigene.github.io/post/search-browser-addon/</link>
       <pubDate>Mon, 29 Feb 2016 00:03:52 +0900</pubDate>
       
-      <guid>http://ankigene.github.io/post/search-browser-addon/</guid>
+      <guid>https://ankigene.github.io/post/search-browser-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開された「Search browser for selected words」というアドオンは、Anki のカード面で選択した内容を検索して、カードブラウザー内に結果を表示する機能を提供します。別のカードに同じ項目が含まれていないか調べるのに役立ちます。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AwesomeTTS による読み上げ設定チュートリアル</title>
-      <link>http://ankigene.github.io/post/awesometts-tutorial/</link>
+      <link>https://ankigene.github.io/post/awesometts-tutorial/</link>
       <pubDate>Sat, 20 Feb 2016 20:00:34 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/awesometts-tutorial/</guid>
+      <guid>https://ankigene.github.io/post/awesometts-tutorial/</guid>
       <description>&lt;p&gt;萌え萌えmoebuntu の投稿「語学学習アプリ「Anki」の「音声読み上げ設定」　２、3 」は、二回にわたる AwesomeTTS のチュートリアルです。英語のテキストを読み上げるの方法から、TTSで読み上げる音声ファイルを一括作成する手順まで、画像をふんだんに使って丁寧に説明しています。PCとスマホで同じTTSの音声を聞きたい方にはお勧めの内容です。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ペーストする画像の大きさを変更するアドオン</title>
-      <link>http://ankigene.github.io/post/image-resizer-addon/</link>
+      <link>https://ankigene.github.io/post/image-resizer-addon/</link>
       <pubDate>Tue, 09 Feb 2016 20:30:53 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/image-resizer-addon/</guid>
+      <guid>https://ankigene.github.io/post/image-resizer-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に登録された &amp;ldquo;Image Resizer &amp;ndash; Resize the image when pasting&amp;rdquo; は、フィールドに画像を貼り付ける時に指定の大きさを変更するアドオンです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>メディアの登録を強化する JSON 読み込みアドオン</title>
-      <link>http://ankigene.github.io/post/json-importer-addon/</link>
+      <link>https://ankigene.github.io/post/json-importer-addon/</link>
       <pubDate>Tue, 09 Feb 2016 20:00:16 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/json-importer-addon/</guid>
+      <guid>https://ankigene.github.io/post/json-importer-addon/</guid>
       <description>&lt;p&gt;AnkiWeb で公開のアドオン &amp;ldquo;Json Importer&amp;rdquo; は、Anki の読み込み機能に JSON 形式のサポートを追加します。読み込みデータのフィールドの内容を画像や動画のパスにすると、自動的にメディアファイルとして取り込む機能を提供しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid シュミレーションによる学習量予測</title>
-      <link>http://ankigene.github.io/post/ankidroid-stats-simulation/</link>
+      <link>https://ankigene.github.io/post/ankidroid-stats-simulation/</link>
       <pubDate>Sat, 30 Jan 2016 09:00:30 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-stats-simulation/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-stats-simulation/</guid>
       <description>&lt;p&gt;AnkiDroid 2.6alpha7 では、学習量を予測するシュミレーション機能が追加になりました。ユーザーが設定した正解率 (初期設定では 90%) で学習量を計算します。この機能は AnkiDroid のアドオンとして Jeffrey van Prehn が開発したものです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AwesomeTTS における Google Translate TTS サポート終了</title>
-      <link>http://ankigene.github.io/post/awesometts-ends-gtts-support/</link>
+      <link>https://ankigene.github.io/post/awesometts-ends-gtts-support/</link>
       <pubDate>Sun, 27 Dec 2015 17:30:54 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/awesometts-ends-gtts-support/</guid>
+      <guid>https://ankigene.github.io/post/awesometts-ends-gtts-support/</guid>
       <description>&lt;p&gt;アドオン AwesomeTTS の作者によれば、Google Translate TTS サービスのサポートを終了するとのことです。既存のデータを Google TTS から変更する際に参考となる、利用可能な TTS の一覧とその詳細は AwesomeTTS サイトで紹介しています。なお、標準設定は Windows では SAPI、OS X では SAY コマンド、Linux では Yandex Translate に変更とのことです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PC 版 Anki 用ナイトモードアドオン</title>
-      <link>http://ankigene.github.io/post/night-mode-addon/</link>
+      <link>https://ankigene.github.io/post/night-mode-addon/</link>
       <pubDate>Tue, 07 Apr 2015 13:30:09 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/night-mode-addon/</guid>
+      <guid>https://ankigene.github.io/post/night-mode-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開された Night Mode は、PC 版 Anki でも AnkiDroid のようなナイトモードの表示を実現します。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ウェブページの内容からカードを作るアドオン</title>
-      <link>http://ankigene.github.io/post/html2anki-addon/</link>
+      <link>https://ankigene.github.io/post/html2anki-addon/</link>
       <pubDate>Tue, 07 Apr 2015 13:00:35 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/html2anki-addon/</guid>
+      <guid>https://ankigene.github.io/post/html2anki-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開されたアドオン &amp;ldquo;HTML 2 ANKI&amp;rdquo; は、ウェブページの繰り返し表示する内容を HTML 要素、属性、値を指定して抽出し、カードを一括生成するアドオンです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>カードテンプレートが選択できるアドオン</title>
-      <link>http://ankigene.github.io/post/anki-selective-card-generation/</link>
+      <link>https://ankigene.github.io/post/anki-selective-card-generation/</link>
       <pubDate>Mon, 30 Mar 2015 13:45:48 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-selective-card-generation/</guid>
+      <guid>https://ankigene.github.io/post/anki-selective-card-generation/</guid>
       <description>&lt;p&gt;AnkiWeb に公開されたアドオン Selective Card Generation は、ノート追加画面でカードを作成するカードテンプレートの選択が可能になるアドオンです。例えば、既定の基本(裏面カード付き)をノートタイプとして指定しながら、表面カードだけを作成することができます。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>単語単位でフィールド検索をするためのアドオン</title>
-      <link>http://ankigene.github.io/post/search-by-word-addon/</link>
+      <link>https://ankigene.github.io/post/search-by-word-addon/</link>
       <pubDate>Sat, 21 Mar 2015 06:08:55 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/search-by-word-addon/</guid>
+      <guid>https://ankigene.github.io/post/search-by-word-addon/</guid>
       <description>&lt;p&gt;Anki アドオン &amp;ldquo;Word search and wildcard field name&amp;rdquo; は、カードブラウザーでのフィールド検索にワイルドカードの使用や単語単位での検索の機能を追加します。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Incremental Reading を利用した記憶するための読書ログ</title>
-      <link>http://ankigene.github.io/post/incremental-reading-log/</link>
+      <link>https://ankigene.github.io/post/incremental-reading-log/</link>
       <pubDate>Sun, 08 Feb 2015 08:55:06 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/incremental-reading-log/</guid>
+      <guid>https://ankigene.github.io/post/incremental-reading-log/</guid>
       <description>&lt;p&gt;道草趣向の投稿「使える読書ログを Anki と Incremental Reading でつくる」では、Anki と Incremental Reading アドオンを活用して、記憶することを前提とした読書ログの取り方を紹介しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>メディアファイルからノートを自動作成 Media Import</title>
-      <link>http://ankigene.github.io/post/media-import/</link>
+      <link>https://ankigene.github.io/post/media-import/</link>
       <pubDate>Wed, 14 Jan 2015 12:55:43 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/media-import/</guid>
+      <guid>https://ankigene.github.io/post/media-import/</guid>
       <description>&lt;p&gt;メディアファイルからノートを一括作成するアドオン Media Import の最新版 v2.0 では、ノートタイプの選択、フィールドへファイル名や連番の指定が出来るユーザーインターフェイスが追加されました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>表、リスト、コードブロックの入力を簡単にするアドオン</title>
-      <link>http://ankigene.github.io/post/power-format-pack/</link>
+      <link>https://ankigene.github.io/post/power-format-pack/</link>
       <pubDate>Tue, 07 Oct 2014 18:30:34 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/power-format-pack/</guid>
+      <guid>https://ankigene.github.io/post/power-format-pack/</guid>
       <description>&lt;p&gt;Power format pack は、ノートエディタで指定する書式を強化するアドオンです。表やリスト、コードブロック、取り消し線、罫線などが利用できます。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MathJax サポートアドオン</title>
-      <link>http://ankigene.github.io/post/mathjax-support-addon-for-anki/</link>
+      <link>https://ankigene.github.io/post/mathjax-support-addon-for-anki/</link>
       <pubDate>Sat, 09 Aug 2014 14:30:57 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/mathjax-support-addon-for-anki/</guid>
+      <guid>https://ankigene.github.io/post/mathjax-support-addon-for-anki/</guid>
       <description>&lt;p&gt;数式表示のための MathJax サポートアドオンが公開。LaTeXなどの追加インストールは不要で、必要なのはネットワーク接続です。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>統計情報のカスタマイズ</title>
-      <link>http://ankigene.github.io/post/customize-anki-stats/</link>
+      <link>https://ankigene.github.io/post/customize-anki-stats/</link>
       <pubDate>Sat, 09 Aug 2014 11:30:50 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/customize-anki-stats/</guid>
+      <guid>https://ankigene.github.io/post/customize-anki-stats/</guid>
       <description>&lt;p&gt;統計情報のカスタマイズがサポートサイトで話題になりました。アドオンを作る方法と、データベースから直接データ出力する方法が紹介され、サンプルアドオンも投稿されています。アドオン開発者には必須の情報源です。&lt;/p&gt;
 </description>
     </item>

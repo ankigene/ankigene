@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chrome on Ankigene</title>
-    <link>http://ankigene.github.io/tags/chrome/</link>
+    <link>https://ankigene.github.io/tags/chrome/</link>
     <description>Recent content in Chrome on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 07 Apr 2015 14:00:55 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PC 上で AnkiDroid を動かす方法</title>
-      <link>http://ankigene.github.io/post/ankidroid-on-pc-with-arc-welder/</link>
+      <link>https://ankigene.github.io/post/ankidroid-on-pc-with-arc-welder/</link>
       <pubDate>Tue, 07 Apr 2015 14:00:55 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-on-pc-with-arc-welder/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-on-pc-with-arc-welder/</guid>
       <description>&lt;p&gt;Capricious POV「ARC Welderを使いPC上でAnkiDroidを動かす」では、Chrome ブラウザ上で Android アプリを動かすための Chrome アプリ ARC Welder を使って、PC 上で AnkiDroid を起動する方法を紹介しています。&lt;/p&gt;
 </description>
     </item>

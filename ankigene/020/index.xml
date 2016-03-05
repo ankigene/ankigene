@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>020 on Ankigene</title>
-    <link>http://ankigene.github.io/ankigene/020/</link>
+    <link>https://ankigene.github.io/ankigene/020/</link>
     <description>Recent content in 020 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 21 Feb 2015 17:30:21 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/ankigene/020/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/ankigene/020/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiDroid ナイトモード提案</title>
-      <link>http://ankigene.github.io/post/ankidroid-color-theme/</link>
+      <link>https://ankigene.github.io/post/ankidroid-color-theme/</link>
       <pubDate>Sat, 21 Feb 2015 17:30:21 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-color-theme/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-color-theme/</guid>
       <description>&lt;p&gt;AnkiDroid Forum &amp;ldquo;True black version and improved theming&amp;rdquo; では、ナイトモードの新しいデザインとそのための配色管理の仕組みについて提案が行われました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anki でギターの指板を暗記する</title>
-      <link>http://ankigene.github.io/post/anki-for-guitar-fretboard/</link>
+      <link>https://ankigene.github.io/post/anki-for-guitar-fretboard/</link>
       <pubDate>Sat, 21 Feb 2015 16:00:37 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-for-guitar-fretboard/</guid>
+      <guid>https://ankigene.github.io/post/anki-for-guitar-fretboard/</guid>
       <description>&lt;p&gt;Know The Fretboard &amp;ldquo;Flashcards For Everything On The Guitar Fretboard&amp;rdquo; ではギターの指板を暗記するための Anki 単語帳 (要ユーザー登録) の使い方と、作成済みの Anki 単語帳へのリンクが紹介されています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anki を使って歌詞を覚える</title>
-      <link>http://ankigene.github.io/post/how-to-memorize-lyrics/</link>
+      <link>https://ankigene.github.io/post/how-to-memorize-lyrics/</link>
       <pubDate>Sat, 21 Feb 2015 15:40:30 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/how-to-memorize-lyrics/</guid>
+      <guid>https://ankigene.github.io/post/how-to-memorize-lyrics/</guid>
       <description>&lt;p&gt;Guitarhabits &amp;ldquo;How to Memorize Music and Lyrics Forever and Ever!&amp;rdquo; では、Anki を利用して歌詞 (lyrics) を覚える方法を具体的な設問を示しながら解説しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>テキストを読みながら Anki 単語帳を作成</title>
-      <link>http://ankigene.github.io/post/anki-deck-from-rewordify/</link>
+      <link>https://ankigene.github.io/post/anki-deck-from-rewordify/</link>
       <pubDate>Fri, 20 Feb 2015 00:10:32 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-deck-from-rewordify/</guid>
+      <guid>https://ankigene.github.io/post/anki-deck-from-rewordify/</guid>
       <description>&lt;p&gt;道草趣向「読んでいるテキストから単語を抽出して Anki 単語帳を作る」では、テキストやURLを入力すると英文中の難しい語句をやさしい語句に変換するサービス rewordify.com を活用して、Anki の単語帳を作成する方法を紹介しています。難易度は6段階で選択でき、すぐに利用可能な文学作品も登録されています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>life deck あるいは創作のための備忘録</title>
-      <link>http://ankigene.github.io/post/life-deck-for-creatives/</link>
+      <link>https://ankigene.github.io/post/life-deck-for-creatives/</link>
       <pubDate>Fri, 20 Feb 2015 00:05:24 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/life-deck-for-creatives/</guid>
+      <guid>https://ankigene.github.io/post/life-deck-for-creatives/</guid>
       <description>&lt;p&gt;BL作家 晶山嵐の日記「『ANKI』で備忘録を作る。」では、創作活動のための備忘録としての Anki 活用例を紹介しています。Anki のサポートフォーラムでも備忘録としての使い方が&amp;rdquo;life deck&amp;rdquo;という名前で話題になっています。&lt;/p&gt;
 </description>
     </item>

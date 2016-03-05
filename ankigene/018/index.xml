@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>018 on Ankigene</title>
-    <link>http://ankigene.github.io/ankigene/018/</link>
+    <link>https://ankigene.github.io/ankigene/018/</link>
     <description>Recent content in 018 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 29 Jan 2015 23:30:44 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/ankigene/018/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/ankigene/018/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Incremental Reading が読書を変える</title>
-      <link>http://ankigene.github.io/post/incremental-reading-report/</link>
+      <link>https://ankigene.github.io/post/incremental-reading-report/</link>
       <pubDate>Thu, 29 Jan 2015 23:30:44 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/incremental-reading-report/</guid>
+      <guid>https://ankigene.github.io/post/incremental-reading-report/</guid>
       <description>&lt;p&gt;ブログ Michael Fogleman の投稿 &amp;ldquo;Books, Friends, and Incremental Reading&amp;rdquo; では、SRS を活用した学習技術 Incremental Reading の利用体験と読書活動の変化について報告しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>中エジプト語読解のためのヒエログリフ単語帳</title>
-      <link>http://ankigene.github.io/post/hieroglyphs-deck/</link>
+      <link>https://ankigene.github.io/post/hieroglyphs-deck/</link>
       <pubDate>Thu, 29 Jan 2015 23:20:35 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/hieroglyphs-deck/</guid>
+      <guid>https://ankigene.github.io/post/hieroglyphs-deck/</guid>
       <description>&lt;p&gt;Stuff in Egyptian の投稿 &amp;ldquo;Essential Hieroglyphs: Flashcards for Anki&amp;rdquo; では、中エジプト語を読むためのヒエログリフの基本単語帳が公開されました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid 2.4 リリース</title>
-      <link>http://ankigene.github.io/post/ankidroid-2-4-released/</link>
+      <link>https://ankigene.github.io/post/ankidroid-2-4-released/</link>
       <pubDate>Thu, 29 Jan 2015 17:50:54 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-2-4-released/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-2-4-released/</guid>
       <description>&lt;p&gt;このリリースでは、日本語版マニュアルとの連携、作成済みのカードのノートタイプの変更、カードテンプレートの表示削除、動画再生のサポートなどが行われました。また、Chromebook のサポートがこのバージョンから正式に行われています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid を活用した漢字書取練習</title>
-      <link>http://ankigene.github.io/post/ankidroid-kanji-test/</link>
+      <link>https://ankigene.github.io/post/ankidroid-kanji-test/</link>
       <pubDate>Sat, 24 Jan 2015 01:01:12 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-kanji-test/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-kanji-test/</guid>
       <description>&lt;p&gt;YouTube に「Ankiを使って漢字の書き取り」という AnkiDroid とタブレットを活用した小学生の漢字書取練習を撮影した動画が pyanko さんによって投稿されました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid 2 更新履歴</title>
-      <link>http://ankigene.github.io/post/ankidroid-changelog/</link>
+      <link>https://ankigene.github.io/post/ankidroid-changelog/</link>
       <pubDate>Sat, 24 Jan 2015 00:30:56 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-changelog/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-changelog/</guid>
       <description>&lt;p&gt;AnkiDroid オフィシャルサイトに更新履歴が公開されました。AnkiDroid 2 以降の主なバージョンで行われた変更点が確認できます。&lt;/p&gt;
 </description>
     </item>

@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>サポート on Ankigene</title>
-    <link>http://ankigene.github.io/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</link>
+    <link>https://ankigene.github.io/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</link>
     <description>Recent content in サポート on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 31 Dec 2015 11:59:35 +0000</lastBuildDate>
-    <atom:link href="http://ankigene.github.io/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ankigene.github.io/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiDroid 同期サーバー変更可能に</title>
-      <link>http://ankigene.github.io/post/ankidroid-supports-custom-sync-server/</link>
+      <link>https://ankigene.github.io/post/ankidroid-supports-custom-sync-server/</link>
       <pubDate>Thu, 31 Dec 2015 11:59:35 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-supports-custom-sync-server/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-supports-custom-sync-server/</guid>
       <description>&lt;p&gt;AnkiDroid 2.6Alpha3 より同期サーバーが選択できるようになりました。この機能によって個人的に立ち上げた Anki Sync Server のようなサーバーをデータの同期先に指定できるようになります。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Windows 10 へのアップグレード後の注意点</title>
-      <link>http://ankigene.github.io/post/upgrading-to-win10/</link>
+      <link>https://ankigene.github.io/post/upgrading-to-win10/</link>
       <pubDate>Sat, 29 Aug 2015 14:30:43 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/upgrading-to-win10/</guid>
+      <guid>https://ankigene.github.io/post/upgrading-to-win10/</guid>
       <description>&lt;p&gt;Anki Support サイトの Knowledge Base &amp;ldquo;Errors after upgrading to Windows 10&amp;rdquo; では、Windows 10 にアップグレードした後に発生するエラーの対応方法がまとめられています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid でのパーリ語アクセント表示</title>
-      <link>http://ankigene.github.io/post/ankidroid-pali-accents-support/</link>
+      <link>https://ankigene.github.io/post/ankidroid-pali-accents-support/</link>
       <pubDate>Mon, 16 Mar 2015 14:00:56 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-pali-accents-support/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-pali-accents-support/</guid>
       <description>&lt;p&gt;AnkiDroid Forum では、AnkiDroid で固有に発生するパーリ語のアクセント記号表示の問題について投稿が寄せられました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiWeb のフリーミアム化に対する開発者からの回答</title>
-      <link>http://ankigene.github.io/post/ankiweb-freemium/</link>
+      <link>https://ankigene.github.io/post/ankiweb-freemium/</link>
       <pubDate>Fri, 06 Mar 2015 10:30:02 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankiweb-freemium/</guid>
+      <guid>https://ankigene.github.io/post/ankiweb-freemium/</guid>
       <description>&lt;p&gt;AnkiWeb の契約条件に &amp;ldquo;Freemium&amp;rdquo; の可能性を留保する文言が入っていることに対して、Anki の開発者より Anki サポートフォーラム のスレッド&amp;rdquo;
 Question about changes to conditions regarding Ipad App&amp;rdquo; の中で回答がありました。この文言は 2011 年から既に存在し、短期的な計画の中にフリーミアム化は入っていないそうです。仮にそうなった場合の既存ユーザーに対する方針も触れています。&lt;/p&gt;
 </description>
@@ -52,110 +52,110 @@ Question about changes to conditions regarding Ipad App&amp;rdquo; の中で回�
     
     <item>
       <title>広告ブロックアプリと AnkiDroid の同期機能</title>
-      <link>http://ankigene.github.io/post/adblock-ankidroid-sync/</link>
+      <link>https://ankigene.github.io/post/adblock-ankidroid-sync/</link>
       <pubDate>Fri, 06 Mar 2015 10:00:06 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/adblock-ankidroid-sync/</guid>
+      <guid>https://ankigene.github.io/post/adblock-ankidroid-sync/</guid>
       <description>&lt;p&gt;Anki サポートフォーラムに広告ブロックアプリを利用すると AnkiDroid と AnkiWeb との同期に問題が発生することが報告されました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>1万件のバックログから復帰するには</title>
-      <link>http://ankigene.github.io/post/clear-10k-backlog/</link>
+      <link>https://ankigene.github.io/post/clear-10k-backlog/</link>
       <pubDate>Tue, 03 Mar 2015 23:20:38 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/clear-10k-backlog/</guid>
+      <guid>https://ankigene.github.io/post/clear-10k-backlog/</guid>
       <description>&lt;p&gt;かなり特殊なケースですが、他のアプリからカードを移行したため、学習履歴が消失して発生した11,000枚のカードのバックログをどのように解消すべきかという相談がサポートサイトに寄せられました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid ナイトモード提案</title>
-      <link>http://ankigene.github.io/post/ankidroid-color-theme/</link>
+      <link>https://ankigene.github.io/post/ankidroid-color-theme/</link>
       <pubDate>Sat, 21 Feb 2015 17:30:21 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-color-theme/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-color-theme/</guid>
       <description>&lt;p&gt;AnkiDroid Forum &amp;ldquo;True black version and improved theming&amp;rdquo; では、ナイトモードの新しいデザインとそのための配色管理の仕組みについて提案が行われました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid UI デザイン提案</title>
-      <link>http://ankigene.github.io/post/ankidroid-ui-design/</link>
+      <link>https://ankigene.github.io/post/ankidroid-ui-design/</link>
       <pubDate>Fri, 06 Feb 2015 10:30:30 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-ui-design/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-ui-design/</guid>
       <description>&lt;p&gt;AnkiDroid ユーザーフォーラムのスレッド &amp;ldquo;Material Design&amp;rdquo; に新しいユーザーインターフェイスを提案する投稿が寄せられました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid 2 更新履歴</title>
-      <link>http://ankigene.github.io/post/ankidroid-changelog/</link>
+      <link>https://ankigene.github.io/post/ankidroid-changelog/</link>
       <pubDate>Sat, 24 Jan 2015 00:30:56 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-changelog/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-changelog/</guid>
       <description>&lt;p&gt;AnkiDroid オフィシャルサイトに更新履歴が公開されました。AnkiDroid 2 以降の主なバージョンで行われた変更点が確認できます。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid サポート</title>
-      <link>http://ankigene.github.io/post/ankidroid-help/</link>
+      <link>https://ankigene.github.io/post/ankidroid-help/</link>
       <pubDate>Fri, 23 Jan 2015 15:00:38 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-help/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-help/</guid>
       <description>&lt;p&gt;AnkiDroid サポートの問い合わせ先ページが日本語訳され公開されました。バグレポートや機能リクエストの提出方法も解説しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid 2 取扱説明書</title>
-      <link>http://ankigene.github.io/post/ankidroid-2-manual/</link>
+      <link>https://ankigene.github.io/post/ankidroid-2-manual/</link>
       <pubDate>Wed, 14 Jan 2015 13:00:28 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankidroid-2-manual/</guid>
+      <guid>https://ankigene.github.io/post/ankidroid-2-manual/</guid>
       <description>&lt;p&gt;AnkiDroid 2 取扱説明書が海月玲二さんの手により日本語訳され AnkiDroid オフィシャルサイトに公開されました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiMobile 2.0.13 の問題点</title>
-      <link>http://ankigene.github.io/post/ankimobile-2013-crash-on-syncing/</link>
+      <link>https://ankigene.github.io/post/ankimobile-2013-crash-on-syncing/</link>
       <pubDate>Thu, 30 Oct 2014 20:50:11 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/ankimobile-2013-crash-on-syncing/</guid>
+      <guid>https://ankigene.github.io/post/ankimobile-2013-crash-on-syncing/</guid>
       <description>&lt;p&gt;&lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;29&lt;/sub&gt; リリースの Anki iOS アプリ AnkiMobile 2.0.13 には、以前のバージョンからアップグレードすると同期中にクラッシュする問題を抱えています。修正版公開までの回避策はメディア同期を無効にします。設定手順 Preference &amp;gt; Syncing &amp;gt; Transfer Media で [OFF] を選択。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mac 用代替ビルドでの同期は 2.0.30 以降が必須</title>
-      <link>http://ankigene.github.io/post/anki-2-0-30/</link>
+      <link>https://ankigene.github.io/post/anki-2-0-30/</link>
       <pubDate>Sat, 18 Oct 2014 22:00:13 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/anki-2-0-30/</guid>
+      <guid>https://ankigene.github.io/post/anki-2-0-30/</guid>
       <description>&lt;p&gt;Anki 2.0.30 がリリースになりました。OS X 10.5, 10.6 用の代替ビルドで同期機能を継続利用するには、このバージョンへのアップグレードが必要です。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>5か月間の中断から復帰するには</title>
-      <link>http://ankigene.github.io/post/how-to-catch-up-behind/</link>
+      <link>https://ankigene.github.io/post/how-to-catch-up-behind/</link>
       <pubDate>Sun, 05 Oct 2014 23:44:22 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/how-to-catch-up-behind/</guid>
+      <guid>https://ankigene.github.io/post/how-to-catch-up-behind/</guid>
       <description>&lt;p&gt;サポートサイトに、Anki の学習を 5 か月間休んだ方からの相談が寄せられました。寄せられたアドバイスの要点は、スケジュールをリセットしない、新規カードを一時中断する、バックログを隔離して少しずつ取り組むというものです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Windows 8  へのインストール</title>
-      <link>http://ankigene.github.io/post/install-anki-for-windows8/</link>
+      <link>https://ankigene.github.io/post/install-anki-for-windows8/</link>
       <pubDate>Sun, 05 Oct 2014 23:20:18 +0000</pubDate>
       
-      <guid>http://ankigene.github.io/post/install-anki-for-windows8/</guid>
+      <guid>https://ankigene.github.io/post/install-anki-for-windows8/</guid>
       <description>&lt;p&gt;Windows 8 にインストール後、Anki が起動できない問題が繰り返しサポートサイトに報告されてます。Anki フォルダ内の prefs.db を削除するか、名前を変更するのがサポート推奨の解決方法です。今回の投稿では、起動時のエラーメッセージの画像が投稿されていますので、この問題が自分に当てはまるかの判断材料になります。&lt;/p&gt;
 </description>
     </item>
