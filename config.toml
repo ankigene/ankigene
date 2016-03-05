@@ -1,4 +1,4 @@
-baseurl = "http://ankigene.github.io/"
+baseurl = "https://ankigene.github.io/"
 languageCode = "ja"
 title = "Ankigene"
 author = "luminosspice"
