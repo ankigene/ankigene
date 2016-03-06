@@ -15,7 +15,7 @@
 						<ul class="terms">
 							{{ $data := .Data }}
 							{{ range $key, $value := .Data.Terms }}
-							<li><a href="/{{ $data.Plural }}/{{ $key | urlize }}">{{ replace $key "-" " " }}</a> </li>
+							<li><a href="/{{ $data.Plural }}/{{ $key | urlize }}/">{{ replace $key "-" " " }}</a> </li>
 							{{ end }}
 						</ul>
         </div>
