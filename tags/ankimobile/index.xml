@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ankimobile on Ankigene</title>
-    <link>https://ankigene.github.io/tags/ankimobile/</link>
+    <link>http://ankigene.luminousspice.com/tags/ankimobile/</link>
     <description>Recent content in Ankimobile on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 18 Sep 2014 15:00:36 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/tags/ankimobile/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/tags/ankimobile/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>iOS 8 互換性情報</title>
-      <link>https://ankigene.github.io/post/ankimobile-ios8-compatibility/</link>
+      <link>http://ankigene.luminousspice.com/post/ankimobile-ios8-compatibility/</link>
       <pubDate>Thu, 18 Sep 2014 15:00:36 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/ankimobile-ios8-compatibility/</guid>
+      <guid>http://ankigene.luminousspice.com/post/ankimobile-ios8-compatibility/</guid>
       <description>&lt;p&gt;サポートサイトに AnkiMobile の iOS 8 互換性について報告があり、早速 Knowledge Base が作成されました。最新版 2.0.11 はノート追加画面で単語帳 (Deck) とノートタイプの選択が出来ないとのことです。開発者から対応版を出来るだけ早くリリースするとの回答がありました。現在、把握している iOS 8 の問題はこの件だけだそうです。&lt;/p&gt;
 </description>
     </item>

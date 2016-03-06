@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lwt on Ankigene</title>
-    <link>https://ankigene.github.io/tags/lwt/</link>
+    <link>http://ankigene.luminousspice.com/tags/lwt/</link>
     <description>Recent content in Lwt on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 03 May 2014 00:00:38 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/tags/lwt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/tags/lwt/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>テキスト購読中心の語彙学習</title>
-      <link>https://ankigene.github.io/post/learning-thai-vocabulary-with-anki-and-lwt/</link>
+      <link>http://ankigene.luminousspice.com/post/learning-thai-vocabulary-with-anki-and-lwt/</link>
       <pubDate>Sat, 03 May 2014 00:00:38 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/learning-thai-vocabulary-with-anki-and-lwt/</guid>
+      <guid>http://ankigene.luminousspice.com/post/learning-thai-vocabulary-with-anki-and-lwt/</guid>
       <description>&lt;p&gt;タイ11年在住の方がタイ語の読み書きの理解を向上ために取り組んだ語彙学習の事例です。自分が読みたいテキストから語彙を抽出してAnkiで覚えている点がユニークです。私はこの記事でLWTというアプリの存在を知りました。&lt;/p&gt;
 </description>
     </item>

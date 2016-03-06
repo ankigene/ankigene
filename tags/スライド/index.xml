@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>スライド on Ankigene</title>
-    <link>https://ankigene.github.io/tags/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/</link>
+    <link>http://ankigene.luminousspice.com/tags/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/</link>
     <description>Recent content in スライド on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 28 Mar 2015 17:40:56 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/tags/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/tags/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PDF 形式のスライドから Anki カードを作成</title>
-      <link>https://ankigene.github.io/post/anki-slides-import/</link>
+      <link>http://ankigene.luminousspice.com/post/anki-slides-import/</link>
       <pubDate>Sat, 28 Mar 2015 17:40:56 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/anki-slides-import/</guid>
+      <guid>http://ankigene.luminousspice.com/post/anki-slides-import/</guid>
       <description>&lt;p&gt;musically-ut によって GitHub に公開中の anki-slides-import は、PDF 形式のスライドから Anki のカードを作成するプログラムです。&lt;/p&gt;
 </description>
     </item>

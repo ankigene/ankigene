@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>開発 on Ankigene</title>
-    <link>https://ankigene.github.io/tags/%E9%96%8B%E7%99%BA/</link>
+    <link>http://ankigene.luminousspice.com/tags/%E9%96%8B%E7%99%BA/</link>
     <description>Recent content in 開発 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 30 Jan 2016 09:00:30 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/tags/%E9%96%8B%E7%99%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/tags/%E9%96%8B%E7%99%BA/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiDroid シュミレーションによる学習量予測</title>
-      <link>https://ankigene.github.io/post/ankidroid-stats-simulation/</link>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</link>
       <pubDate>Sat, 30 Jan 2016 09:00:30 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/ankidroid-stats-simulation/</guid>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</guid>
       <description>&lt;p&gt;AnkiDroid 2.6alpha7 では、学習量を予測するシュミレーション機能が追加になりました。ユーザーが設定した正解率 (初期設定では 90%) で学習量を計算します。この機能は AnkiDroid のアドオンとして Jeffrey van Prehn が開発したものです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid 同期サーバー変更可能に</title>
-      <link>https://ankigene.github.io/post/ankidroid-supports-custom-sync-server/</link>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-supports-custom-sync-server/</link>
       <pubDate>Thu, 31 Dec 2015 11:59:35 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/ankidroid-supports-custom-sync-server/</guid>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-supports-custom-sync-server/</guid>
       <description>&lt;p&gt;AnkiDroid 2.6Alpha3 より同期サーバーが選択できるようになりました。この機能によって個人的に立ち上げた Anki Sync Server のようなサーバーをデータの同期先に指定できるようになります。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid へ音声を読み込む効率的な方法</title>
-      <link>https://ankigene.github.io/post/attach-audio-to-ankidroid/</link>
+      <link>http://ankigene.luminousspice.com/post/attach-audio-to-ankidroid/</link>
       <pubDate>Sat, 29 Aug 2015 14:15:03 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/attach-audio-to-ankidroid/</guid>
+      <guid>http://ankigene.luminousspice.com/post/attach-audio-to-ankidroid/</guid>
       <description>&lt;p&gt;kuni1591 さんの YouTube の投稿動画「Ankidroidへの音声ファイル・カット＆ペースト」では、Android 内で完結する AnkiDroid への音声データの取り込み方を紹介しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anki を活用して Go 言語を学ぼう</title>
-      <link>https://ankigene.github.io/post/learning-golang-with-anki/</link>
+      <link>http://ankigene.luminousspice.com/post/learning-golang-with-anki/</link>
       <pubDate>Wed, 17 Jun 2015 13:40:18 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/learning-golang-with-anki/</guid>
+      <guid>http://ankigene.luminousspice.com/post/learning-golang-with-anki/</guid>
       <description>&lt;p&gt;Atlassian Developers の記事 &amp;ldquo;Learning Go with flashcards and spaced repetition&amp;rdquo; で Developer Advocate の Nicola Paolucci さんが Go 言語を取得するための Anki の使い方を紹介しています。コーディングしているときに時につまずいた知識を Stack Overflow などで調べてノート化しているようです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>プログラミングを習得するのに Anki でできること</title>
-      <link>https://ankigene.github.io/post/anki-for-programming-language/</link>
+      <link>http://ankigene.luminousspice.com/post/anki-for-programming-language/</link>
       <pubDate>Mon, 01 Jun 2015 01:15:01 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/anki-for-programming-language/</guid>
+      <guid>http://ankigene.luminousspice.com/post/anki-for-programming-language/</guid>
       <description>&lt;p&gt;読書猿Classic: between / beyond readers の投稿「プログラミングとなら、できること／図書館となら、できること番外編」では、プログラミングを習得する中での Anki 活用法について触れています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PC 版 Anki 用ナイトモードアドオン</title>
-      <link>https://ankigene.github.io/post/night-mode-addon/</link>
+      <link>http://ankigene.luminousspice.com/post/night-mode-addon/</link>
       <pubDate>Tue, 07 Apr 2015 13:30:09 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/night-mode-addon/</guid>
+      <guid>http://ankigene.luminousspice.com/post/night-mode-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開された Night Mode は、PC 版 Anki でも AnkiDroid のようなナイトモードの表示を実現します。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ウェブページの内容からカードを作るアドオン</title>
-      <link>https://ankigene.github.io/post/html2anki-addon/</link>
+      <link>http://ankigene.luminousspice.com/post/html2anki-addon/</link>
       <pubDate>Tue, 07 Apr 2015 13:00:35 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/html2anki-addon/</guid>
+      <guid>http://ankigene.luminousspice.com/post/html2anki-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開されたアドオン &amp;ldquo;HTML 2 ANKI&amp;rdquo; は、ウェブページの繰り返し表示する内容を HTML 要素、属性、値を指定して抽出し、カードを一括生成するアドオンです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>カードテンプレートが選択できるアドオン</title>
-      <link>https://ankigene.github.io/post/anki-selective-card-generation/</link>
+      <link>http://ankigene.luminousspice.com/post/anki-selective-card-generation/</link>
       <pubDate>Mon, 30 Mar 2015 13:45:48 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/anki-selective-card-generation/</guid>
+      <guid>http://ankigene.luminousspice.com/post/anki-selective-card-generation/</guid>
       <description>&lt;p&gt;AnkiWeb に公開されたアドオン Selective Card Generation は、ノート追加画面でカードを作成するカードテンプレートの選択が可能になるアドオンです。例えば、既定の基本(裏面カード付き)をノートタイプとして指定しながら、表面カードだけを作成することができます。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kindle ハイライトを Anki に取り組む方法</title>
-      <link>https://ankigene.github.io/post/import-kindle-hightlights-into-anki/</link>
+      <link>http://ankigene.luminousspice.com/post/import-kindle-hightlights-into-anki/</link>
       <pubDate>Sat, 17 Jan 2015 21:30:56 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/import-kindle-hightlights-into-anki/</guid>
+      <guid>http://ankigene.luminousspice.com/post/import-kindle-hightlights-into-anki/</guid>
       <description>&lt;p&gt;NomoLog の記事「KindleハイライトをAnkiへ移すためのブックマークレット作ったよ」では、Kindle にためたハイライトを Anki に取り込む方法が紹介されています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>復習スケジュールのシュミレーション</title>
-      <link>https://ankigene.github.io/post/random-simulator/</link>
+      <link>http://ankigene.luminousspice.com/post/random-simulator/</link>
       <pubDate>Sat, 18 Oct 2014 22:20:25 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/random-simulator/</guid>
+      <guid>http://ankigene.luminousspice.com/post/random-simulator/</guid>
       <description>&lt;p&gt;Anki Random Simulator は、モンテカルロ法を使って Anki の復習スケジュールをシュミレーションします。
 このサイトでは、正解率90%、5年間に設定していますが、GitHub でソースコードを公開していますので、設定変更してシュミレーションできます。&lt;/p&gt;
 </description>
@@ -112,50 +112,50 @@
     
     <item>
       <title>ジャズピアノのコード学習</title>
-      <link>https://ankigene.github.io/post/generator-for-jazz-piano-cords/</link>
+      <link>http://ankigene.luminousspice.com/post/generator-for-jazz-piano-cords/</link>
       <pubDate>Wed, 27 Aug 2014 13:15:02 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/generator-for-jazz-piano-cords/</guid>
+      <guid>http://ankigene.luminousspice.com/post/generator-for-jazz-piano-cords/</guid>
       <description>&lt;p&gt;GitHub に公開の pianochords は、コードネーム (コードシンボル) で質問し、解答を鍵盤図で表示するジャズピアノのコード学習用の Anki 単語帳用データを自動生成します。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anki 単語帳をウェブブラウザーで一覧</title>
-      <link>https://ankigene.github.io/post/open-anki-decks-with-web-browser/</link>
+      <link>http://ankigene.luminousspice.com/post/open-anki-decks-with-web-browser/</link>
       <pubDate>Wed, 27 Aug 2014 12:00:40 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/open-anki-decks-with-web-browser/</guid>
+      <guid>http://ankigene.luminousspice.com/post/open-anki-decks-with-web-browser/</guid>
       <description>&lt;p&gt;GitHub に公開の Fuzzy-Anki を使うとウェブブラウザで Anki 単語帳パッケージファイル (AKPG) の内容を一覧できます。サーバー上でもローカルでも使えます。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>プログラミング学習のための Tips</title>
-      <link>https://ankigene.github.io/post/mastering-programing-with-anki/</link>
+      <link>http://ankigene.luminousspice.com/post/mastering-programing-with-anki/</link>
       <pubDate>Wed, 20 Aug 2014 10:00:54 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/mastering-programing-with-anki/</guid>
+      <guid>http://ankigene.luminousspice.com/post/mastering-programing-with-anki/</guid>
       <description>&lt;p&gt;Smashing Magazine &amp;ldquo;Tips For Mastering A Programming Language Using Spaced Repetition&amp;rdquo; では、Anki を使ってプログラミングを学習するための Tips を紹介。Janki Method のベストプラクティス。Ruby と JavaScript のサンプル単語帳もダウンロードできます。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>統計情報のカスタマイズ</title>
-      <link>https://ankigene.github.io/post/customize-anki-stats/</link>
+      <link>http://ankigene.luminousspice.com/post/customize-anki-stats/</link>
       <pubDate>Sat, 09 Aug 2014 11:30:50 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/customize-anki-stats/</guid>
+      <guid>http://ankigene.luminousspice.com/post/customize-anki-stats/</guid>
       <description>&lt;p&gt;統計情報のカスタマイズがサポートサイトで話題になりました。アドオンを作る方法と、データベースから直接データ出力する方法が紹介され、サンプルアドオンも投稿されています。アドオン開発者には必須の情報源です。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Android でも PC 版 Anki と同じ統計情報</title>
-      <link>https://ankigene.github.io/post/ankistats-for-ankidroid/</link>
+      <link>http://ankigene.luminousspice.com/post/ankistats-for-ankidroid/</link>
       <pubDate>Fri, 18 Jul 2014 10:45:18 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/ankistats-for-ankidroid/</guid>
+      <guid>http://ankigene.luminousspice.com/post/ankistats-for-ankidroid/</guid>
       <description>&lt;p&gt;Android アプリ AnkiStats は AnkiDroid の学習データを使って、PC版 Anki と同じ形式の統計情報を表示します。(追記) この機能は AnkiDroid 2.3 の統計情報として採用されました。最新の Alpha 版で確認できます。&lt;/p&gt;
 </description>
     </item>

@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>006 on Ankigene</title>
-    <link>https://ankigene.github.io/ankigene/006/</link>
+    <link>http://ankigene.luminousspice.com/ankigene/006/</link>
     <description>Recent content in 006 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 09 Aug 2014 14:30:57 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/ankigene/006/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/ankigene/006/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>MathJax サポートアドオン</title>
-      <link>https://ankigene.github.io/post/mathjax-support-addon-for-anki/</link>
+      <link>http://ankigene.luminousspice.com/post/mathjax-support-addon-for-anki/</link>
       <pubDate>Sat, 09 Aug 2014 14:30:57 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/mathjax-support-addon-for-anki/</guid>
+      <guid>http://ankigene.luminousspice.com/post/mathjax-support-addon-for-anki/</guid>
       <description>&lt;p&gt;数式表示のための MathJax サポートアドオンが公開。LaTeXなどの追加インストールは不要で、必要なのはネットワーク接続です。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>記憶術を日本語で学ぶなら</title>
-      <link>https://ankigene.github.io/post/japanese-mnemonics-book/</link>
+      <link>http://ankigene.luminousspice.com/post/japanese-mnemonics-book/</link>
       <pubDate>Sat, 09 Aug 2014 14:00:34 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/japanese-mnemonics-book/</guid>
+      <guid>http://ankigene.luminousspice.com/post/japanese-mnemonics-book/</guid>
       <description>&lt;p&gt;渡辺剛彰著「一発逆転!ワタナベ式記憶術」は、記憶術和書の古典。翻訳書よりも実体験にリアリティがありわかりやすい。この本の優れた点は、記憶術の使い方を示したところ。どの記憶術の書籍にもあるような典型的な記憶術だけだが、筆者の使い方活用法を示している。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>復習期日のばらつき</title>
-      <link>https://ankigene.github.io/post/variation-of-intervals/</link>
+      <link>http://ankigene.luminousspice.com/post/variation-of-intervals/</link>
       <pubDate>Sat, 09 Aug 2014 13:45:21 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/variation-of-intervals/</guid>
+      <guid>http://ankigene.luminousspice.com/post/variation-of-intervals/</guid>
       <description>&lt;p&gt;Ankiは、一緒に追加したカードが常に固まって復習することがないように、復習期日に一定のばらつきを追加しています。回答ボタンの上に表示している期日から、多少ずれて設定することがあります。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>10分歩いてからAnkiしよう</title>
-      <link>https://ankigene.github.io/post/walk-before-anki/</link>
+      <link>http://ankigene.luminousspice.com/post/walk-before-anki/</link>
       <pubDate>Sat, 09 Aug 2014 12:18:28 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/walk-before-anki/</guid>
+      <guid>http://ankigene.luminousspice.com/post/walk-before-anki/</guid>
       <description>&lt;p&gt;イリノイ大学のCarlos R. Salasらによる研究によると、30の名詞を記憶する実験で、覚える前に10分歩いた人は、25％良い結果を得たそうです。駅まで歩いて電車の中でAnkiを使う、それだけで効果あるの？&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>統計情報のカスタマイズ</title>
-      <link>https://ankigene.github.io/post/customize-anki-stats/</link>
+      <link>http://ankigene.luminousspice.com/post/customize-anki-stats/</link>
       <pubDate>Sat, 09 Aug 2014 11:30:50 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/customize-anki-stats/</guid>
+      <guid>http://ankigene.luminousspice.com/post/customize-anki-stats/</guid>
       <description>&lt;p&gt;統計情報のカスタマイズがサポートサイトで話題になりました。アドオンを作る方法と、データベースから直接データ出力する方法が紹介され、サンプルアドオンも投稿されています。アドオン開発者には必須の情報源です。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid マニュアル</title>
-      <link>https://ankigene.github.io/post/ankidroid-manual/</link>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-manual/</link>
       <pubDate>Tue, 05 Aug 2014 00:35:08 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/ankidroid-manual/</guid>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-manual/</guid>
       <description>&lt;p&gt;AnkiDroid のユーザーマニュアルの作成が始まりました。iOS アプリの AnkiMobile のマニュアルを参考に拡充するようです。プログラマ以外のユーザーがプロジェクトに貢献する機会がさらに加わりました。(追記) 出典先を最新ベータ版 2.3 beta 14 がリンクしているマニュアルに変更しました。&lt;/p&gt;
 </description>
     </item>

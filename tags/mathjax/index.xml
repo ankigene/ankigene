@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathjax on Ankigene</title>
-    <link>https://ankigene.github.io/tags/mathjax/</link>
+    <link>http://ankigene.luminousspice.com/tags/mathjax/</link>
     <description>Recent content in Mathjax on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 09 Aug 2014 14:30:57 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/tags/mathjax/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/tags/mathjax/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>MathJax サポートアドオン</title>
-      <link>https://ankigene.github.io/post/mathjax-support-addon-for-anki/</link>
+      <link>http://ankigene.luminousspice.com/post/mathjax-support-addon-for-anki/</link>
       <pubDate>Sat, 09 Aug 2014 14:30:57 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/mathjax-support-addon-for-anki/</guid>
+      <guid>http://ankigene.luminousspice.com/post/mathjax-support-addon-for-anki/</guid>
       <description>&lt;p&gt;数式表示のための MathJax サポートアドオンが公開。LaTeXなどの追加インストールは不要で、必要なのはネットワーク接続です。&lt;/p&gt;
 </description>
     </item>

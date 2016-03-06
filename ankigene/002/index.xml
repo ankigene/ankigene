@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>002 on Ankigene</title>
-    <link>https://ankigene.github.io/ankigene/002/</link>
+    <link>http://ankigene.luminousspice.com/ankigene/002/</link>
     <description>Recent content in 002 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 09 May 2014 16:30:20 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/ankigene/002/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/ankigene/002/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>apkg ファイルの内部構造</title>
-      <link>https://ankigene.github.io/post/anki-deck-apkg-insider/</link>
+      <link>http://ankigene.luminousspice.com/post/anki-deck-apkg-insider/</link>
       <pubDate>Fri, 09 May 2014 16:30:20 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/anki-deck-apkg-insider/</guid>
+      <guid>http://ankigene.luminousspice.com/post/anki-deck-apkg-insider/</guid>
       <description>&lt;p&gt;AnkiDroid の作者が Anki 単語帳パッケージ akpg ファイルの情報をまとめてくれました。フルスクラッチで sqlite を利用して apkg 作成し、コレクション、ノート、カードを追加していく手順を紹介しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>テキスト購読中心の語彙学習</title>
-      <link>https://ankigene.github.io/post/learning-thai-vocabulary-with-anki-and-lwt/</link>
+      <link>http://ankigene.luminousspice.com/post/learning-thai-vocabulary-with-anki-and-lwt/</link>
       <pubDate>Sat, 03 May 2014 00:00:38 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/learning-thai-vocabulary-with-anki-and-lwt/</guid>
+      <guid>http://ankigene.luminousspice.com/post/learning-thai-vocabulary-with-anki-and-lwt/</guid>
       <description>&lt;p&gt;タイ11年在住の方がタイ語の読み書きの理解を向上ために取り組んだ語彙学習の事例です。自分が読みたいテキストから語彙を抽出してAnkiで覚えている点がユニークです。私はこの記事でLWTというアプリの存在を知りました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>千野栄一 著「外国語上達法」</title>
-      <link>https://ankigene.github.io/post/how-to-improve-foreign-languages/</link>
+      <link>http://ankigene.luminousspice.com/post/how-to-improve-foreign-languages/</link>
       <pubDate>Fri, 02 May 2014 12:00:14 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/how-to-improve-foreign-languages/</guid>
+      <guid>http://ankigene.luminousspice.com/post/how-to-improve-foreign-languages/</guid>
       <description>&lt;p&gt;Ankiで外国語を学ぶなら目を通しておきたい不滅の一冊。外国語学習の極意は忘れることを恐れず繰り返すこと。最初の欲高いうちに基本語彙を覚える。Ankiはこの重要な段階を乗り切るのに最適。この本の指針がそのままAnkiの効果的な使い方につながる。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>4カ国語身につけたオペラ歌手の学習モデル</title>
-      <link>https://ankigene.github.io/post/learn-to-speak-4-languages/</link>
+      <link>http://ankigene.luminousspice.com/post/learn-to-speak-4-languages/</link>
       <pubDate>Thu, 01 May 2014 20:00:49 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/learn-to-speak-4-languages/</guid>
+      <guid>http://ankigene.luminousspice.com/post/learn-to-speak-4-languages/</guid>
       <description>&lt;p&gt;ポリグロット向けメソッド Tower of Babelfish の要約。C1:独仏露、B2:伊の著者がミドルベリー大学の集中授業の経験を元に発展させた学習法です。Ankiを活用した毎日60分6か月間の学習モデルを紹介しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>チェス盤をAnki上に表示</title>
-      <link>https://ankigene.github.io/post/chess-fen-for-anki/</link>
+      <link>http://ankigene.luminousspice.com/post/chess-fen-for-anki/</link>
       <pubDate>Tue, 29 Apr 2014 20:00:34 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/chess-fen-for-anki/</guid>
+      <guid>http://ankigene.luminousspice.com/post/chess-fen-for-anki/</guid>
       <description>&lt;p&gt;FEN(Forsyth-Edwards Notation)で表記したチェス盤を表示するアドオン FEN chess visualizer が公開されました。AnkiDroidのFEN表示機能と同じ書き方で表示できます。&lt;/p&gt;
 </description>
     </item>

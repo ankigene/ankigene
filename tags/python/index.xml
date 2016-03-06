@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Ankigene</title>
-    <link>https://ankigene.github.io/tags/python/</link>
+    <link>http://ankigene.luminousspice.com/tags/python/</link>
     <description>Recent content in Python on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 01 Jun 2015 01:15:01 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>プログラミングを習得するのに Anki でできること</title>
-      <link>https://ankigene.github.io/post/anki-for-programming-language/</link>
+      <link>http://ankigene.luminousspice.com/post/anki-for-programming-language/</link>
       <pubDate>Mon, 01 Jun 2015 01:15:01 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/anki-for-programming-language/</guid>
+      <guid>http://ankigene.luminousspice.com/post/anki-for-programming-language/</guid>
       <description>&lt;p&gt;読書猿Classic: between / beyond readers の投稿「プログラミングとなら、できること／図書館となら、できること番外編」では、プログラミングを習得する中での Anki 活用法について触れています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PC 版 Anki 用ナイトモードアドオン</title>
-      <link>https://ankigene.github.io/post/night-mode-addon/</link>
+      <link>http://ankigene.luminousspice.com/post/night-mode-addon/</link>
       <pubDate>Tue, 07 Apr 2015 13:30:09 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/night-mode-addon/</guid>
+      <guid>http://ankigene.luminousspice.com/post/night-mode-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開された Night Mode は、PC 版 Anki でも AnkiDroid のようなナイトモードの表示を実現します。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ウェブページの内容からカードを作るアドオン</title>
-      <link>https://ankigene.github.io/post/html2anki-addon/</link>
+      <link>http://ankigene.luminousspice.com/post/html2anki-addon/</link>
       <pubDate>Tue, 07 Apr 2015 13:00:35 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/html2anki-addon/</guid>
+      <guid>http://ankigene.luminousspice.com/post/html2anki-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開されたアドオン &amp;ldquo;HTML 2 ANKI&amp;rdquo; は、ウェブページの繰り返し表示する内容を HTML 要素、属性、値を指定して抽出し、カードを一括生成するアドオンです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>カードテンプレートが選択できるアドオン</title>
-      <link>https://ankigene.github.io/post/anki-selective-card-generation/</link>
+      <link>http://ankigene.luminousspice.com/post/anki-selective-card-generation/</link>
       <pubDate>Mon, 30 Mar 2015 13:45:48 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/anki-selective-card-generation/</guid>
+      <guid>http://ankigene.luminousspice.com/post/anki-selective-card-generation/</guid>
       <description>&lt;p&gt;AnkiWeb に公開されたアドオン Selective Card Generation は、ノート追加画面でカードを作成するカードテンプレートの選択が可能になるアドオンです。例えば、既定の基本(裏面カード付き)をノートタイプとして指定しながら、表面カードだけを作成することができます。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PDF 形式のスライドから Anki カードを作成</title>
-      <link>https://ankigene.github.io/post/anki-slides-import/</link>
+      <link>http://ankigene.luminousspice.com/post/anki-slides-import/</link>
       <pubDate>Sat, 28 Mar 2015 17:40:56 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/anki-slides-import/</guid>
+      <guid>http://ankigene.luminousspice.com/post/anki-slides-import/</guid>
       <description>&lt;p&gt;musically-ut によって GitHub に公開中の anki-slides-import は、PDF 形式のスライドから Anki のカードを作成するプログラムです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>統計情報のカスタマイズ</title>
-      <link>https://ankigene.github.io/post/customize-anki-stats/</link>
+      <link>http://ankigene.luminousspice.com/post/customize-anki-stats/</link>
       <pubDate>Sat, 09 Aug 2014 11:30:50 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/customize-anki-stats/</guid>
+      <guid>http://ankigene.luminousspice.com/post/customize-anki-stats/</guid>
       <description>&lt;p&gt;統計情報のカスタマイズがサポートサイトで話題になりました。アドオンを作る方法と、データベースから直接データ出力する方法が紹介され、サンプルアドオンも投稿されています。アドオン開発者には必須の情報源です。&lt;/p&gt;
 </description>
     </item>

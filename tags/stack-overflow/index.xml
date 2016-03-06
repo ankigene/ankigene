@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stack Overflow on Ankigene</title>
-    <link>https://ankigene.github.io/tags/stack-overflow/</link>
+    <link>http://ankigene.luminousspice.com/tags/stack-overflow/</link>
     <description>Recent content in Stack Overflow on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 17 Jun 2015 13:40:18 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/tags/stack-overflow/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/tags/stack-overflow/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anki を活用して Go 言語を学ぼう</title>
-      <link>https://ankigene.github.io/post/learning-golang-with-anki/</link>
+      <link>http://ankigene.luminousspice.com/post/learning-golang-with-anki/</link>
       <pubDate>Wed, 17 Jun 2015 13:40:18 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/learning-golang-with-anki/</guid>
+      <guid>http://ankigene.luminousspice.com/post/learning-golang-with-anki/</guid>
       <description>&lt;p&gt;Atlassian Developers の記事 &amp;ldquo;Learning Go with flashcards and spaced repetition&amp;rdquo; で Developer Advocate の Nicola Paolucci さんが Go 言語を取得するための Anki の使い方を紹介しています。コーディングしているときに時につまずいた知識を Stack Overflow などで調べてノート化しているようです。&lt;/p&gt;
 </description>
     </item>

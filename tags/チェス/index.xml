@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>チェス on Ankigene</title>
-    <link>https://ankigene.github.io/tags/%E3%83%81%E3%82%A7%E3%82%B9/</link>
+    <link>http://ankigene.luminousspice.com/tags/%E3%83%81%E3%82%A7%E3%82%B9/</link>
     <description>Recent content in チェス on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 29 Apr 2014 20:00:34 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/tags/%E3%83%81%E3%82%A7%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/tags/%E3%83%81%E3%82%A7%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>チェス盤をAnki上に表示</title>
-      <link>https://ankigene.github.io/post/chess-fen-for-anki/</link>
+      <link>http://ankigene.luminousspice.com/post/chess-fen-for-anki/</link>
       <pubDate>Tue, 29 Apr 2014 20:00:34 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/chess-fen-for-anki/</guid>
+      <guid>http://ankigene.luminousspice.com/post/chess-fen-for-anki/</guid>
       <description>&lt;p&gt;FEN(Forsyth-Edwards Notation)で表記したチェス盤を表示するアドオン FEN chess visualizer が公開されました。AnkiDroidのFEN表示機能と同じ書き方で表示できます。&lt;/p&gt;
 </description>
     </item>

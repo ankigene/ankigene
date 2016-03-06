@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>023 on Ankigene</title>
-    <link>https://ankigene.github.io/ankigene/023/</link>
+    <link>http://ankigene.luminousspice.com/ankigene/023/</link>
     <description>Recent content in 023 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 28 Mar 2015 17:50:15 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/ankigene/023/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/ankigene/023/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>語学留学で成果を上げる Anki の使い方</title>
-      <link>https://ankigene.github.io/post/language-class-with-anki/</link>
+      <link>http://ankigene.luminousspice.com/post/language-class-with-anki/</link>
       <pubDate>Sat, 28 Mar 2015 17:50:15 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/language-class-with-anki/</guid>
+      <guid>http://ankigene.luminousspice.com/post/language-class-with-anki/</guid>
       <description>&lt;p&gt;ハゲおっさんのフィリピン日記「色々工夫してますが・・・」では、語学留学先の英語のクラスで成果を上げるための Anki の活用法を紹介しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PDF 形式のスライドから Anki カードを作成</title>
-      <link>https://ankigene.github.io/post/anki-slides-import/</link>
+      <link>http://ankigene.luminousspice.com/post/anki-slides-import/</link>
       <pubDate>Sat, 28 Mar 2015 17:40:56 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/anki-slides-import/</guid>
+      <guid>http://ankigene.luminousspice.com/post/anki-slides-import/</guid>
       <description>&lt;p&gt;musically-ut によって GitHub に公開中の anki-slides-import は、PDF 形式のスライドから Anki のカードを作成するプログラムです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anki 2.0.32 リリース</title>
-      <link>https://ankigene.github.io/post/anki-2-0-32/</link>
+      <link>http://ankigene.luminousspice.com/post/anki-2-0-32/</link>
       <pubDate>Sat, 28 Mar 2015 17:30:12 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/anki-2-0-32/</guid>
+      <guid>http://ankigene.luminousspice.com/post/anki-2-0-32/</guid>
       <description>&lt;p&gt;Anki 2.0.32 が公開されました。このバージョンの変更点は主に問題点の修正で、同期に関する問題点を中心に対応が行われています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>次期バーション AnkiDroid 2.5</title>
-      <link>https://ankigene.github.io/post/ankidroid-2-5-alpha/</link>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-2-5-alpha/</link>
       <pubDate>Sat, 28 Mar 2015 17:20:55 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/ankidroid-2-5-alpha/</guid>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-2-5-alpha/</guid>
       <description>&lt;p&gt;次期バーション AnkiDroid 2.5 の開発が始まっています。ユーザーインターフェイスのリニューアルや、外部のアプリから AnkiDroid のデータベースにノートやカードを入力するコンテンツプロバイダの機能などの作成が進められています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ピアノ練習への Anki 活用例</title>
-      <link>https://ankigene.github.io/post/piano-practice-anki/</link>
+      <link>http://ankigene.luminousspice.com/post/piano-practice-anki/</link>
       <pubDate>Sat, 28 Mar 2015 17:14:53 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/piano-practice-anki/</guid>
+      <guid>http://ankigene.luminousspice.com/post/piano-practice-anki/</guid>
       <description>&lt;p&gt;YouTube の動画 &amp;ldquo;Piano practice session using Anki&amp;rdquo; では、ピアノの演奏練習に Anki を活用している様子を収録しています。既存カードの譜面から切り取って新規カードとして発展させる方法も確認できます。&lt;/p&gt;
 </description>
     </item>

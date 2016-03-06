@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>029 on Ankigene</title>
-    <link>https://ankigene.github.io/ankigene/029/</link>
+    <link>http://ankigene.luminousspice.com/ankigene/029/</link>
     <description>Recent content in 029 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 31 Jan 2016 08:20:26 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/ankigene/029/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/ankigene/029/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiDroid テーマ切り替え機能</title>
-      <link>https://ankigene.github.io/post/ankidroid-theme-switcher/</link>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-theme-switcher/</link>
       <pubDate>Sun, 31 Jan 2016 08:20:26 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/ankidroid-theme-switcher/</guid>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-theme-switcher/</guid>
       <description>&lt;p&gt;AnkiDroid 2.6alpha8 で Theme switcher 機能が追加になりました。デイモード、ナイトモードそれぞれ標準のデザインテーマと新たに追加のグレースケールで表現したシンプルなテーマに切り替えて使えるようになります。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>アジアの英語圏 3億人の ESL</title>
-      <link>https://ankigene.github.io/post/esl-demography-in-asia/</link>
+      <link>http://ankigene.luminousspice.com/post/esl-demography-in-asia/</link>
       <pubDate>Sat, 30 Jan 2016 10:00:01 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/esl-demography-in-asia/</guid>
+      <guid>http://ankigene.luminousspice.com/post/esl-demography-in-asia/</guid>
       <description>&lt;p&gt;hellog～英語史ブログの投稿「#2469. アジアの英語圏」によれば、南アジア・東南アジアの ESL 人口はおおよそ 3.2 億人だそうです。これは日本の近隣諸国に莫大な英語話者が既に存在すること、今後の人口成長や英語教育の進展から世界の英語全体の動向への影響が強くなっていくことを意味し、日本は近隣諸国の英語を巡る環境変化に注意が必要であろうとのことです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid シュミレーションによる学習量予測</title>
-      <link>https://ankigene.github.io/post/ankidroid-stats-simulation/</link>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</link>
       <pubDate>Sat, 30 Jan 2016 09:00:30 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/ankidroid-stats-simulation/</guid>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</guid>
       <description>&lt;p&gt;AnkiDroid 2.6alpha7 では、学習量を予測するシュミレーション機能が追加になりました。ユーザーが設定した正解率 (初期設定では 90%) で学習量を計算します。この機能は AnkiDroid のアドオンとして Jeffrey van Prehn が開発したものです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>突然外国語が分かり出す決定的な瞬間</title>
-      <link>https://ankigene.github.io/post/aha-eureka-moment/</link>
+      <link>http://ankigene.luminousspice.com/post/aha-eureka-moment/</link>
       <pubDate>Thu, 28 Jan 2016 15:15:54 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/aha-eureka-moment/</guid>
+      <guid>http://ankigene.luminousspice.com/post/aha-eureka-moment/</guid>
       <description>&lt;p&gt;Reddit の投稿 &amp;lsquo;Is there such thing as an &amp;ldquo;aha / eureka&amp;rdquo; moment in language learning and why?&amp;rsquo; では、学習している外国語が突然分かり出す瞬間とはどのようなものだったか、ドイツ語、フランス語、スペイン語、アラビア語エジプト方言などについてコメントが寄せられています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>難読漢字シリーズ単語帳</title>
-      <link>https://ankigene.github.io/post/deck-nandoku-kanji/</link>
+      <link>http://ankigene.luminousspice.com/post/deck-nandoku-kanji/</link>
       <pubDate>Sat, 23 Jan 2016 18:55:02 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/deck-nandoku-kanji/</guid>
+      <guid>http://ankigene.luminousspice.com/post/deck-nandoku-kanji/</guid>
       <description>&lt;p&gt;AnkiWeb に難読漢字シリーズの単語帳が公開になりました。テーマ別に五つに分類した単語帳からなり、高校生レベルから始めて漢字検定一級が目指せる難易度設定になっています。&lt;/p&gt;
 </description>
     </item>

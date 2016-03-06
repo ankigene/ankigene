@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>数式 on Ankigene</title>
-    <link>https://ankigene.github.io/tags/%E6%95%B0%E5%BC%8F/</link>
+    <link>http://ankigene.luminousspice.com/tags/%E6%95%B0%E5%BC%8F/</link>
     <description>Recent content in 数式 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 25 Oct 2014 15:00:28 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/tags/%E6%95%B0%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/tags/%E6%95%B0%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>TeX Live できれいな数式表示</title>
-      <link>https://ankigene.github.io/post/anki-with-tex-live/</link>
+      <link>http://ankigene.luminousspice.com/post/anki-with-tex-live/</link>
       <pubDate>Sat, 25 Oct 2014 15:00:28 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/anki-with-tex-live/</guid>
+      <guid>http://ankigene.luminousspice.com/post/anki-with-tex-live/</guid>
       <description>&lt;p&gt;Qiita「WindowsのAnkiでTeXを使う TeX Live 2014の場合」では、Windows 版 Anki で数式表示するための Tex Live ディストリビューションの設定手順を解説しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>LaTex の簡単な入力法</title>
-      <link>https://ankigene.github.io/post/easy-way-to-use-latex-on-anki/</link>
+      <link>http://ankigene.luminousspice.com/post/easy-way-to-use-latex-on-anki/</link>
       <pubDate>Thu, 21 Aug 2014 13:45:51 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/easy-way-to-use-latex-on-anki/</guid>
+      <guid>http://ankigene.luminousspice.com/post/easy-way-to-use-latex-on-anki/</guid>
       <description>&lt;p&gt;Stack Exchange の記事によれば、オンラインの WYSIWYG な LaTeX エディタを利用すると数式表示の LaTex の入力が簡単になり、Anki 特有の制限も回避。オンラインサービスにアクセスできる全ての機器で使えます。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MathJax サポートアドオン</title>
-      <link>https://ankigene.github.io/post/mathjax-support-addon-for-anki/</link>
+      <link>http://ankigene.luminousspice.com/post/mathjax-support-addon-for-anki/</link>
       <pubDate>Sat, 09 Aug 2014 14:30:57 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/mathjax-support-addon-for-anki/</guid>
+      <guid>http://ankigene.luminousspice.com/post/mathjax-support-addon-for-anki/</guid>
       <description>&lt;p&gt;数式表示のための MathJax サポートアドオンが公開。LaTeXなどの追加インストールは不要で、必要なのはネットワーク接続です。&lt;/p&gt;
 </description>
     </item>

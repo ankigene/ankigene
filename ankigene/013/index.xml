@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>013 on Ankigene</title>
-    <link>https://ankigene.github.io/ankigene/013/</link>
+    <link>http://ankigene.luminousspice.com/ankigene/013/</link>
     <description>Recent content in 013 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 05 Oct 2014 23:47:49 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/ankigene/013/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/ankigene/013/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anki は 8 歳になりました</title>
-      <link>https://ankigene.github.io/post/anki-8th-birthday/</link>
+      <link>http://ankigene.luminousspice.com/post/anki-8th-birthday/</link>
       <pubDate>Sun, 05 Oct 2014 23:47:49 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/anki-8th-birthday/</guid>
+      <guid>http://ankigene.luminousspice.com/post/anki-8th-birthday/</guid>
       <description>&lt;p&gt;10月5日は Anki の誕生日です。8歳になりました。学習オプションの初期値の秀逸な加減に8年間の蓄積を見て取ることができます。これからもこのユニークなソフトの開発が続くことを願っています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>医学生にとっての適正な学習枚数</title>
-      <link>https://ankigene.github.io/post/proper-limits-a-day/</link>
+      <link>http://ankigene.luminousspice.com/post/proper-limits-a-day/</link>
       <pubDate>Sun, 05 Oct 2014 23:45:00 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/proper-limits-a-day/</guid>
+      <guid>http://ankigene.luminousspice.com/post/proper-limits-a-day/</guid>
       <description>&lt;p&gt;reddit に膨大な暗記量に頭を悩ませている米国の医学生たちから、Anki で学習するカードの適正学習枚数について、失敗談も含めて投稿されています。進級試験の対応も含めた Anki 活用法を知ることができます。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>5か月間の中断から復帰するには</title>
-      <link>https://ankigene.github.io/post/how-to-catch-up-behind/</link>
+      <link>http://ankigene.luminousspice.com/post/how-to-catch-up-behind/</link>
       <pubDate>Sun, 05 Oct 2014 23:44:22 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/how-to-catch-up-behind/</guid>
+      <guid>http://ankigene.luminousspice.com/post/how-to-catch-up-behind/</guid>
       <description>&lt;p&gt;サポートサイトに、Anki の学習を 5 か月間休んだ方からの相談が寄せられました。寄せられたアドバイスの要点は、スケジュールをリセットしない、新規カードを一時中断する、バックログを隔離して少しずつ取り組むというものです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Windows 8  へのインストール</title>
-      <link>https://ankigene.github.io/post/install-anki-for-windows8/</link>
+      <link>http://ankigene.luminousspice.com/post/install-anki-for-windows8/</link>
       <pubDate>Sun, 05 Oct 2014 23:20:18 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/install-anki-for-windows8/</guid>
+      <guid>http://ankigene.luminousspice.com/post/install-anki-for-windows8/</guid>
       <description>&lt;p&gt;Windows 8 にインストール後、Anki が起動できない問題が繰り返しサポートサイトに報告されてます。Anki フォルダ内の prefs.db を削除するか、名前を変更するのがサポート推奨の解決方法です。今回の投稿では、起動時のエラーメッセージの画像が投稿されていますので、この問題が自分に当てはまるかの判断材料になります。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiMobile 次期バージョンについて</title>
-      <link>https://ankigene.github.io/post/ankimobile-update/</link>
+      <link>http://ankigene.luminousspice.com/post/ankimobile-update/</link>
       <pubDate>Sun, 05 Oct 2014 23:00:11 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/ankimobile-update/</guid>
+      <guid>http://ankigene.luminousspice.com/post/ankimobile-update/</guid>
       <description>&lt;p&gt;作者からサポートサイトに、Anki の iOS アプリの次期バージョンのリリース時期の見込みと、変更内容について説明が投稿されました。報告済みの iOS8上でのノートを追加する際のノートタイプと保存先単語帳の選択の問題に加えて、重大な問題点が修正されたようです。追加機能としては、新しい iPhone の画面サポートとユーザーインターフェイスの向上をあげています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid 2.3 マニュアル</title>
-      <link>https://ankigene.github.io/post/ankidroid-2-3-manual/</link>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-2-3-manual/</link>
       <pubDate>Wed, 01 Oct 2014 17:00:40 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/ankidroid-2-3-manual/</guid>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-2-3-manual/</guid>
       <description>&lt;p&gt;AnkiDroid 2.3 リリースに向けて、ユーザーマニュアルが公開されました。AnkiDroid の機能全般を画像を交えながら説明しています。AnkiDroid 2.3 Alpha 34 以降は新しいマニュアルにリンクを設定しています。&lt;/p&gt;
 </description>
     </item>

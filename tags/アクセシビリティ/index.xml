@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>アクセシビリティ on Ankigene</title>
-    <link>https://ankigene.github.io/tags/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3/</link>
+    <link>http://ankigene.luminousspice.com/tags/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3/</link>
     <description>Recent content in アクセシビリティ on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 28 Sep 2014 12:00:33 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/tags/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/tags/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anki とアクセシビリティ</title>
-      <link>https://ankigene.github.io/post/anki-accessibility/</link>
+      <link>http://ankigene.luminousspice.com/post/anki-accessibility/</link>
       <pubDate>Sun, 28 Sep 2014 12:00:33 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/anki-accessibility/</guid>
+      <guid>http://ankigene.luminousspice.com/post/anki-accessibility/</guid>
       <description>&lt;p&gt;Anki サポートフォーラムに投稿された内容によると、Anki アプリの中でアクセシビリティ機能を利用できるのは、iOS 版アプリの AnkiMobile とアンドロイド版アプリの AnkiDroid のいずれかとのことです。&lt;/p&gt;
 </description>
     </item>

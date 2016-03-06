@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tasker on Ankigene</title>
-    <link>https://ankigene.github.io/tags/tasker/</link>
+    <link>http://ankigene.luminousspice.com/tags/tasker/</link>
     <description>Recent content in Tasker on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 03 Jan 2016 20:00:41 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/tags/tasker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/tags/tasker/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiDroid でバックグラウンド同期</title>
-      <link>https://ankigene.github.io/post/ankidroid-background-sync/</link>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-background-sync/</link>
       <pubDate>Sun, 03 Jan 2016 20:00:41 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/ankidroid-background-sync/</guid>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-background-sync/</guid>
       <description>&lt;p&gt;AnkiDroid 2.5 は、オートメーションアプリの Tasker を利用したバックグラウンド同期をサポートしています。GitHub の Wiki に設定方法とプロファイルのサンプルが掲載されました。&lt;/p&gt;
 </description>
     </item>

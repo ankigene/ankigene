@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>漢字 on Ankigene</title>
-    <link>https://ankigene.github.io/tags/%E6%BC%A2%E5%AD%97/</link>
+    <link>http://ankigene.luminousspice.com/tags/%E6%BC%A2%E5%AD%97/</link>
     <description>Recent content in 漢字 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 23 Jan 2016 18:55:02 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/tags/%E6%BC%A2%E5%AD%97/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/tags/%E6%BC%A2%E5%AD%97/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>難読漢字シリーズ単語帳</title>
-      <link>https://ankigene.github.io/post/deck-nandoku-kanji/</link>
+      <link>http://ankigene.luminousspice.com/post/deck-nandoku-kanji/</link>
       <pubDate>Sat, 23 Jan 2016 18:55:02 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/deck-nandoku-kanji/</guid>
+      <guid>http://ankigene.luminousspice.com/post/deck-nandoku-kanji/</guid>
       <description>&lt;p&gt;AnkiWeb に難読漢字シリーズの単語帳が公開になりました。テーマ別に五つに分類した単語帳からなり、高校生レベルから始めて漢字検定一級が目指せる難易度設定になっています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid を活用した漢字書取練習</title>
-      <link>https://ankigene.github.io/post/ankidroid-kanji-test/</link>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-kanji-test/</link>
       <pubDate>Sat, 24 Jan 2015 01:01:12 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/ankidroid-kanji-test/</guid>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-kanji-test/</guid>
       <description>&lt;p&gt;YouTube に「Ankiを使って漢字の書き取り」という AnkiDroid とタブレットを活用した小学生の漢字書取練習を撮影した動画が pyanko さんによって投稿されました。&lt;/p&gt;
 </description>
     </item>

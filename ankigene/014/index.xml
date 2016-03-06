@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>014 on Ankigene</title>
-    <link>https://ankigene.github.io/ankigene/014/</link>
+    <link>http://ankigene.luminousspice.com/ankigene/014/</link>
     <description>Recent content in 014 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 19 Oct 2014 21:00:49 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/ankigene/014/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/ankigene/014/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anki 2.0.31 リリース</title>
-      <link>https://ankigene.github.io/post/anki-2-0-31/</link>
+      <link>http://ankigene.luminousspice.com/post/anki-2-0-31/</link>
       <pubDate>Sun, 19 Oct 2014 21:00:49 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/anki-2-0-31/</guid>
+      <guid>http://ankigene.luminousspice.com/post/anki-2-0-31/</guid>
       <description>&lt;p&gt;このバージョンでは、大量のデータを定期的に同期するとタイムアウトが発生する問題に対応しました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anki 復習間隔を決める仕組み</title>
-      <link>https://ankigene.github.io/post/anki-manual-sched/</link>
+      <link>http://ankigene.luminousspice.com/post/anki-manual-sched/</link>
       <pubDate>Sat, 18 Oct 2014 23:53:58 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/anki-manual-sched/</guid>
+      <guid>http://ankigene.luminousspice.com/post/anki-manual-sched/</guid>
       <description>&lt;p&gt;Anki ユーザーマニュアルに、スケジュールアルゴリズムの概要が掲載されました。復習での解答ボタンの選択によって、復習間隔や易しさ (ease) を決定する仕組みを解説しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>復習スケジュールのシュミレーション</title>
-      <link>https://ankigene.github.io/post/random-simulator/</link>
+      <link>http://ankigene.luminousspice.com/post/random-simulator/</link>
       <pubDate>Sat, 18 Oct 2014 22:20:25 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/random-simulator/</guid>
+      <guid>http://ankigene.luminousspice.com/post/random-simulator/</guid>
       <description>&lt;p&gt;Anki Random Simulator は、モンテカルロ法を使って Anki の復習スケジュールをシュミレーションします。
 このサイトでは、正解率90%、5年間に設定していますが、GitHub でソースコードを公開していますので、設定変更してシュミレーションできます。&lt;/p&gt;
 </description>
@@ -42,20 +42,20 @@
     
     <item>
       <title>Mac 用代替ビルドでの同期は 2.0.30 以降が必須</title>
-      <link>https://ankigene.github.io/post/anki-2-0-30/</link>
+      <link>http://ankigene.luminousspice.com/post/anki-2-0-30/</link>
       <pubDate>Sat, 18 Oct 2014 22:00:13 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/anki-2-0-30/</guid>
+      <guid>http://ankigene.luminousspice.com/post/anki-2-0-30/</guid>
       <description>&lt;p&gt;Anki 2.0.30 がリリースになりました。OS X 10.5, 10.6 用の代替ビルドで同期機能を継続利用するには、このバージョンへのアップグレードが必要です。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>表、リスト、コードブロックの入力を簡単にするアドオン</title>
-      <link>https://ankigene.github.io/post/power-format-pack/</link>
+      <link>http://ankigene.luminousspice.com/post/power-format-pack/</link>
       <pubDate>Tue, 07 Oct 2014 18:30:34 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/power-format-pack/</guid>
+      <guid>http://ankigene.luminousspice.com/post/power-format-pack/</guid>
       <description>&lt;p&gt;Power format pack は、ノートエディタで指定する書式を強化するアドオンです。表やリスト、コードブロック、取り消し線、罫線などが利用できます。&lt;/p&gt;
 </description>
     </item>

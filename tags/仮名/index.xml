@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>仮名 on Ankigene</title>
-    <link>https://ankigene.github.io/tags/%E4%BB%AE%E5%90%8D/</link>
+    <link>http://ankigene.luminousspice.com/tags/%E4%BB%AE%E5%90%8D/</link>
     <description>Recent content in 仮名 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 14 Jan 2015 12:45:22 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/tags/%E4%BB%AE%E5%90%8D/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/tags/%E4%BB%AE%E5%90%8D/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>単語帳 変体仮名の読み方</title>
-      <link>https://ankigene.github.io/post/hentaigana/</link>
+      <link>http://ankigene.luminousspice.com/post/hentaigana/</link>
       <pubDate>Wed, 14 Jan 2015 12:45:22 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/hentaigana/</guid>
+      <guid>http://ankigene.luminousspice.com/post/hentaigana/</guid>
       <description>&lt;p&gt;AnkiWeb の共有単語帳に変体仮名 (異体仮名) の読み方を練習する単語帳が登録されました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>単語帳 万葉仮名の読み方</title>
-      <link>https://ankigene.github.io/post/manyougana/</link>
+      <link>http://ankigene.luminousspice.com/post/manyougana/</link>
       <pubDate>Wed, 14 Jan 2015 12:30:09 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/manyougana/</guid>
+      <guid>http://ankigene.luminousspice.com/post/manyougana/</guid>
       <description>&lt;p&gt;AnkiWeb の共有単語帳に万葉仮名の読み方を練習する単語帳が登録されました。&lt;/p&gt;
 </description>
     </item>

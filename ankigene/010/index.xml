@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>010 on Ankigene</title>
-    <link>https://ankigene.github.io/ankigene/010/</link>
+    <link>http://ankigene.luminousspice.com/ankigene/010/</link>
     <description>Recent content in 010 on Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 07 Sep 2014 09:45:29 +0000</lastBuildDate>
-    <atom:link href="https://ankigene.github.io/ankigene/010/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ankigene.luminousspice.com/ankigene/010/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>次期 AnkiDroid 2.3 リリースプラン</title>
-      <link>https://ankigene.github.io/post/ankidroid-2-3-release-plan/</link>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-2-3-release-plan/</link>
       <pubDate>Sun, 07 Sep 2014 09:45:29 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/ankidroid-2-3-release-plan/</guid>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-2-3-release-plan/</guid>
       <description>&lt;p&gt;AnkiDroid サポートサイトに次期安定板 2.3 のリリースプランが公開。現行バージョンの問題修正が主で、統計表示の強化、AnkiWebとのメディア同期、画像ズームの問題に取り組むようです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>古典的記憶術の具体的な訓練手順</title>
-      <link>https://ankigene.github.io/post/moonwalking-einstein/</link>
+      <link>http://ankigene.luminousspice.com/post/moonwalking-einstein/</link>
       <pubDate>Sat, 06 Sep 2014 20:35:46 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/moonwalking-einstein/</guid>
+      <guid>http://ankigene.luminousspice.com/post/moonwalking-einstein/</guid>
       <description>&lt;p&gt;「ごく平凡な記憶力の私が1年で全米記憶力チャンピオンになれた理由」は、素人の作者が古典的な記憶術を訓練して全米選手権を目指した記録。世界選手権者による既刊本より具体的に分かりやすく説明。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>カードへの JavaScript 利用</title>
-      <link>https://ankigene.github.io/post/javascript-support-on-cards/</link>
+      <link>http://ankigene.luminousspice.com/post/javascript-support-on-cards/</link>
       <pubDate>Sat, 06 Sep 2014 20:00:17 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/javascript-support-on-cards/</guid>
+      <guid>http://ankigene.luminousspice.com/post/javascript-support-on-cards/</guid>
       <description>&lt;p&gt;Anki マニュアルにカード上での JavaScript 利用のサポートについて記述追加。これまでのサポートでの回答の通り動作保証はせず、開発上の制約と注意点についてまとめられています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>LessWrong からの単語帳</title>
-      <link>https://ankigene.github.io/post/decks-from-lesswrong-users/</link>
+      <link>http://ankigene.luminousspice.com/post/decks-from-lesswrong-users/</link>
       <pubDate>Wed, 03 Sep 2014 10:32:13 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/decks-from-lesswrong-users/</guid>
+      <guid>http://ankigene.luminousspice.com/post/decks-from-lesswrong-users/</guid>
       <description>&lt;p&gt;人間の合理性や意思決定を題材とするコミュニティ LessWrong のユーザー作成 Anki 単語帳一覧。LessWrong らしい認知科学、暗記術、自己啓発などの項目に分類し、AnkiWeb 外で共有している単語帳も収録しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AnkiDroid から辞書を引く</title>
-      <link>https://ankigene.github.io/post/lookup-dictionary-on-ankidroid/</link>
+      <link>http://ankigene.luminousspice.com/post/lookup-dictionary-on-ankidroid/</link>
       <pubDate>Sat, 30 Aug 2014 23:00:11 +0000</pubDate>
       
-      <guid>https://ankigene.github.io/post/lookup-dictionary-on-ankidroid/</guid>
+      <guid>http://ankigene.luminousspice.com/post/lookup-dictionary-on-ankidroid/</guid>
       <description>&lt;p&gt;Capricious POV「AnkiDroidで辞書を使う」では、カード上の選択範囲から辞書を引く方法を説明。日本語UIの設定方法は、[設定]-[拡張機能]-[検索辞書]から使用辞書を選択。&lt;/p&gt;
 </description>
     </item>
