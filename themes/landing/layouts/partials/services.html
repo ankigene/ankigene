@@ -1,7 +1,7 @@
 <section id="services">
 
 <!-- Page Content -->
- {{ range first .Site.Params.topitem .Data.Pages }}
+ {{ range first .Site.Params.topitem (where .Data.Pages.ByDate.Reverse "Type" "post") }}
  {{ partial "ankigene_content.html" . }}
  {{ end }}
 
