@@ -3,17 +3,16 @@
   <channel>
     <title>Rewordify on Ankigene</title>
     <link>http://ankigene.luminousspice.com/tags/rewordify/</link>
-    <description>Recent content in Rewordify on Ankigene</description>
+    <description>最新記事 in Rewordify | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Feb 2015 00:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2015 00:10:32 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/tags/rewordify/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>テキストを読みながら Anki 単語帳を作成</title>
       <link>http://ankigene.luminousspice.com/post/anki-deck-from-rewordify/</link>
       <pubDate>Fri, 20 Feb 2015 00:10:32 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/anki-deck-from-rewordify/</guid>
       <description>&lt;p&gt;道草趣向「読んでいるテキストから単語を抽出して Anki 単語帳を作る」では、テキストやURLを入力すると英文中の難しい語句をやさしい語句に変換するサービス rewordify.com を活用して、Anki の単語帳を作成する方法を紹介しています。難易度は6段階で選択でき、すぐに利用可能な文学作品も登録されています。&lt;/p&gt;
 </description>

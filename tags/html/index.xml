@@ -3,17 +3,16 @@
   <channel>
     <title>Html on Ankigene</title>
     <link>http://ankigene.luminousspice.com/tags/html/</link>
-    <description>Recent content in Html on Ankigene</description>
+    <description>最新記事 in Html | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Apr 2015 13:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2015 13:00:35 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ウェブページの内容からカードを作るアドオン</title>
       <link>http://ankigene.luminousspice.com/post/html2anki-addon/</link>
       <pubDate>Tue, 07 Apr 2015 13:00:35 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/html2anki-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開されたアドオン &amp;ldquo;HTML 2 ANKI&amp;rdquo; は、ウェブページの繰り返し表示する内容を HTML 要素、属性、値を指定して抽出し、カードを一括生成するアドオンです。&lt;/p&gt;
 </description>

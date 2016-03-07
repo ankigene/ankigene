@@ -3,7 +3,7 @@
   <channel>
     <title>Ankigene</title>
     <link>http://ankigene.luminousspice.com/ankigene/</link>
-    <description>Recent content on Ankigene</description>
+    <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 29 Feb 2016 00:03:52 +0900</lastBuildDate>
@@ -13,7 +13,6 @@
       <title>カードの内容をブラウザーの中で検索するアドオン</title>
       <link>http://ankigene.luminousspice.com/post/search-browser-addon/</link>
       <pubDate>Mon, 29 Feb 2016 00:03:52 +0900</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/search-browser-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開された「Search browser for selected words」というアドオンは、Anki のカード面で選択した内容を検索して、カードブラウザー内に結果を表示する機能を提供します。別のカードに同じ項目が含まれていないか調べるのに役立ちます。&lt;/p&gt;
 </description>

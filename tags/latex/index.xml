@@ -3,17 +3,16 @@
   <channel>
     <title>Latex on Ankigene</title>
     <link>http://ankigene.luminousspice.com/tags/latex/</link>
-    <description>Recent content in Latex on Ankigene</description>
+    <description>最新記事 in Latex | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Oct 2014 15:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2014 15:00:28 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/tags/latex/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>TeX Live できれいな数式表示</title>
       <link>http://ankigene.luminousspice.com/post/anki-with-tex-live/</link>
       <pubDate>Sat, 25 Oct 2014 15:00:28 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/anki-with-tex-live/</guid>
       <description>&lt;p&gt;Qiita「WindowsのAnkiでTeXを使う TeX Live 2014の場合」では、Windows 版 Anki で数式表示するための Tex Live ディストリビューションの設定手順を解説しています。&lt;/p&gt;
 </description>
@@ -23,7 +22,6 @@
       <title>ジャズピアノのコード学習</title>
       <link>http://ankigene.luminousspice.com/post/generator-for-jazz-piano-cords/</link>
       <pubDate>Wed, 27 Aug 2014 13:15:02 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/generator-for-jazz-piano-cords/</guid>
       <description>&lt;p&gt;GitHub に公開の pianochords は、コードネーム (コードシンボル) で質問し、解答を鍵盤図で表示するジャズピアノのコード学習用の Anki 単語帳用データを自動生成します。&lt;/p&gt;
 </description>
@@ -33,7 +31,6 @@
       <title>LaTex の簡単な入力法</title>
       <link>http://ankigene.luminousspice.com/post/easy-way-to-use-latex-on-anki/</link>
       <pubDate>Thu, 21 Aug 2014 13:45:51 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/easy-way-to-use-latex-on-anki/</guid>
       <description>&lt;p&gt;Stack Exchange の記事によれば、オンラインの WYSIWYG な LaTeX エディタを利用すると数式表示の LaTex の入力が簡単になり、Anki 特有の制限も回避。オンラインサービスにアクセスできる全ての機器で使えます。&lt;/p&gt;
 </description>
@@ -43,7 +40,6 @@
       <title>MathJax サポートアドオン</title>
       <link>http://ankigene.luminousspice.com/post/mathjax-support-addon-for-anki/</link>
       <pubDate>Sat, 09 Aug 2014 14:30:57 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/mathjax-support-addon-for-anki/</guid>
       <description>&lt;p&gt;数式表示のための MathJax サポートアドオンが公開。LaTeXなどの追加インストールは不要で、必要なのはネットワーク接続です。&lt;/p&gt;
 </description>

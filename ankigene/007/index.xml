@@ -3,17 +3,16 @@
   <channel>
     <title>007 on Ankigene</title>
     <link>http://ankigene.luminousspice.com/ankigene/007/</link>
-    <description>Recent content in 007 on Ankigene</description>
+    <description>最新記事 in 007 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 13 Aug 2014 00:50:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2014 00:50:21 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/ankigene/007/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>基礎医学と丸暗記</title>
       <link>http://ankigene.luminousspice.com/post/rote-learning-in-medical-school/</link>
       <pubDate>Wed, 13 Aug 2014 00:50:21 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/rote-learning-in-medical-school/</guid>
       <description>&lt;p&gt;シロクマの屑籠「「暗記のカラクリ」に馴染むまで、基礎医学は悪夢だった」によると、医学部で基礎医学を学ぶための丸暗記の様子と効用が説明されています。米国の医学校の学生は Anki を生き残るためのツールとして紹介していますが、この投稿から具体的な様子が窺い知ることができます。&lt;/p&gt;
 </description>
@@ -23,19 +22,8 @@
       <title>学習オプション設定例</title>
       <link>http://ankigene.luminousspice.com/post/example-of-study-options/</link>
       <pubDate>Wed, 13 Aug 2014 00:25:25 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/example-of-study-options/</guid>
       <description>&lt;p&gt;Anki に使い慣れてくると既定の Anki の学習オプションでは飽き足らなくなってきます。ゼムリア通信「【Ankidroid】アンキドロイドをTOEICの学習に使う」では、TOEIC 問題集のための学習オプションカスタマイズ例が紹介されています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AnkiDroid に日本語名称を統一</title>
-      <link>http://ankigene.luminousspice.com/post/japanese-name-of-ankidroid/</link>
-      <pubDate>Wed, 13 Aug 2014 00:14:57 +0000</pubDate>
-      
-      <guid>http://ankigene.luminousspice.com/post/japanese-name-of-ankidroid/</guid>
-      <description>&lt;p&gt;AnkiDroid日本語ユーザーフォーラムによれば、AnkiDroid v.2.2.1以降で日本語ユーザーインタフェイスに変更が行われ、アプリの日本語名称をアンキドロイドから変更し AnkiDroid に統一したとのことです。&lt;/p&gt;
 </description>
     </item>
     
@@ -43,9 +31,17 @@
       <title>統計情報を手動分析する</title>
       <link>http://ankigene.luminousspice.com/post/document-for-manual-analysis/</link>
       <pubDate>Wed, 13 Aug 2014 00:14:57 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/document-for-manual-analysis/</guid>
       <description>&lt;p&gt;Anki学習の統計情報をデータベースから取り出し、手動で直接分析する方法がドキュメント化されました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AnkiDroid に日本語名称を統一</title>
+      <link>http://ankigene.luminousspice.com/post/japanese-name-of-ankidroid/</link>
+      <pubDate>Wed, 13 Aug 2014 00:14:57 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/japanese-name-of-ankidroid/</guid>
+      <description>&lt;p&gt;AnkiDroid日本語ユーザーフォーラムによれば、AnkiDroid v.2.2.1以降で日本語ユーザーインタフェイスに変更が行われ、アプリの日本語名称をアンキドロイドから変更し AnkiDroid に統一したとのことです。&lt;/p&gt;
 </description>
     </item>
     

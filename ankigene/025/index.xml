@@ -3,17 +3,16 @@
   <channel>
     <title>025 on Ankigene</title>
     <link>http://ankigene.luminousspice.com/ankigene/025/</link>
-    <description>Recent content in 025 on Ankigene</description>
+    <description>最新記事 in 025 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2015 13:40:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2015 13:40:18 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/ankigene/025/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anki を活用して Go 言語を学ぼう</title>
       <link>http://ankigene.luminousspice.com/post/learning-golang-with-anki/</link>
       <pubDate>Wed, 17 Jun 2015 13:40:18 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/learning-golang-with-anki/</guid>
       <description>&lt;p&gt;Atlassian Developers の記事 &amp;ldquo;Learning Go with flashcards and spaced repetition&amp;rdquo; で Developer Advocate の Nicola Paolucci さんが Go 言語を取得するための Anki の使い方を紹介しています。コーディングしているときに時につまずいた知識を Stack Overflow などで調べてノート化しているようです。&lt;/p&gt;
 </description>
@@ -23,7 +22,6 @@
       <title>毎日 Anki を使って数年経つとどうなるの</title>
       <link>http://ankigene.luminousspice.com/post/anki-experience-for-years/</link>
       <pubDate>Mon, 01 Jun 2015 01:50:53 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/anki-experience-for-years/</guid>
       <description>&lt;p&gt;reddit での質問 &amp;ldquo;I was wondering what peoples experience is like after a few years of daily anki&amp;hellip; is it like a superpower having vast knowledge always at hand?&amp;rdquo; に対して、実際に年単位でのAnki 利用経験者からのコメントが集まっています。&lt;/p&gt;
 </description>
@@ -33,7 +31,6 @@
       <title>プログラミングを習得するのに Anki でできること</title>
       <link>http://ankigene.luminousspice.com/post/anki-for-programming-language/</link>
       <pubDate>Mon, 01 Jun 2015 01:15:01 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/anki-for-programming-language/</guid>
       <description>&lt;p&gt;読書猿Classic: between / beyond readers の投稿「プログラミングとなら、できること／図書館となら、できること番外編」では、プログラミングを習得する中での Anki 活用法について触れています。&lt;/p&gt;
 </description>
@@ -43,7 +40,6 @@
       <title>AnkiDroid チュートリアル動画</title>
       <link>http://ankigene.luminousspice.com/post/ankidroid-tutorial-movie/</link>
       <pubDate>Mon, 01 Jun 2015 00:10:25 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankidroid-tutorial-movie/</guid>
       <description>&lt;p&gt;kuni1591 さんが YouTube に投稿した「Ankidroid使いこなし」では、AnkiDroid の基本的な操作方法と、PC 版 Anki との連携方法を紹介しています。&lt;/p&gt;
 </description>

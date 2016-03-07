@@ -3,17 +3,16 @@
   <channel>
     <title>広告ブロック on Ankigene</title>
     <link>http://ankigene.luminousspice.com/tags/%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF/</link>
-    <description>Recent content in 広告ブロック on Ankigene</description>
+    <description>最新記事 in 広告ブロック | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Mar 2015 10:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2015 10:00:06 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>広告ブロックアプリと AnkiDroid の同期機能</title>
       <link>http://ankigene.luminousspice.com/post/adblock-ankidroid-sync/</link>
       <pubDate>Fri, 06 Mar 2015 10:00:06 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/adblock-ankidroid-sync/</guid>
       <description>&lt;p&gt;Anki サポートフォーラムに広告ブロックアプリを利用すると AnkiDroid と AnkiWeb との同期に問題が発生することが報告されました。&lt;/p&gt;
 </description>

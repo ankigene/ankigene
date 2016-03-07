@@ -3,7 +3,7 @@
   <channel>
     <title>Github on Ankigene</title>
     <link>http://ankigene.luminousspice.com/tags/github/</link>
-    <description>Recent content in Github on Ankigene</description>
+    <description>最新記事 in Github | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 29 Feb 2016 00:03:52 +0900</lastBuildDate>
@@ -13,7 +13,6 @@
       <title>カードの内容をブラウザーの中で検索するアドオン</title>
       <link>http://ankigene.luminousspice.com/post/search-browser-addon/</link>
       <pubDate>Mon, 29 Feb 2016 00:03:52 +0900</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/search-browser-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開された「Search browser for selected words」というアドオンは、Anki のカード面で選択した内容を検索して、カードブラウザー内に結果を表示する機能を提供します。別のカードに同じ項目が含まれていないか調べるのに役立ちます。&lt;/p&gt;
 </description>
@@ -23,7 +22,6 @@
       <title>AnkiDroid テーマ切り替え機能</title>
       <link>http://ankigene.luminousspice.com/post/ankidroid-theme-switcher/</link>
       <pubDate>Sun, 31 Jan 2016 08:20:26 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankidroid-theme-switcher/</guid>
       <description>&lt;p&gt;AnkiDroid 2.6alpha8 で Theme switcher 機能が追加になりました。デイモード、ナイトモードそれぞれ標準のデザインテーマと新たに追加のグレースケールで表現したシンプルなテーマに切り替えて使えるようになります。&lt;/p&gt;
 </description>
@@ -33,7 +31,6 @@
       <title>AnkiDroid シュミレーションによる学習量予測</title>
       <link>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</link>
       <pubDate>Sat, 30 Jan 2016 09:00:30 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</guid>
       <description>&lt;p&gt;AnkiDroid 2.6alpha7 では、学習量を予測するシュミレーション機能が追加になりました。ユーザーが設定した正解率 (初期設定では 90%) で学習量を計算します。この機能は AnkiDroid のアドオンとして Jeffrey van Prehn が開発したものです。&lt;/p&gt;
 </description>
@@ -43,7 +40,6 @@
       <title>AnkiDroid でバックグラウンド同期</title>
       <link>http://ankigene.luminousspice.com/post/ankidroid-background-sync/</link>
       <pubDate>Sun, 03 Jan 2016 20:00:41 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankidroid-background-sync/</guid>
       <description>&lt;p&gt;AnkiDroid 2.5 は、オートメーションアプリの Tasker を利用したバックグラウンド同期をサポートしています。GitHub の Wiki に設定方法とプロファイルのサンプルが掲載されました。&lt;/p&gt;
 </description>
@@ -53,7 +49,6 @@
       <title>AnkiDroid 同期サーバー変更可能に</title>
       <link>http://ankigene.luminousspice.com/post/ankidroid-supports-custom-sync-server/</link>
       <pubDate>Thu, 31 Dec 2015 11:59:35 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankidroid-supports-custom-sync-server/</guid>
       <description>&lt;p&gt;AnkiDroid 2.6Alpha3 より同期サーバーが選択できるようになりました。この機能によって個人的に立ち上げた Anki Sync Server のようなサーバーをデータの同期先に指定できるようになります。&lt;/p&gt;
 </description>
@@ -63,7 +58,6 @@
       <title>AnkiDroid 書式ガイド</title>
       <link>http://ankigene.luminousspice.com/post/ankidroid-advanced-formatting/</link>
       <pubDate>Sun, 27 Dec 2015 17:00:26 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankidroid-advanced-formatting/</guid>
       <description>&lt;p&gt;AnkiDroid 2.5 からノートタイプの編集ができるようになりました。これにあわせて AnkiDroid 用の書式ガイドが GitHub の Wiki 上に公開になりました。垂直方向のセンタリングやワードラップ、ナイトモードのカスタム方法などが紹介されています。&lt;/p&gt;
 </description>
@@ -73,7 +67,6 @@
       <title>PC 版 Anki 用ナイトモードアドオン</title>
       <link>http://ankigene.luminousspice.com/post/night-mode-addon/</link>
       <pubDate>Tue, 07 Apr 2015 13:30:09 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/night-mode-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開された Night Mode は、PC 版 Anki でも AnkiDroid のようなナイトモードの表示を実現します。&lt;/p&gt;
 </description>
@@ -83,7 +76,6 @@
       <title>ウェブページの内容からカードを作るアドオン</title>
       <link>http://ankigene.luminousspice.com/post/html2anki-addon/</link>
       <pubDate>Tue, 07 Apr 2015 13:00:35 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/html2anki-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開されたアドオン &amp;ldquo;HTML 2 ANKI&amp;rdquo; は、ウェブページの繰り返し表示する内容を HTML 要素、属性、値を指定して抽出し、カードを一括生成するアドオンです。&lt;/p&gt;
 </description>
@@ -93,7 +85,6 @@
       <title>カードテンプレートが選択できるアドオン</title>
       <link>http://ankigene.luminousspice.com/post/anki-selective-card-generation/</link>
       <pubDate>Mon, 30 Mar 2015 13:45:48 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/anki-selective-card-generation/</guid>
       <description>&lt;p&gt;AnkiWeb に公開されたアドオン Selective Card Generation は、ノート追加画面でカードを作成するカードテンプレートの選択が可能になるアドオンです。例えば、既定の基本(裏面カード付き)をノートタイプとして指定しながら、表面カードだけを作成することができます。&lt;/p&gt;
 </description>
@@ -103,7 +94,6 @@
       <title>PDF 形式のスライドから Anki カードを作成</title>
       <link>http://ankigene.luminousspice.com/post/anki-slides-import/</link>
       <pubDate>Sat, 28 Mar 2015 17:40:56 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/anki-slides-import/</guid>
       <description>&lt;p&gt;musically-ut によって GitHub に公開中の anki-slides-import は、PDF 形式のスライドから Anki のカードを作成するプログラムです。&lt;/p&gt;
 </description>
@@ -113,7 +103,6 @@
       <title>次期バーション AnkiDroid 2.5</title>
       <link>http://ankigene.luminousspice.com/post/ankidroid-2-5-alpha/</link>
       <pubDate>Sat, 28 Mar 2015 17:20:55 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankidroid-2-5-alpha/</guid>
       <description>&lt;p&gt;次期バーション AnkiDroid 2.5 の開発が始まっています。ユーザーインターフェイスのリニューアルや、外部のアプリから AnkiDroid のデータベースにノートやカードを入力するコンテンツプロバイダの機能などの作成が進められています。&lt;/p&gt;
 </description>
@@ -123,7 +112,6 @@
       <title>AnkiMobile 2.0.13 の問題点</title>
       <link>http://ankigene.luminousspice.com/post/ankimobile-2013-crash-on-syncing/</link>
       <pubDate>Thu, 30 Oct 2014 20:50:11 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankimobile-2013-crash-on-syncing/</guid>
       <description>&lt;p&gt;&lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;29&lt;/sub&gt; リリースの Anki iOS アプリ AnkiMobile 2.0.13 には、以前のバージョンからアップグレードすると同期中にクラッシュする問題を抱えています。修正版公開までの回避策はメディア同期を無効にします。設定手順 Preference &amp;gt; Syncing &amp;gt; Transfer Media で [OFF] を選択。&lt;/p&gt;
 </description>
@@ -133,7 +121,6 @@
       <title>復習スケジュールのシュミレーション</title>
       <link>http://ankigene.luminousspice.com/post/random-simulator/</link>
       <pubDate>Sat, 18 Oct 2014 22:20:25 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/random-simulator/</guid>
       <description>&lt;p&gt;Anki Random Simulator は、モンテカルロ法を使って Anki の復習スケジュールをシュミレーションします。
 このサイトでは、正解率90%、5年間に設定していますが、GitHub でソースコードを公開していますので、設定変更してシュミレーションできます。&lt;/p&gt;
@@ -144,7 +131,6 @@
       <title>Chromebook で AnkiDroid を使う</title>
       <link>http://ankigene.luminousspice.com/post/ankidroid-on-chromebook/</link>
       <pubDate>Sat, 20 Sep 2014 18:50:41 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankidroid-on-chromebook/</guid>
       <description>&lt;p&gt;AnkiDroid Forum への投稿 &amp;ldquo;AnkiDroid running on Chromebooks&amp;rdquo; では apk を Chrome OS 用に変換するツール Chromeos-apk を使って、AnkiDroid を Chromebook 上で実行する方法を紹介しています。(追記)  AnkiDroid 2.4 で Chromebook が正式サポートされました。&lt;/p&gt;
 </description>
@@ -154,7 +140,6 @@
       <title>ジャズピアノのコード学習</title>
       <link>http://ankigene.luminousspice.com/post/generator-for-jazz-piano-cords/</link>
       <pubDate>Wed, 27 Aug 2014 13:15:02 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/generator-for-jazz-piano-cords/</guid>
       <description>&lt;p&gt;GitHub に公開の pianochords は、コードネーム (コードシンボル) で質問し、解答を鍵盤図で表示するジャズピアノのコード学習用の Anki 単語帳用データを自動生成します。&lt;/p&gt;
 </description>

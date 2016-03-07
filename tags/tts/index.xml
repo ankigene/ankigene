@@ -3,17 +3,16 @@
   <channel>
     <title>Tts on Ankigene</title>
     <link>http://ankigene.luminousspice.com/tags/tts/</link>
-    <description>Recent content in Tts on Ankigene</description>
+    <description>最新記事 in Tts | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Feb 2016 20:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Feb 2016 20:00:34 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/tags/tts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AwesomeTTS による読み上げ設定チュートリアル</title>
       <link>http://ankigene.luminousspice.com/post/awesometts-tutorial/</link>
       <pubDate>Sat, 20 Feb 2016 20:00:34 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/awesometts-tutorial/</guid>
       <description>&lt;p&gt;萌え萌えmoebuntu の投稿「語学学習アプリ「Anki」の「音声読み上げ設定」　２、3 」は、二回にわたる AwesomeTTS のチュートリアルです。英語のテキストを読み上げるの方法から、TTSで読み上げる音声ファイルを一括作成する手順まで、画像をふんだんに使って丁寧に説明しています。PCとスマホで同じTTSの音声を聞きたい方にはお勧めの内容です。&lt;/p&gt;
 </description>
@@ -23,7 +22,6 @@
       <title>AwesomeTTS における Google Translate TTS サポート終了</title>
       <link>http://ankigene.luminousspice.com/post/awesometts-ends-gtts-support/</link>
       <pubDate>Sun, 27 Dec 2015 17:30:54 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/awesometts-ends-gtts-support/</guid>
       <description>&lt;p&gt;アドオン AwesomeTTS の作者によれば、Google Translate TTS サービスのサポートを終了するとのことです。既存のデータを Google TTS から変更する際に参考となる、利用可能な TTS の一覧とその詳細は AwesomeTTS サイトで紹介しています。なお、標準設定は Windows では SAPI、OS X では SAY コマンド、Linux では Yandex Translate に変更とのことです。&lt;/p&gt;
 </description>
@@ -33,7 +31,6 @@
       <title>保育士試験のための活用法</title>
       <link>http://ankigene.luminousspice.com/post/certificate-for-childcare-worker/</link>
       <pubDate>Sun, 27 Dec 2015 14:00:36 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/certificate-for-childcare-worker/</guid>
       <description>&lt;p&gt;☆妊活と保育士を頑張るブログ☆の投稿「合格のために工夫したこと(筆記)②」では、AnkiDroid を活用した保育士試験の過去問や予想問題の復習方法を紹介しています。AnkiDroid の読み上げ機能を利用した音声による復習が効果的なのだそうです。&lt;/p&gt;
 </description>
@@ -43,7 +40,6 @@
       <title>AwesomeTTS 公式ドキュメント</title>
       <link>http://ankigene.luminousspice.com/post/awesometts-document/</link>
       <pubDate>Tue, 29 Jul 2014 19:20:23 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/awesometts-document/</guid>
       <description>&lt;p&gt;Text-to-Speech 機能を Anki に追加するアドオン AwesomeTTS v.1.0.0 が公式ドキュメントともに公開。このアドオンの設定方法、呼び出し方、利用 TTS 別の設定法が文書化されました。&lt;/p&gt;
 </description>

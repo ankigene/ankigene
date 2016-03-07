@@ -3,17 +3,16 @@
   <channel>
     <title>日本語 on Ankigene</title>
     <link>http://ankigene.luminousspice.com/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
-    <description>Recent content in 日本語 on Ankigene</description>
+    <description>最新記事 in 日本語 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 23 Jan 2016 18:55:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Jan 2016 18:55:02 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>難読漢字シリーズ単語帳</title>
       <link>http://ankigene.luminousspice.com/post/deck-nandoku-kanji/</link>
       <pubDate>Sat, 23 Jan 2016 18:55:02 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/deck-nandoku-kanji/</guid>
       <description>&lt;p&gt;AnkiWeb に難読漢字シリーズの単語帳が公開になりました。テーマ別に五つに分類した単語帳からなり、高校生レベルから始めて漢字検定一級が目指せる難易度設定になっています。&lt;/p&gt;
 </description>
@@ -23,7 +22,6 @@
       <title>同じ文章や動画を繰り返して言語習得</title>
       <link>http://ankigene.luminousspice.com/post/narrow-reading-watching/</link>
       <pubDate>Sat, 31 Jan 2015 14:35:07 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/narrow-reading-watching/</guid>
       <description>&lt;p&gt;Learn Japanese the Hard Way の投稿 &amp;ldquo;My Japanese Learning Tool #1: Read and watch again and again and again the same things (as long as I find it interesting)&amp;rdquo; では、Anki や Pocket を活用しながら、同じ文章や動画を繰り返し読んだり見たりすることで、日本語習得の効果をあげた手順を紹介しています。&lt;/p&gt;
 </description>
@@ -33,7 +31,6 @@
       <title>単語帳 変体仮名の読み方</title>
       <link>http://ankigene.luminousspice.com/post/hentaigana/</link>
       <pubDate>Wed, 14 Jan 2015 12:45:22 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/hentaigana/</guid>
       <description>&lt;p&gt;AnkiWeb の共有単語帳に変体仮名 (異体仮名) の読み方を練習する単語帳が登録されました。&lt;/p&gt;
 </description>
@@ -43,7 +40,6 @@
       <title>単語帳 万葉仮名の読み方</title>
       <link>http://ankigene.luminousspice.com/post/manyougana/</link>
       <pubDate>Wed, 14 Jan 2015 12:30:09 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/manyougana/</guid>
       <description>&lt;p&gt;AnkiWeb の共有単語帳に万葉仮名の読み方を練習する単語帳が登録されました。&lt;/p&gt;
 </description>

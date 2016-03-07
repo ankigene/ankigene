@@ -3,17 +3,16 @@
   <channel>
     <title>Ocr on Ankigene</title>
     <link>http://ankigene.luminousspice.com/tags/ocr/</link>
-    <description>Recent content in Ocr on Ankigene</description>
+    <description>最新記事 in Ocr | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Sep 2014 13:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2014 13:00:34 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/tags/ocr/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>紙カードを Anki に読み込む</title>
       <link>http://ankigene.luminousspice.com/post/how-to-convert-physical-cards/</link>
       <pubDate>Thu, 25 Sep 2014 13:00:34 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/how-to-convert-physical-cards/</guid>
       <description>&lt;p&gt;AnkiDroid Forum に、普通のカードを Anki に変換する手順が実際に利用している方から寄せられました、スキャナーで取り込んで、OCR で処理し、テキストファイルにして Anki に読み込む手順です。&lt;/p&gt;
 </description>

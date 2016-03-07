@@ -3,17 +3,16 @@
   <channel>
     <title>019 on Ankigene</title>
     <link>http://ankigene.luminousspice.com/ankigene/019/</link>
-    <description>Recent content in 019 on Ankigene</description>
+    <description>最新記事 in 019 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Feb 2015 08:55:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2015 08:55:06 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/ankigene/019/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Incremental Reading を利用した記憶するための読書ログ</title>
       <link>http://ankigene.luminousspice.com/post/incremental-reading-log/</link>
       <pubDate>Sun, 08 Feb 2015 08:55:06 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/incremental-reading-log/</guid>
       <description>&lt;p&gt;道草趣向の投稿「使える読書ログを Anki と Incremental Reading でつくる」では、Anki と Incremental Reading アドオンを活用して、記憶することを前提とした読書ログの取り方を紹介しています。&lt;/p&gt;
 </description>
@@ -23,7 +22,6 @@
       <title>AnkiDroid UI デザイン提案</title>
       <link>http://ankigene.luminousspice.com/post/ankidroid-ui-design/</link>
       <pubDate>Fri, 06 Feb 2015 10:30:30 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankidroid-ui-design/</guid>
       <description>&lt;p&gt;AnkiDroid ユーザーフォーラムのスレッド &amp;ldquo;Material Design&amp;rdquo; に新しいユーザーインターフェイスを提案する投稿が寄せられました。&lt;/p&gt;
 </description>
@@ -33,7 +31,6 @@
       <title>AnkiDroid の使い方</title>
       <link>http://ankigene.luminousspice.com/post/ankidroid-tutorial/</link>
       <pubDate>Fri, 06 Feb 2015 10:00:49 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankidroid-tutorial/</guid>
       <description>&lt;p&gt;履歴書に書ける！　簡単に取得できる資格の記事「AnkiDroid（単語帳アプリ）の使い方」は、カードの作り方、Anki PC版を活用した Excel データの読み込み方、AnkiWeb を利用したスマホ と PC 連携について説明するチュートリアルです。&lt;/p&gt;
 </description>
@@ -43,7 +40,6 @@
       <title>同じ文章や動画を繰り返して言語習得</title>
       <link>http://ankigene.luminousspice.com/post/narrow-reading-watching/</link>
       <pubDate>Sat, 31 Jan 2015 14:35:07 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/narrow-reading-watching/</guid>
       <description>&lt;p&gt;Learn Japanese the Hard Way の投稿 &amp;ldquo;My Japanese Learning Tool #1: Read and watch again and again and again the same things (as long as I find it interesting)&amp;rdquo; では、Anki や Pocket を活用しながら、同じ文章や動画を繰り返し読んだり見たりすることで、日本語習得の効果をあげた手順を紹介しています。&lt;/p&gt;
 </description>
@@ -53,7 +49,6 @@
       <title>Goldlist Method 日本語解説</title>
       <link>http://ankigene.luminousspice.com/post/goldlist-method-summary/</link>
       <pubDate>Sat, 31 Jan 2015 03:00:56 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/goldlist-method-summary/</guid>
       <description>&lt;p&gt;塞翁失馬、焉知非福の記事「ゴールドリスト法（Goldlist Method）による語彙の増強」で、リラックスした環境で紙のノートに手書きして語彙を記憶する方法 Goldlist Method の具体的な作業手順が日本語解説されました。&lt;/p&gt;
 </description>

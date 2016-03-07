@@ -3,17 +3,16 @@
   <channel>
     <title>Youtube on Ankigene</title>
     <link>http://ankigene.luminousspice.com/tags/youtube/</link>
-    <description>Recent content in Youtube on Ankigene</description>
+    <description>最新記事 in Youtube | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2015 14:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2015 14:15:03 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiDroid へ音声を読み込む効率的な方法</title>
       <link>http://ankigene.luminousspice.com/post/attach-audio-to-ankidroid/</link>
       <pubDate>Sat, 29 Aug 2015 14:15:03 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/attach-audio-to-ankidroid/</guid>
       <description>&lt;p&gt;kuni1591 さんの YouTube の投稿動画「Ankidroidへの音声ファイル・カット＆ペースト」では、Android 内で完結する AnkiDroid への音声データの取り込み方を紹介しています。&lt;/p&gt;
 </description>
@@ -23,7 +22,6 @@
       <title>AnkiDroid チュートリアル動画</title>
       <link>http://ankigene.luminousspice.com/post/ankidroid-tutorial-movie/</link>
       <pubDate>Mon, 01 Jun 2015 00:10:25 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankidroid-tutorial-movie/</guid>
       <description>&lt;p&gt;kuni1591 さんが YouTube に投稿した「Ankidroid使いこなし」では、AnkiDroid の基本的な操作方法と、PC 版 Anki との連携方法を紹介しています。&lt;/p&gt;
 </description>
@@ -33,7 +31,6 @@
       <title>ピアノ練習への Anki 活用例</title>
       <link>http://ankigene.luminousspice.com/post/piano-practice-anki/</link>
       <pubDate>Sat, 28 Mar 2015 17:14:53 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/piano-practice-anki/</guid>
       <description>&lt;p&gt;YouTube の動画 &amp;ldquo;Piano practice session using Anki&amp;rdquo; では、ピアノの演奏練習に Anki を活用している様子を収録しています。既存カードの譜面から切り取って新規カードとして発展させる方法も確認できます。&lt;/p&gt;
 </description>
@@ -43,7 +40,6 @@
       <title>AnkiDroid を活用した漢字書取練習</title>
       <link>http://ankigene.luminousspice.com/post/ankidroid-kanji-test/</link>
       <pubDate>Sat, 24 Jan 2015 01:01:12 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankidroid-kanji-test/</guid>
       <description>&lt;p&gt;YouTube に「Ankiを使って漢字の書き取り」という AnkiDroid とタブレットを活用した小学生の漢字書取練習を撮影した動画が pyanko さんによって投稿されました。&lt;/p&gt;
 </description>

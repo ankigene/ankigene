@@ -3,17 +3,16 @@
   <channel>
     <title>Twitter on Ankigene</title>
     <link>http://ankigene.luminousspice.com/tags/twitter/</link>
-    <description>Recent content in Twitter on Ankigene</description>
+    <description>最新記事 in Twitter | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2015 13:50:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2015 13:50:11 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>人物整理に Anki を利用する読書法</title>
       <link>http://ankigene.luminousspice.com/post/effective-reading-with-anki/</link>
       <pubDate>Sat, 29 Aug 2015 13:50:11 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/effective-reading-with-anki/</guid>
       <description>&lt;p&gt;@UncleMonoglot さんのツイートでは、登場人物の多い書籍を読む際の Anki 活用法が紹介されました。登場人物の一覧表を Anki で記憶しながら読むそうです。名刺帳代わりの使い方は以前から知られていましたが、本の中の人物整理に活用する点が独創的です。&lt;/p&gt;
 </description>
@@ -23,7 +22,6 @@
       <title>Anki の基礎知識をつぶやいてます</title>
       <link>http://ankigene.luminousspice.com/post/ankigene-bot-updated/</link>
       <pubDate>Fri, 23 Jan 2015 15:05:45 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankigene-bot-updated/</guid>
       <description>&lt;p&gt;ツイッターアカウント Ankigene (@Ankigene) は、Anki を使い始めた時に、知っておくと役立つ知識を定期的につぶやきます。今回の更新で、用語、使い方、機能拡張するアドオンの説明を取り上げるようになりました。&lt;/p&gt;
 </description>
@@ -33,7 +31,6 @@
       <title>Ankigene のお気に入り</title>
       <link>http://ankigene.luminousspice.com/post/ankigene-favorites/</link>
       <pubDate>Sun, 28 Sep 2014 10:00:46 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankigene-favorites/</guid>
       <description>&lt;p&gt;ツイッターで Anki ユーザーの意欲を活性化する話題 ankigene の種を見つけたら、お気に入りに登録しています。特にユニークなものは Ankigene に掲載します。&lt;/p&gt;
 </description>
@@ -43,7 +40,6 @@
       <title>Anki Tips をつぶやく Bot</title>
       <link>http://ankigene.luminousspice.com/post/ankigene-bot/</link>
       <pubDate>Sun, 21 Sep 2014 20:10:02 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankigene-bot/</guid>
       <description>&lt;p&gt;Anki の Tips や用語解説を定期的にランダムにつぶやく Bot (@Ankigene) を公開しました。Anki Tips の記事と、公開済みの記事から How-to を抜き出して、ツイートのサイズにに収まるように編集しています。&lt;/p&gt;
 </description>
@@ -53,7 +49,6 @@
       <title>Anki のヒントをつぶやく Bot</title>
       <link>http://ankigene.luminousspice.com/post/anki-tips-bot/</link>
       <pubDate>Sat, 30 Aug 2014 21:15:37 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/anki-tips-bot/</guid>
       <description>&lt;p&gt;Ankigne Bot (@Ankigene) は Anki Tips や Anki の用語など、Anki を使う上で役立つヒントをつぶやく Bot です。&lt;/p&gt;
 </description>
@@ -63,7 +58,6 @@
       <title>15歳のアーティストの移動時間の活用法</title>
       <link>http://ankigene.luminousspice.com/post/an-15-year-old-artist-uses-anki/</link>
       <pubDate>Fri, 18 Jul 2014 10:30:09 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/an-15-year-old-artist-uses-anki/</guid>
       <description>&lt;p&gt;15歳のアーティスト、當山みれいさんは、音楽活動の合間にAnkiDroidを使って英文を暗記しているとのことです。&lt;/p&gt;
 </description>

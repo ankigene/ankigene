@@ -3,17 +3,16 @@
   <channel>
     <title>表 on Ankigene</title>
     <link>http://ankigene.luminousspice.com/tags/%E8%A1%A8/</link>
-    <description>Recent content in 表 on Ankigene</description>
+    <description>最新記事 in 表 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Oct 2014 18:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2014 18:30:34 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>表、リスト、コードブロックの入力を簡単にするアドオン</title>
       <link>http://ankigene.luminousspice.com/post/power-format-pack/</link>
       <pubDate>Tue, 07 Oct 2014 18:30:34 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/power-format-pack/</guid>
       <description>&lt;p&gt;Power format pack は、ノートエディタで指定する書式を強化するアドオンです。表やリスト、コードブロック、取り消し線、罫線などが利用できます。&lt;/p&gt;
 </description>

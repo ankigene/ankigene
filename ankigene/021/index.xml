@@ -3,17 +3,16 @@
   <channel>
     <title>021 on Ankigene</title>
     <link>http://ankigene.luminousspice.com/ankigene/021/</link>
-    <description>Recent content in 021 on Ankigene</description>
+    <description>最新記事 in 021 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Mar 2015 18:40:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2015 18:40:09 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/ankigene/021/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>クイズ番組 Jeopardy! チャンピオンの Anki 活用法</title>
       <link>http://ankigene.luminousspice.com/post/jeopardy-champion/</link>
       <pubDate>Sat, 07 Mar 2015 18:40:09 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/jeopardy-champion/</guid>
       <description>&lt;p&gt;Mental Floss の記事 &amp;ldquo;Our Interview With Jeopardy! Champion Arthur Chu&amp;rdquo; は、米国のクイズ番組  Jeopardy! でチャンピオンになった Arthur Chu 氏へのインタビューを収録しています。その中で Anki をどのように活用したか説明しています。&lt;/p&gt;
 </description>
@@ -23,7 +22,6 @@
       <title>AnkiWeb のフリーミアム化に対する開発者からの回答</title>
       <link>http://ankigene.luminousspice.com/post/ankiweb-freemium/</link>
       <pubDate>Fri, 06 Mar 2015 10:30:02 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankiweb-freemium/</guid>
       <description>&lt;p&gt;AnkiWeb の契約条件に &amp;ldquo;Freemium&amp;rdquo; の可能性を留保する文言が入っていることに対して、Anki の開発者より Anki サポートフォーラム のスレッド&amp;rdquo;
 Question about changes to conditions regarding Ipad App&amp;rdquo; の中で回答がありました。この文言は 2011 年から既に存在し、短期的な計画の中にフリーミアム化は入っていないそうです。仮にそうなった場合の既存ユーザーに対する方針も触れています。&lt;/p&gt;
@@ -34,7 +32,6 @@ Question about changes to conditions regarding Ipad App&amp;rdquo; の中で回�
       <title>AnkiWeb 契約条件更新</title>
       <link>http://ankigene.luminousspice.com/post/ankiweb-update-terms-conditions/</link>
       <pubDate>Fri, 06 Mar 2015 10:20:07 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankiweb-update-terms-conditions/</guid>
       <description>&lt;p&gt;AnkiWeb の Terms and Conditions (契約条件) が更新され、AnkiWeb のアカウントを継続利用するためには、Webブラウザーでサインインした上でこの契約条件を承諾する必要があります。AnkiWeb に同期したコンテンツのプライバシー、共有コンテンツを公開する際の遵守すべき条件、運営側の免責事項などこれまでよりも明確に記述されています。&lt;/p&gt;
 </description>
@@ -44,7 +41,6 @@ Question about changes to conditions regarding Ipad App&amp;rdquo; の中で回�
       <title>広告ブロックアプリと AnkiDroid の同期機能</title>
       <link>http://ankigene.luminousspice.com/post/adblock-ankidroid-sync/</link>
       <pubDate>Fri, 06 Mar 2015 10:00:06 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/adblock-ankidroid-sync/</guid>
       <description>&lt;p&gt;Anki サポートフォーラムに広告ブロックアプリを利用すると AnkiDroid と AnkiWeb との同期に問題が発生することが報告されました。&lt;/p&gt;
 </description>
@@ -54,7 +50,6 @@ Question about changes to conditions regarding Ipad App&amp;rdquo; の中で回�
       <title>1万件のバックログから復帰するには</title>
       <link>http://ankigene.luminousspice.com/post/clear-10k-backlog/</link>
       <pubDate>Tue, 03 Mar 2015 23:20:38 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/clear-10k-backlog/</guid>
       <description>&lt;p&gt;かなり特殊なケースですが、他のアプリからカードを移行したため、学習履歴が消失して発生した11,000枚のカードのバックログをどのように解消すべきかという相談がサポートサイトに寄せられました。&lt;/p&gt;
 </description>

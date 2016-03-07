@@ -3,17 +3,16 @@
   <channel>
     <title>030 on Ankigene</title>
     <link>http://ankigene.luminousspice.com/ankigene/030/</link>
-    <description>Recent content in 030 on Ankigene</description>
+    <description>最新記事 in 030 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Feb 2016 21:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Feb 2016 21:00:38 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/ankigene/030/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>米国医師国家試験のための Anki の活用法</title>
       <link>http://ankigene.luminousspice.com/post/usmle-step1/</link>
       <pubDate>Sat, 20 Feb 2016 21:00:38 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/usmle-step1/</guid>
       <description>&lt;p&gt;医師アメリカ留学のためのブログ～USMLE勉強法、MPH～ の投稿「USMLE STEP1 勉強法　各論１ 」では、米国医師国家試験 (USMLE) に合格した著者の Anki 活用法を取り上げています。カードの内容や分量、学習ペースなどを具体的に紹介しています。医学生の Anki の活用法は英文では簡単に見つかりますが、日本から医学留学した方が自らの体験を元に日本語で書いている点が大変貴重です。&lt;/p&gt;
 </description>
@@ -23,7 +22,6 @@
       <title>AwesomeTTS による読み上げ設定チュートリアル</title>
       <link>http://ankigene.luminousspice.com/post/awesometts-tutorial/</link>
       <pubDate>Sat, 20 Feb 2016 20:00:34 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/awesometts-tutorial/</guid>
       <description>&lt;p&gt;萌え萌えmoebuntu の投稿「語学学習アプリ「Anki」の「音声読み上げ設定」　２、3 」は、二回にわたる AwesomeTTS のチュートリアルです。英語のテキストを読み上げるの方法から、TTSで読み上げる音声ファイルを一括作成する手順まで、画像をふんだんに使って丁寧に説明しています。PCとスマホで同じTTSの音声を聞きたい方にはお勧めの内容です。&lt;/p&gt;
 </description>
@@ -33,7 +31,6 @@
       <title>ペーストする画像の大きさを変更するアドオン</title>
       <link>http://ankigene.luminousspice.com/post/image-resizer-addon/</link>
       <pubDate>Tue, 09 Feb 2016 20:30:53 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/image-resizer-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に登録された &amp;ldquo;Image Resizer &amp;ndash; Resize the image when pasting&amp;rdquo; は、フィールドに画像を貼り付ける時に指定の大きさを変更するアドオンです。&lt;/p&gt;
 </description>
@@ -43,7 +40,6 @@
       <title>メディアの登録を強化する JSON 読み込みアドオン</title>
       <link>http://ankigene.luminousspice.com/post/json-importer-addon/</link>
       <pubDate>Tue, 09 Feb 2016 20:00:16 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/json-importer-addon/</guid>
       <description>&lt;p&gt;AnkiWeb で公開のアドオン &amp;ldquo;Json Importer&amp;rdquo; は、Anki の読み込み機能に JSON 形式のサポートを追加します。読み込みデータのフィールドの内容を画像や動画のパスにすると、自動的にメディアファイルとして取り込む機能を提供しています。&lt;/p&gt;
 </description>
@@ -53,7 +49,6 @@
       <title>3年間でフランス語 DALF C1 を取るためにやったこと</title>
       <link>http://ankigene.luminousspice.com/post/3years-for-french-c1/</link>
       <pubDate>Sun, 07 Feb 2016 23:30:39 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/3years-for-french-c1/</guid>
       <description>&lt;p&gt;reddit の投稿 &amp;ldquo;3 years ago I started teaching myself French and I passed C1 today!&amp;rdquo; では、台湾人の方が3年でフランス語 C1 レベルの DALF を取得するために行った学習内容を説明しています。ネットの動画やラジオの活用に加えて、早い段階で小説を読み始めるのが特徴的です。一番最初の本はタラ・ダンカン (Tara Duncun) シリーズだそうです。&lt;/p&gt;
 </description>

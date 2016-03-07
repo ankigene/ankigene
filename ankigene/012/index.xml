@@ -3,17 +3,16 @@
   <channel>
     <title>012 on Ankigene</title>
     <link>http://ankigene.luminousspice.com/ankigene/012/</link>
-    <description>Recent content in 012 on Ankigene</description>
+    <description>最新記事 in 012 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Sep 2014 12:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2014 12:00:33 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/ankigene/012/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anki とアクセシビリティ</title>
       <link>http://ankigene.luminousspice.com/post/anki-accessibility/</link>
       <pubDate>Sun, 28 Sep 2014 12:00:33 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/anki-accessibility/</guid>
       <description>&lt;p&gt;Anki サポートフォーラムに投稿された内容によると、Anki アプリの中でアクセシビリティ機能を利用できるのは、iOS 版アプリの AnkiMobile とアンドロイド版アプリの AnkiDroid のいずれかとのことです。&lt;/p&gt;
 </description>
@@ -23,7 +22,6 @@
       <title>Goldlist メソッド体験報告</title>
       <link>http://ankigene.luminousspice.com/post/goldlist-method-review/</link>
       <pubDate>Sun, 28 Sep 2014 11:20:26 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/goldlist-method-review/</guid>
       <description>&lt;p&gt;I simply love languages &amp;ldquo;My thoughts on Goldlisting&amp;rdquo; では、Goldlist Method という紙のノートを使って語彙やパターンを無意識下に長期記憶する方法を、外国語学習や読書で出会った新出語句の学習に試してみた結果が報告されています。Anki ユーザーでもある著者からの上手く行った点、行かなかった点についての評価が参考になります。&lt;/p&gt;
 </description>
@@ -33,7 +31,6 @@
       <title>Ankigene のお気に入り</title>
       <link>http://ankigene.luminousspice.com/post/ankigene-favorites/</link>
       <pubDate>Sun, 28 Sep 2014 10:00:46 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/ankigene-favorites/</guid>
       <description>&lt;p&gt;ツイッターで Anki ユーザーの意欲を活性化する話題 ankigene の種を見つけたら、お気に入りに登録しています。特にユニークなものは Ankigene に掲載します。&lt;/p&gt;
 </description>
@@ -43,7 +40,6 @@
       <title>NHKラジオロシア語講座用単語帳</title>
       <link>http://ankigene.luminousspice.com/post/deck-for-nhk-radio-russian-lesson/</link>
       <pubDate>Sun, 28 Sep 2014 09:00:12 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/deck-for-nhk-radio-russian-lesson/</guid>
       <description>&lt;p&gt;Здравствуйте「AnkiにNHKラジオ毎日ロシア語入門編「大人のためのロシア語」の単語を登録しました：Anki日記」によれば、来月開講の10月号のテキストから新出単語を抽出して共有単語帳を作成したそうです。&lt;/p&gt;
 </description>
@@ -53,7 +49,6 @@
       <title>紙カードを Anki に読み込む</title>
       <link>http://ankigene.luminousspice.com/post/how-to-convert-physical-cards/</link>
       <pubDate>Thu, 25 Sep 2014 13:00:34 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/how-to-convert-physical-cards/</guid>
       <description>&lt;p&gt;AnkiDroid Forum に、普通のカードを Anki に変換する手順が実際に利用している方から寄せられました、スキャナーで取り込んで、OCR で処理し、テキストファイルにして Anki に読み込む手順です。&lt;/p&gt;
 </description>

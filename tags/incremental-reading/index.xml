@@ -3,17 +3,16 @@
   <channel>
     <title>Incremental Reading on Ankigene</title>
     <link>http://ankigene.luminousspice.com/tags/incremental-reading/</link>
-    <description>Recent content in Incremental Reading on Ankigene</description>
+    <description>最新記事 in Incremental Reading | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Feb 2015 08:55:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2015 08:55:06 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/tags/incremental-reading/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Incremental Reading を利用した記憶するための読書ログ</title>
       <link>http://ankigene.luminousspice.com/post/incremental-reading-log/</link>
       <pubDate>Sun, 08 Feb 2015 08:55:06 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/incremental-reading-log/</guid>
       <description>&lt;p&gt;道草趣向の投稿「使える読書ログを Anki と Incremental Reading でつくる」では、Anki と Incremental Reading アドオンを活用して、記憶することを前提とした読書ログの取り方を紹介しています。&lt;/p&gt;
 </description>
@@ -23,7 +22,6 @@
       <title>Incremental Reading が読書を変える</title>
       <link>http://ankigene.luminousspice.com/post/incremental-reading-report/</link>
       <pubDate>Thu, 29 Jan 2015 23:30:44 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/incremental-reading-report/</guid>
       <description>&lt;p&gt;ブログ Michael Fogleman の投稿 &amp;ldquo;Books, Friends, and Incremental Reading&amp;rdquo; では、SRS を活用した学習技術 Incremental Reading の利用体験と読書活動の変化について報告しています。&lt;/p&gt;
 </description>
@@ -33,7 +31,6 @@
       <title>Incremental Reading 用ノートタイプ</title>
       <link>http://ankigene.luminousspice.com/post/incremental-reading-notetype/</link>
       <pubDate>Mon, 03 Nov 2014 20:15:15 +0000</pubDate>
-      
       <guid>http://ankigene.luminousspice.com/post/incremental-reading-notetype/</guid>
       <description>&lt;p&gt;Anki ラボの投稿「Anki 用 Incremental Reading ノートタイプを公開しました。」によれば Incremental Reading を実現できるノートタイプが共有単語帳として公開されたようです。アドオンを必要としないので AnkiMobile や AnkiDroid でも利用可能とのことです。&lt;/p&gt;
 </description>
