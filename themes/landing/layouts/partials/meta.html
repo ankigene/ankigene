@@ -7,6 +7,9 @@
 		{{ $.Scratch.Add "title" .Data.Singular }}
 	{{ end }}
 {{ end }}
+{{ if not .IsHome }}
+	{{ $.Scratch.Add "title" " | Ankigene" }}
+{{end}}
 
 <meta name="description" content="{{ .Description }}">
 <meta name="author" content="">
