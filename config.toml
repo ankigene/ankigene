@@ -38,3 +38,5 @@ ankigene = "ankigene"
     topitem = 5
 		twitter_user_name = "@Ankigene"
 		site_Image = ""
+
+	googleAnalytics = "UA-29141274-7"
