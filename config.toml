@@ -15,7 +15,7 @@ tag = "tags"
 ankigene = "ankigene"
 
 [params]
-    description = "Anki ユーザーの意欲を活性化するユニークな話題を要約して紹介します。"
+    description = "Anki ユーザーを活性化するユニークな話題を要約してお届けします。"
     author_url = "http://rightstuff.luminosspice.com"
     project_url = "http://github.com/ankigene/ankigene"
     project_documentation = "http://ankihene.github.io/docs"
@@ -38,4 +38,3 @@ ankigene = "ankigene"
     topitem = 5
 		twitter_user_name = "@Ankigene"
 		site_Image = ""
-
