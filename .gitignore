@@ -1,7 +1,11 @@
 .DS_Store
 *~
-.bak
-.tmp
+*.bak
+*.tmp
+*.map
+*.old
 public/
 themes/*
 !themes/landing/
+themes/landing/exampleSite/
+themes/landing/static/css/.sass-cache/
