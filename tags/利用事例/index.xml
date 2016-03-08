@@ -6,8 +6,17 @@
     <description>最新記事 in 利用事例 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Feb 2016 21:00:38 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 09 Mar 2016 01:27:46 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E5%88%A9%E7%94%A8%E4%BA%8B%E4%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anki を活用した世界遺産検定２級勉強法</title>
+      <link>http://ankigene.luminousspice.com/post/sekaken-study/</link>
+      <pubDate>Wed, 09 Mar 2016 01:27:46 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/sekaken-study/</guid>
+      <description>&lt;p&gt;マイルで１００の世界遺産！旅行記のブログ投稿「【世界遺産検定２級勉強法】難易度・テキストと日本の登録リスト暗記法」では、世界遺産検定２級取得のための Anki の活用法が紹介されています。iPhone と AnkiWeb によるユニークな事例で、テキストの選び方から設問の組み方、カードの作り方まで具体的に分かる内容になっています。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>米国医師国家試験のための Anki の活用法</title>
@@ -132,15 +141,6 @@
       <pubDate>Sat, 21 Feb 2015 16:00:37 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-for-guitar-fretboard/</guid>
       <description>&lt;p&gt;Know The Fretboard &amp;ldquo;Flashcards For Everything On The Guitar Fretboard&amp;rdquo; ではギターの指板を暗記するための Anki 単語帳 (要ユーザー登録) の使い方と、作成済みの Anki 単語帳へのリンクが紹介されています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Anki を使って歌詞を覚える</title>
-      <link>http://ankigene.luminousspice.com/post/how-to-memorize-lyrics/</link>
-      <pubDate>Sat, 21 Feb 2015 15:40:30 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/how-to-memorize-lyrics/</guid>
-      <description>&lt;p&gt;Guitarhabits &amp;ldquo;How to Memorize Music and Lyrics Forever and Ever!&amp;rdquo; では、Anki を利用して歌詞 (lyrics) を覚える方法を具体的な設問を示しながら解説しています。&lt;/p&gt;
 </description>
     </item>
     

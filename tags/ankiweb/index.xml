@@ -6,8 +6,17 @@
     <description>最新記事 in Ankiweb | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Mar 2015 10:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 09 Mar 2016 01:27:46 +0900</lastBuildDate>
     <atom:link href="http://ankigene.luminousspice.com/tags/ankiweb/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anki を活用した世界遺産検定２級勉強法</title>
+      <link>http://ankigene.luminousspice.com/post/sekaken-study/</link>
+      <pubDate>Wed, 09 Mar 2016 01:27:46 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/sekaken-study/</guid>
+      <description>&lt;p&gt;マイルで１００の世界遺産！旅行記のブログ投稿「【世界遺産検定２級勉強法】難易度・テキストと日本の登録リスト暗記法」では、世界遺産検定２級取得のための Anki の活用法が紹介されています。iPhone と AnkiWeb によるユニークな事例で、テキストの選び方から設問の組み方、カードの作り方まで具体的に分かる内容になっています。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiWeb のフリーミアム化に対する開発者からの回答</title>
