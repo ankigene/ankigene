@@ -24,6 +24,7 @@ test:
   post:
     - git clone --depth=1 git@github.com:ankigene/ankigene.github.io.git public
     - cd public && rm -rf * && git rm -rf .
+    - hugo version
     - hugo -v
     - bundle exec htmlproof ./public --only-4xx --href-ignore '/anki.tenderapp.com/','/ankigene.luminousspice.com/' --alt-ignore '/.*/' --file-ignore /.*vendor\/bundle*/
 
@@ -31,6 +32,6 @@ deployment:
   master:
     branch: develop
     commands:
-      - cd public && git add .
+      - cd public && git add -A
       - cd public && git commit -m "[ci skip] publish build ${CIRCLE_BUILD_NUM} (${CIRCLE_SHA1})"
       - cd public && git push origin master
