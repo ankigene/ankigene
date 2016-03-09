@@ -238,7 +238,15 @@ Anki は、日本語を学習する作者によって分散学習 (SRS; Spaced R
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 </section>
 
 

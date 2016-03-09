@@ -174,7 +174,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ad-theme-switcher.png"/>AnkiDroid テーマ切り替え機能</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ad-theme-switcher.png"/>AnkiDroid テーマ切り替え機能</h2>
                     <div class="content"><p>AnkiDroid 2.6alpha8 で Theme switcher 機能が追加になりました。デイモード、ナイトモードそれぞれ標準のデザインテーマと新たに追加のグレースケールで表現したシンプルなテーマに切り替えて使えるようになります。</p>
 </div>
 										
@@ -191,7 +191,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -201,7 +209,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ad-stats-simulation.png"/>AnkiDroid シュミレーションによる学習量予測</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ad-stats-simulation.png"/>AnkiDroid シュミレーションによる学習量予測</h2>
                     <div class="content"><p>AnkiDroid 2.6alpha7 では、学習量を予測するシュミレーション機能が追加になりました。ユーザーが設定した正解率 (初期設定では 90%) で学習量を計算します。この機能は AnkiDroid のアドオンとして Jeffrey van Prehn が開発したものです。</p>
 </div>
 										
@@ -218,7 +226,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -228,7 +244,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ad-sync-intent.png"/>AnkiDroid でバックグラウンド同期</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ad-sync-intent.png"/>AnkiDroid でバックグラウンド同期</h2>
                     <div class="content"><p>AnkiDroid 2.5 は、オートメーションアプリの Tasker を利用したバックグラウンド同期をサポートしています。GitHub の Wiki に設定方法とプロファイルのサンプルが掲載されました。</p>
 </div>
 										
@@ -245,7 +261,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -255,7 +279,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ad25docja.png"/>AnkiDroid 2.5 日本語マニュアル</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ad25docja.png"/>AnkiDroid 2.5 日本語マニュアル</h2>
                     <div class="content"><p>AnkiDroid 2.5 日本語マニュアルが公開になりました。ユーザーインターフェイスの変更や新機能を反映した内容になっています。</p>
 </div>
 										
@@ -272,7 +296,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -282,7 +314,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ad-custom-server.png"/>AnkiDroid 同期サーバー変更可能に</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ad-custom-server.png"/>AnkiDroid 同期サーバー変更可能に</h2>
                     <div class="content"><p>AnkiDroid 2.6Alpha3 より同期サーバーが選択できるようになりました。この機能によって個人的に立ち上げた Anki Sync Server のようなサーバーをデータの同期先に指定できるようになります。</p>
 </div>
 										
@@ -299,7 +331,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -309,7 +349,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ad-advanced-formatting.png"/>AnkiDroid 書式ガイド</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ad-advanced-formatting.png"/>AnkiDroid 書式ガイド</h2>
                     <div class="content"><p>AnkiDroid 2.5 からノートタイプの編集ができるようになりました。これにあわせて AnkiDroid 用の書式ガイドが GitHub の Wiki 上に公開になりました。垂直方向のセンタリングやワードラップ、ナイトモードのカスタム方法などが紹介されています。</p>
 </div>
 										
@@ -326,7 +366,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -336,7 +384,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid25startup.png"/>AnkiDroid 2.5 リリース</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid25startup.png"/>AnkiDroid 2.5 リリース</h2>
                     <div class="content"><p>AnkiDroid 2.5 シリーズでは、ユーザーインターフェイスを一新しました。ナイトモードも新しくなり、ノートタイプの管理やカードブラウザーでの検索条件の保存も AnkiDroid 上でできるようになりました。</p>
 </div>
 										
@@ -353,7 +401,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -363,7 +419,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/certificate-for-childcare-worker.png"/>保育士試験のための活用法</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/certificate-for-childcare-worker.png"/>保育士試験のための活用法</h2>
                     <div class="content"><p>☆妊活と保育士を頑張るブログ☆の投稿「合格のために工夫したこと(筆記)②」では、AnkiDroid を活用した保育士試験の過去問や予想問題の復習方法を紹介しています。AnkiDroid の読み上げ機能を利用した音声による復習が効果的なのだそうです。</p>
 </div>
 										
@@ -380,7 +436,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -390,7 +454,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/attach-audio-to-ankidroid.png"/>AnkiDroid へ音声を読み込む効率的な方法</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/attach-audio-to-ankidroid.png"/>AnkiDroid へ音声を読み込む効率的な方法</h2>
                     <div class="content"><p>kuni1591 さんの YouTube の投稿動画「Ankidroidへの音声ファイル・カット＆ペースト」では、Android 内で完結する AnkiDroid への音声データの取り込み方を紹介しています。</p>
 </div>
 										
@@ -407,7 +471,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -417,7 +489,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid-tutorial-movie.png"/>AnkiDroid チュートリアル動画</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid-tutorial-movie.png"/>AnkiDroid チュートリアル動画</h2>
                     <div class="content"><p>kuni1591 さんが YouTube に投稿した「Ankidroid使いこなし」では、AnkiDroid の基本的な操作方法と、PC 版 Anki との連携方法を紹介しています。</p>
 </div>
 										
@@ -434,7 +506,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -444,7 +524,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid-with-arc-welder.png"/>PC 上で AnkiDroid を動かす方法</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid-with-arc-welder.png"/>PC 上で AnkiDroid を動かす方法</h2>
                     <div class="content"><p>Capricious POV「ARC Welderを使いPC上でAnkiDroidを動かす」では、Chrome ブラウザ上で Android アプリを動かすための Chrome アプリ ARC Welder を使って、PC 上で AnkiDroid を起動する方法を紹介しています。</p>
 </div>
 										
@@ -461,7 +541,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -471,7 +559,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid25a.png"/>次期バーション AnkiDroid 2.5</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid25a.png"/>次期バーション AnkiDroid 2.5</h2>
                     <div class="content"><p>次期バーション AnkiDroid 2.5 の開発が始まっています。ユーザーインターフェイスのリニューアルや、外部のアプリから AnkiDroid のデータベースにノートやカードを入力するコンテンツプロバイダの機能などの作成が進められています。</p>
 </div>
 										
@@ -488,7 +576,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -498,7 +594,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid-logo.png"/>AnkiDroid 2.4.2 リリース</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid-logo.png"/>AnkiDroid 2.4.2 リリース</h2>
                     <div class="content"><p>このリリースでは、2.4.1 で新たに発生したカードテンプレートに利用する Conditional Replacement (条件置換) の動作に問題を修正しました。なお、2.4.1 ではフィルター単語帳、ズーム機能、穴埋め問題、共有単語帳のダウンロード、ブラウザーで単語帳変更、AnkiWeb との同期などの機能に関する問題点が修正されました。また、クラッシュの原因となる問題点も解決しました。</p>
 </div>
 										
@@ -515,7 +611,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -525,7 +629,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid-support-pali-accents.png"/>AnkiDroid でのパーリ語アクセント表示</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid-support-pali-accents.png"/>AnkiDroid でのパーリ語アクセント表示</h2>
                     <div class="content"><p>AnkiDroid Forum では、AnkiDroid で固有に発生するパーリ語のアクセント記号表示の問題について投稿が寄せられました。</p>
 </div>
 										
@@ -542,7 +646,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -552,7 +664,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/sync-ad-mainscreen.png"/>広告ブロックアプリと AnkiDroid の同期機能</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/sync-ad-mainscreen.png"/>広告ブロックアプリと AnkiDroid の同期機能</h2>
                     <div class="content"><p>Anki サポートフォーラムに広告ブロックアプリを利用すると AnkiDroid と AnkiWeb との同期に問題が発生することが報告されました。</p>
 </div>
 										
@@ -569,7 +681,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -579,7 +699,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/color-theme.png"/>AnkiDroid ナイトモード提案</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/color-theme.png"/>AnkiDroid ナイトモード提案</h2>
                     <div class="content"><p>AnkiDroid Forum &ldquo;True black version and improved theming&rdquo; では、ナイトモードの新しいデザインとそのための配色管理の仕組みについて提案が行われました。</p>
 </div>
 										
@@ -596,7 +716,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -606,7 +734,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid-ui-design.png"/>AnkiDroid UI デザイン提案</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid-ui-design.png"/>AnkiDroid UI デザイン提案</h2>
                     <div class="content"><p>AnkiDroid ユーザーフォーラムのスレッド &ldquo;Material Design&rdquo; に新しいユーザーインターフェイスを提案する投稿が寄せられました。</p>
 </div>
 										
@@ -623,7 +751,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -633,7 +769,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid-tutorial.png"/>AnkiDroid の使い方</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid-tutorial.png"/>AnkiDroid の使い方</h2>
                     <div class="content"><p>履歴書に書ける！　簡単に取得できる資格の記事「AnkiDroid（単語帳アプリ）の使い方」は、カードの作り方、Anki PC版を活用した Excel データの読み込み方、AnkiWeb を利用したスマホ と PC 連携について説明するチュートリアルです。</p>
 </div>
 										
@@ -650,7 +786,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -660,7 +804,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid24.png"/>AnkiDroid 2.4 リリース</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid24.png"/>AnkiDroid 2.4 リリース</h2>
                     <div class="content"><p>このリリースでは、日本語版マニュアルとの連携、作成済みのカードのノートタイプの変更、カードテンプレートの表示削除、動画再生のサポートなどが行われました。また、Chromebook のサポートがこのバージョンから正式に行われています。</p>
 </div>
 										
@@ -677,7 +821,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -687,7 +839,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid-kanji-test.png"/>AnkiDroid を活用した漢字書取練習</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid-kanji-test.png"/>AnkiDroid を活用した漢字書取練習</h2>
                     <div class="content"><p>YouTube に「Ankiを使って漢字の書き取り」という AnkiDroid とタブレットを活用した小学生の漢字書取練習を撮影した動画が pyanko さんによって投稿されました。</p>
 </div>
 										
@@ -704,7 +856,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -714,7 +874,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid-changelog.png"/>AnkiDroid 2 更新履歴</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid-changelog.png"/>AnkiDroid 2 更新履歴</h2>
                     <div class="content"><p>AnkiDroid オフィシャルサイトに更新履歴が公開されました。AnkiDroid 2 以降の主なバージョンで行われた変更点が確認できます。</p>
 </div>
 										
@@ -731,7 +891,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -741,7 +909,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid-help.png"/>AnkiDroid サポート</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid-help.png"/>AnkiDroid サポート</h2>
                     <div class="content"><p>AnkiDroid サポートの問い合わせ先ページが日本語訳され公開されました。バグレポートや機能リクエストの提出方法も解説しています。</p>
 </div>
 										
@@ -758,7 +926,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -768,7 +944,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid2manual-ja.png"/>AnkiDroid 2 取扱説明書</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid2manual-ja.png"/>AnkiDroid 2 取扱説明書</h2>
                     <div class="content"><p>AnkiDroid 2 取扱説明書が海月玲二さんの手により日本語訳され AnkiDroid オフィシャルサイトに公開されました。</p>
 </div>
 										
@@ -785,7 +961,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -795,7 +979,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid-2-3-manual.png"/>AnkiDroid 2.3 マニュアル</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid-2-3-manual.png"/>AnkiDroid 2.3 マニュアル</h2>
                     <div class="content"><p>AnkiDroid 2.3 リリースに向けて、ユーザーマニュアルが公開されました。AnkiDroid の機能全般を画像を交えながら説明しています。AnkiDroid 2.3 Alpha 34 以降は新しいマニュアルにリンクを設定しています。</p>
 </div>
 										
@@ -812,7 +996,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -822,7 +1014,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/chromeos-apk.png"/>Chromebook で AnkiDroid を使う</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/chromeos-apk.png"/>Chromebook で AnkiDroid を使う</h2>
                     <div class="content"><p>AnkiDroid Forum への投稿 &ldquo;AnkiDroid running on Chromebooks&rdquo; では apk を Chrome OS 用に変換するツール Chromeos-apk を使って、AnkiDroid を Chromebook 上で実行する方法を紹介しています。(追記)  AnkiDroid 2.4 で Chromebook が正式サポートされました。</p>
 </div>
 										
@@ -839,7 +1031,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -849,7 +1049,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid22.png"/>次期 AnkiDroid 2.3 リリースプラン</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid22.png"/>次期 AnkiDroid 2.3 リリースプラン</h2>
                     <div class="content"><p>AnkiDroid サポートサイトに次期安定板 2.3 のリリースプランが公開。現行バージョンの問題修正が主で、統計表示の強化、AnkiWebとのメディア同期、画像ズームの問題に取り組むようです。</p>
 </div>
 										
@@ -866,7 +1066,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -876,7 +1084,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid-dic.png"/>AnkiDroid から辞書を引く</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid-dic.png"/>AnkiDroid から辞書を引く</h2>
                     <div class="content"><p>Capricious POV「AnkiDroidで辞書を使う」では、カード上の選択範囲から辞書を引く方法を説明。日本語UIの設定方法は、[設定]-[拡張機能]-[検索辞書]から使用辞書を選択。</p>
 </div>
 										
@@ -893,7 +1101,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -903,7 +1119,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid-parallel.png"/>AnkiDroid 並列インストール</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid-parallel.png"/>AnkiDroid 並列インストール</h2>
                     <div class="content"><p>Capricious POV「AnkiDroid Parallel」では、AnkiDroid Parallel apk による並列インストールと多重起動の方法を説明。活用例として一つの機器で複数のコレクションを扱う方法を解説。</p>
 </div>
 										
@@ -920,7 +1136,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -930,7 +1154,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid22.png"/>AnkiDroid に日本語名称を統一</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid22.png"/>AnkiDroid に日本語名称を統一</h2>
                     <div class="content"><p>AnkiDroid日本語ユーザーフォーラムによれば、AnkiDroid v.2.2.1以降で日本語ユーザーインタフェイスに変更が行われ、アプリの日本語名称をアンキドロイドから変更し AnkiDroid に統一したとのことです。</p>
 </div>
 										
@@ -947,7 +1171,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -957,7 +1189,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid22.png"/>AnkiDroid マニュアル</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid22.png"/>AnkiDroid マニュアル</h2>
                     <div class="content"><p>AnkiDroid のユーザーマニュアルの作成が始まりました。iOS アプリの AnkiMobile のマニュアルを参考に拡充するようです。プログラマ以外のユーザーがプロジェクトに貢献する機会がさらに加わりました。(追記) 出典先を最新ベータ版 2.3 beta 14 がリンクしているマニュアルに変更しました。</p>
 </div>
 										
@@ -974,7 +1206,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -984,7 +1224,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid22.png"/>AnkiDroid 2.2 リリース</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid22.png"/>AnkiDroid 2.2 リリース</h2>
                     <div class="content"><p>このリリースでレイアウト設計の見直しが行われました。多くの機能や設定項目が画面左上の Anki アイコンをクリックして開くドロワーにまとめられた点に注意です。</p>
 </div>
 										
@@ -1001,7 +1241,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
     <div class="content-section">
 
@@ -1011,7 +1259,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/stats.png"/>Android でも PC 版 Anki と同じ統計情報</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/stats.png"/>Android でも PC 版 Anki と同じ統計情報</h2>
                     <div class="content"><p>Android アプリ AnkiStats は AnkiDroid の学習データを使って、PC版 Anki と同じ形式の統計情報を表示します。(追記) この機能は AnkiDroid 2.3 の統計情報として採用されました。最新の Alpha 版で確認できます。</p>
 </div>
 										
@@ -1028,7 +1276,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
 
 </section>

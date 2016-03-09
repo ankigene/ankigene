@@ -169,7 +169,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ios8.png"/>AnkiMobile 次期バージョンについて</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ios8.png"/>AnkiMobile 次期バージョンについて</h2>
                     <div class="content"><p>作者からサポートサイトに、Anki の iOS アプリの次期バージョンのリリース時期の見込みと、変更内容について説明が投稿されました。報告済みの iOS8上でのノートを追加する際のノートタイプと保存先単語帳の選択の問題に加えて、重大な問題点が修正されたようです。追加機能としては、新しい iPhone の画面サポートとユーザーインターフェイスの向上をあげています。</p>
 </div>
 										
@@ -186,7 +186,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
       <div class="content-section">
 
@@ -196,7 +204,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankidroid-2-3-manual.png"/>AnkiDroid 2.3 マニュアル</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankidroid-2-3-manual.png"/>AnkiDroid 2.3 マニュアル</h2>
                     <div class="content"><p>AnkiDroid 2.3 リリースに向けて、ユーザーマニュアルが公開されました。AnkiDroid の機能全般を画像を交えながら説明しています。AnkiDroid 2.3 Alpha 34 以降は新しいマニュアルにリンクを設定しています。</p>
 </div>
 										
@@ -213,7 +221,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
       <div class="content-section">
 
@@ -223,7 +239,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/accessibilty.png"/>Anki とアクセシビリティ</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/accessibilty.png"/>Anki とアクセシビリティ</h2>
                     <div class="content"><p>Anki サポートフォーラムに投稿された内容によると、Anki アプリの中でアクセシビリティ機能を利用できるのは、iOS 版アプリの AnkiMobile とアンドロイド版アプリの AnkiDroid のいずれかとのことです。</p>
 </div>
 										
@@ -240,7 +256,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
       <div class="content-section">
 
@@ -250,7 +274,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/goldlisting-review.png"/>Goldlist メソッド体験報告</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/goldlisting-review.png"/>Goldlist メソッド体験報告</h2>
                     <div class="content"><p>I simply love languages &ldquo;My thoughts on Goldlisting&rdquo; では、Goldlist Method という紙のノートを使って語彙やパターンを無意識下に長期記憶する方法を、外国語学習や読書で出会った新出語句の学習に試してみた結果が報告されています。Anki ユーザーでもある著者からの上手く行った点、行かなかった点についての評価が参考になります。</p>
 </div>
 										
@@ -267,7 +291,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
       <div class="content-section">
 
@@ -277,7 +309,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/ankigene-favorites.png"/>Ankigene のお気に入り</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/ankigene-favorites.png"/>Ankigene のお気に入り</h2>
                     <div class="content"><p>ツイッターで Anki ユーザーの意欲を活性化する話題 ankigene の種を見つけたら、お気に入りに登録しています。特にユニークなものは Ankigene に掲載します。</p>
 </div>
 										
@@ -294,7 +326,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
 
 <div class="content-section">

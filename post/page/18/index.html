@@ -169,7 +169,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/power-format-pack.png"/>表、リスト、コードブロックの入力を簡単にするアドオン</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/power-format-pack.png"/>表、リスト、コードブロックの入力を簡単にするアドオン</h2>
                     <div class="content"><p>Power format pack は、ノートエディタで指定する書式を強化するアドオンです。表やリスト、コードブロック、取り消し線、罫線などが利用できます。</p>
 </div>
 										
@@ -186,7 +186,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
       <div class="content-section">
 
@@ -196,7 +204,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/apkg.png"/>Anki は 8 歳になりました</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/apkg.png"/>Anki は 8 歳になりました</h2>
                     <div class="content"><p>10月5日は Anki の誕生日です。8歳になりました。学習オプションの初期値の秀逸な加減に8年間の蓄積を見て取ることができます。これからもこのユニークなソフトの開発が続くことを願っています。</p>
 </div>
 										
@@ -213,7 +221,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
       <div class="content-section">
 
@@ -223,7 +239,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/reddit-medicalschool.png"/>医学生にとっての適正な学習枚数</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/reddit-medicalschool.png"/>医学生にとっての適正な学習枚数</h2>
                     <div class="content"><p>reddit に膨大な暗記量に頭を悩ませている米国の医学生たちから、Anki で学習するカードの適正学習枚数について、失敗談も含めて投稿されています。進級試験の対応も含めた Anki 活用法を知ることができます。</p>
 </div>
 										
@@ -240,7 +256,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
       <div class="content-section">
 
@@ -250,7 +274,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/stats.png"/>5か月間の中断から復帰するには</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/stats.png"/>5か月間の中断から復帰するには</h2>
                     <div class="content"><p>サポートサイトに、Anki の学習を 5 か月間休んだ方からの相談が寄せられました。寄せられたアドバイスの要点は、スケジュールをリセットしない、新規カードを一時中断する、バックログを隔離して少しずつ取り組むというものです。</p>
 </div>
 										
@@ -267,7 +291,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
       <div class="content-section">
 
@@ -277,7 +309,7 @@ body {
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading"><img class="element" src="http://ankigene.luminousspice.com/images/win8.png"/>Windows 8  へのインストール</h2>
+                    <h2 class="section-heading"><img class="element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABaCAMAAABE3mLdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAADMUExURRcyVxwtVxouVyQjVy8XVzEXVyUiVyIlVyobVzAXVxU1Vx8pVxkwVx0sVywZVyEnVy4YVygfVyUhVycgVx8oVyImVykdVxkxVykeVx4rVy0YVxYzVyQiVxkuVx8qVx4qVxQ2Vy0XVyAoVy4XVyodVygeVx0rVyYgVyocVyscVxsuVxY0VxM2VxkvVxgxVywYVysaVxgyVxU0VycfVyMjVyYhVyAnVyApVxwsVyIkVyMkVxQ1VxstVyEmVysZVxwuVyoaVysbVx0tVzIXV9Aqu0oAAALhSURBVGje7ZqLdppAEIbFgEENCl5QDPF+wyQ2bUOiRm3Tvv87dWFB5b5sd6ObsC/wnZnhX76zZ3ICOEVweJ4fjWRZ7nQ63yqVypMoioYhzseq2m63FUWpg2PWaoWCrhcKV+Bsrq3TbO6q1Zdho/H6Wu52uz1Nm0qS9IfjuMUiD87d481Nq9VaLnP2ub2//1EqlfoPDzmHa4F5AB4MTsCiA55MFOVnvT6b1Rwy4D6vIbdZdcDlMiD3IHnFWWSLa4EBefndAd/a4Le+DRZOwHIYuO2CYcmFI/jaBg+PYA2WDMjbZHAxCN4//XbAY9XmWmCr1TW31c/+VrsVTy0wKPhXDLjvBY/8rX63K1ZdMCzYbfXmWLEFbhxaDQuOrbgfbPUgttWBGUe0+jDjfGKreX+rPR+X22rzpNXrdbDVvZNWc1ithuC5PWMVacbDw4wlZLCAFadNaJw0pBljxkknGSc+Kk5qZJwSZkwkTpOTOPln7I/TlIE4CYhxgjPWfVemt9UaUpzegq2Wg3FKe2USi5PnyoyMU8Mfp0U6MJk4rVbIv0W0OJmJcdLSxEmIipMRE6crX5yGbsUk4zRJiNNLWJy2aH8nfAOJEgG8uxrOGCNOWDNGiVOSgWhpDKRI8MpMZZl0DAQvTvtDnMaXGadmQpzuKMYpbMaXLvQCQaHXPpXQz8xkA8EWepl9oV9kQo8TJ3ShT3Vl0vk7bS9Y6EMNRMQ2ECl1jkkIfS+N0FOYMctCT9NA6DwpUjeQnW/GTAv9O7tCn2dV6JWYOO2+gNDrpIReICj0Gs0nRT17UqT0pEhP6JH/TnEGUsYwkLMJ/dkM5Gwv9JnQ/6eBZELPhtDvP7fQCwSF3rkyM6Fn1EBQhF6jsSMwQzaQFc0nxTXjOwIYQr/+gJWbbEeA9R2B5L+TworQr0i/0JtfZeWG5o5AbJyQdwR6KZ4U/0YuhBqGMffFyYQF6yGy51kI9capBc4RXIKt/geL4GxNlOUPSAAAAABJRU5ErkJggg==" data-src="/images/win8.png"/>Windows 8  へのインストール</h2>
                     <div class="content"><p>Windows 8 にインストール後、Anki が起動できない問題が繰り返しサポートサイトに報告されてます。Anki フォルダ内の prefs.db を削除するか、名前を変更するのがサポート推奨の解決方法です。今回の投稿では、起動時のエラーメッセージの画像が投稿されていますので、この問題が自分に当てはまるかの判断材料になります。</p>
 </div>
 										
@@ -294,7 +326,15 @@ body {
         
 
     </div>
-
+<script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
 
 
 <div class="content-section">
