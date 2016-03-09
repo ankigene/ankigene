@@ -25,7 +25,7 @@ test:
     - git clone --depth=1 git@github.com:ankigene/ankigene.github.io.git public
     - cd public && rm -rf * && git rm -rf .
     - hugo version
-    - hugo -v
+    - hugo -v --disableRobotsTXT
     - bundle exec htmlproof ./public --only-4xx --href-ignore '/anki.tenderapp.com/','/ankigene.luminousspice.com/' --alt-ignore '/.*/' --file-ignore /.*vendor\/bundle*/
 
 deployment:
