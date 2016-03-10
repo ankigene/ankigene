@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 21 Aug 2014 23:30:20 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/ankigene/008/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/how-to-get-a-better-memory/</link>
       <pubDate>Thu, 21 Aug 2014 23:30:20 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/how-to-get-a-better-memory/</guid>
-      <description>&lt;p&gt;歯科医師国家試験を解いてみた。「何をどう暗記するか？」では、歯科医師国家試験のような丸暗記では通用しない複雑な課題に対して、効率的な暗記項目の設定の仕方を解説しています。&lt;/p&gt;
+      <description><p>歯科医師国家試験を解いてみた。「何をどう暗記するか？」では、歯科医師国家試験のような丸暗記では通用しない複雑な課題に対して、効率的な暗記項目の設定の仕方を解説しています。</p>
 </description>
     </item>
     
@@ -24,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/easy-way-to-use-latex-on-anki/</link>
       <pubDate>Thu, 21 Aug 2014 13:45:51 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/easy-way-to-use-latex-on-anki/</guid>
-      <description>&lt;p&gt;Stack Exchange の記事によれば、オンラインの WYSIWYG な LaTeX エディタを利用すると数式表示の LaTex の入力が簡単になり、Anki 特有の制限も回避。オンラインサービスにアクセスできる全ての機器で使えます。&lt;/p&gt;
+      <description><p>Stack Exchange の記事によれば、オンラインの WYSIWYG な LaTeX エディタを利用すると数式表示の LaTex の入力が簡単になり、Anki 特有の制限も回避。オンラインサービスにアクセスできる全ての機器で使えます。</p>
 </description>
     </item>
     
@@ -33,7 +34,7 @@
       <link>http://ankigene.luminousspice.com/post/mastering-programing-with-anki/</link>
       <pubDate>Wed, 20 Aug 2014 10:00:54 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/mastering-programing-with-anki/</guid>
-      <description>&lt;p&gt;Smashing Magazine &amp;ldquo;Tips For Mastering A Programming Language Using Spaced Repetition&amp;rdquo; では、Anki を使ってプログラミングを学習するための Tips を紹介。Janki Method のベストプラクティス。Ruby と JavaScript のサンプル単語帳もダウンロードできます。&lt;/p&gt;
+      <description><p>Smashing Magazine &ldquo;Tips For Mastering A Programming Language Using Spaced Repetition&rdquo; では、Anki を使ってプログラミングを学習するための Tips を紹介。Janki Method のベストプラクティス。Ruby と JavaScript のサンプル単語帳もダウンロードできます。</p>
 </description>
     </item>
     
@@ -42,7 +43,7 @@
       <link>http://ankigene.luminousspice.com/post/how-to-end-anki/</link>
       <pubDate>Sat, 16 Aug 2014 23:53:42 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/how-to-end-anki/</guid>
-      <description>&lt;p&gt;Japanese Level Up &amp;ldquo;When Does Anki End For You?&amp;rdquo; では、7年間 Anki を使い続けた経験から、いつどのように止めたらいいか、解説しています。&lt;/p&gt;
+      <description><p>Japanese Level Up &ldquo;When Does Anki End For You?&rdquo; では、7年間 Anki を使い続けた経験から、いつどのように止めたらいいか、解説しています。</p>
 </description>
     </item>
     
@@ -51,7 +52,7 @@
       <link>http://ankigene.luminousspice.com/post/japanese-idioms-for-preparatory-school-applicants/</link>
       <pubDate>Sat, 16 Aug 2014 23:34:16 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/japanese-idioms-for-preparatory-school-applicants/</guid>
-      <description>&lt;p&gt;学習メモ。「慣用句学習の秘密兵器（PC／モバイル・アプリ版）の公開／Ankiのすすめ」では、中学受験のための自作教材 Anki 単語帳版『中学受験慣用句400』の使い方を解説。中学受験に Anki 利用する場合の指導者側の注意点がまとめられています。&lt;/p&gt;
+      <description><p>学習メモ。「慣用句学習の秘密兵器（PC／モバイル・アプリ版）の公開／Ankiのすすめ」では、中学受験のための自作教材 Anki 単語帳版『中学受験慣用句400』の使い方を解説。中学受験に Anki 利用する場合の指導者側の注意点がまとめられています。</p>
 </description>
     </item>
     

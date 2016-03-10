@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 29 Aug 2015 14:30:43 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/upgrading-to-win10/</link>
       <pubDate>Sat, 29 Aug 2015 14:30:43 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/upgrading-to-win10/</guid>
-      <description>&lt;p&gt;Anki Support サイトの Knowledge Base &amp;ldquo;Errors after upgrading to Windows 10&amp;rdquo; では、Windows 10 にアップグレードした後に発生するエラーの対応方法がまとめられています。&lt;/p&gt;
+      <description><p>Anki Support サイトの Knowledge Base &ldquo;Errors after upgrading to Windows 10&rdquo; では、Windows 10 にアップグレードした後に発生するエラーの対応方法がまとめられています。</p>
 </description>
     </item>
     
@@ -24,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/anki-with-tex-live/</link>
       <pubDate>Sat, 25 Oct 2014 15:00:28 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-with-tex-live/</guid>
-      <description>&lt;p&gt;Qiita「WindowsのAnkiでTeXを使う TeX Live 2014の場合」では、Windows 版 Anki で数式表示するための Tex Live ディストリビューションの設定手順を解説しています。&lt;/p&gt;
+      <description><p>Qiita「WindowsのAnkiでTeXを使う TeX Live 2014の場合」では、Windows 版 Anki で数式表示するための Tex Live ディストリビューションの設定手順を解説しています。</p>
 </description>
     </item>
     

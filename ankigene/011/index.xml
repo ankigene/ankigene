@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 21 Sep 2014 20:10:02 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/ankigene/011/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/ankigene-bot/</link>
       <pubDate>Sun, 21 Sep 2014 20:10:02 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankigene-bot/</guid>
-      <description>&lt;p&gt;Anki の Tips や用語解説を定期的にランダムにつぶやく Bot (@Ankigene) を公開しました。Anki Tips の記事と、公開済みの記事から How-to を抜き出して、ツイートのサイズにに収まるように編集しています。&lt;/p&gt;
+      <description><p>Anki の Tips や用語解説を定期的にランダムにつぶやく Bot (@Ankigene) を公開しました。Anki Tips の記事と、公開済みの記事から How-to を抜き出して、ツイートのサイズにに収まるように編集しています。</p>
 </description>
     </item>
     
@@ -24,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/anki-2-0-29-released/</link>
       <pubDate>Sun, 21 Sep 2014 20:00:03 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-2-0-29-released/</guid>
-      <description>&lt;p&gt;OS X Yosemite 対応、タグの大文字小文字区別の同一視、100MB 以上のファイルが同期対象外になるなどの変更がありました。&lt;/p&gt;
+      <description><p>OS X Yosemite 対応、タグの大文字小文字区別の同一視、100MB 以上のファイルが同期対象外になるなどの変更がありました。</p>
 </description>
     </item>
     
@@ -33,7 +34,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-on-chromebook/</link>
       <pubDate>Sat, 20 Sep 2014 18:50:41 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-on-chromebook/</guid>
-      <description>&lt;p&gt;AnkiDroid Forum への投稿 &amp;ldquo;AnkiDroid running on Chromebooks&amp;rdquo; では apk を Chrome OS 用に変換するツール Chromeos-apk を使って、AnkiDroid を Chromebook 上で実行する方法を紹介しています。(追記)  AnkiDroid 2.4 で Chromebook が正式サポートされました。&lt;/p&gt;
+      <description><p>AnkiDroid Forum への投稿 &ldquo;AnkiDroid running on Chromebooks&rdquo; では apk を Chrome OS 用に変換するツール Chromeos-apk を使って、AnkiDroid を Chromebook 上で実行する方法を紹介しています。(追記)  AnkiDroid 2.4 で Chromebook が正式サポートされました。</p>
 </description>
     </item>
     
@@ -42,7 +43,7 @@
       <link>http://ankigene.luminousspice.com/post/how-to-beat-backlog/</link>
       <pubDate>Thu, 18 Sep 2014 15:35:50 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/how-to-beat-backlog/</guid>
-      <description>&lt;p&gt;More Vietnamese &amp;ldquo;How to beat Anki backlog&amp;rdquo; では、バックログが溜まっているサブ単語帳を丸ごと単語帳の外に隔離する片付け方を紹介しています。バックログが残った状況を頭の上に雲があってモヤモヤしているという表現は共感できますね。&lt;/p&gt;
+      <description><p>More Vietnamese &ldquo;How to beat Anki backlog&rdquo; では、バックログが溜まっているサブ単語帳を丸ごと単語帳の外に隔離する片付け方を紹介しています。バックログが残った状況を頭の上に雲があってモヤモヤしているという表現は共感できますね。</p>
 </description>
     </item>
     
@@ -51,7 +52,7 @@
       <link>http://ankigene.luminousspice.com/post/ankimobile-ios8-compatibility/</link>
       <pubDate>Thu, 18 Sep 2014 15:00:36 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankimobile-ios8-compatibility/</guid>
-      <description>&lt;p&gt;サポートサイトに AnkiMobile の iOS 8 互換性について報告があり、早速 Knowledge Base が作成されました。最新版 2.0.11 はノート追加画面で単語帳 (Deck) とノートタイプの選択が出来ないとのことです。開発者から対応版を出来るだけ早くリリースするとの回答がありました。現在、把握している iOS 8 の問題はこの件だけだそうです。&lt;/p&gt;
+      <description><p>サポートサイトに AnkiMobile の iOS 8 互換性について報告があり、早速 Knowledge Base が作成されました。最新版 2.0.11 はノート追加画面で単語帳 (Deck) とノートタイプの選択が出来ないとのことです。開発者から対応版を出来るだけ早くリリースするとの回答がありました。現在、把握している iOS 8 の問題はこの件だけだそうです。</p>
 </description>
     </item>
     

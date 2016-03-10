@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 06 Feb 2015 10:00:49 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/excel/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-tutorial/</link>
       <pubDate>Fri, 06 Feb 2015 10:00:49 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-tutorial/</guid>
-      <description>&lt;p&gt;履歴書に書ける！　簡単に取得できる資格の記事「AnkiDroid（単語帳アプリ）の使い方」は、カードの作り方、Anki PC版を活用した Excel データの読み込み方、AnkiWeb を利用したスマホ と PC 連携について説明するチュートリアルです。&lt;/p&gt;
+      <description><p>履歴書に書ける！　簡単に取得できる資格の記事「AnkiDroid（単語帳アプリ）の使い方」は、カードの作り方、Anki PC版を活用した Excel データの読み込み方、AnkiWeb を利用したスマホ と PC 連携について説明するチュートリアルです。</p>
 </description>
     </item>
     

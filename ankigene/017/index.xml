@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 23 Jan 2015 15:15:23 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/ankigene/017/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-17/</link>
       <pubDate>Fri, 23 Jan 2015 15:15:23 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-17/</guid>
-      <description>&lt;p&gt;Anki の iOS アプリ AnkiMobile の最新版は、2015/1/5 公開の 2.0.17 です。前回のバージョンからたくさんのメディアファイルを同期した時にクラッシュする問題を修正しています。このバージョンから開発元の表示が Ankitects Pty Ltd に変わりました。&lt;/p&gt;
+      <description><p>Anki の iOS アプリ AnkiMobile の最新版は、2015/1/5 公開の 2.0.17 です。前回のバージョンからたくさんのメディアファイルを同期した時にクラッシュする問題を修正しています。このバージョンから開発元の表示が Ankitects Pty Ltd に変わりました。</p>
 </description>
     </item>
     
@@ -24,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/ankigene-bot-updated/</link>
       <pubDate>Fri, 23 Jan 2015 15:05:45 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankigene-bot-updated/</guid>
-      <description>&lt;p&gt;ツイッターアカウント Ankigene (@Ankigene) は、Anki を使い始めた時に、知っておくと役立つ知識を定期的につぶやきます。今回の更新で、用語、使い方、機能拡張するアドオンの説明を取り上げるようになりました。&lt;/p&gt;
+      <description><p>ツイッターアカウント Ankigene (@Ankigene) は、Anki を使い始めた時に、知っておくと役立つ知識を定期的につぶやきます。今回の更新で、用語、使い方、機能拡張するアドオンの説明を取り上げるようになりました。</p>
 </description>
     </item>
     
@@ -33,7 +34,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-help/</link>
       <pubDate>Fri, 23 Jan 2015 15:00:38 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-help/</guid>
-      <description>&lt;p&gt;AnkiDroid サポートの問い合わせ先ページが日本語訳され公開されました。バグレポートや機能リクエストの提出方法も解説しています。&lt;/p&gt;
+      <description><p>AnkiDroid サポートの問い合わせ先ページが日本語訳され公開されました。バグレポートや機能リクエストの提出方法も解説しています。</p>
 </description>
     </item>
     
@@ -42,7 +43,7 @@
       <link>http://ankigene.luminousspice.com/post/taking-notes-memory/</link>
       <pubDate>Sun, 18 Jan 2015 10:00:45 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/taking-notes-memory/</guid>
-      <description>&lt;p&gt;wired.jp の記事「メモを取っても記憶は定着しない：研究結果」では、メモを取ることが自分の記憶に取り組むことを妨げるという研究結果を紹介しています。&lt;/p&gt;
+      <description><p>wired.jp の記事「メモを取っても記憶は定着しない：研究結果」では、メモを取ることが自分の記憶に取り組むことを妨げるという研究結果を紹介しています。</p>
 </description>
     </item>
     
@@ -51,7 +52,7 @@
       <link>http://ankigene.luminousspice.com/post/import-kindle-hightlights-into-anki/</link>
       <pubDate>Sat, 17 Jan 2015 21:30:56 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/import-kindle-hightlights-into-anki/</guid>
-      <description>&lt;p&gt;NomoLog の記事「KindleハイライトをAnkiへ移すためのブックマークレット作ったよ」では、Kindle にためたハイライトを Anki に取り込む方法が紹介されています。&lt;/p&gt;
+      <description><p>NomoLog の記事「KindleハイライトをAnkiへ移すためのブックマークレット作ったよ」では、Kindle にためたハイライトを Anki に取り込む方法が紹介されています。</p>
 </description>
     </item>
     

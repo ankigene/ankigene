@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 31 Oct 2014 20:30:08 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E5%92%8C%E5%A3%B0/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/improvisation-chord-tones/</link>
       <pubDate>Fri, 31 Oct 2014 20:30:08 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/improvisation-chord-tones/</guid>
-      <description>&lt;p&gt;Know the Fretboard の投稿 &amp;ldquo;Using Anki for Improvisation: Chord Tones&amp;rdquo; では、Anki を利用したインプロビゼーション (即興演奏) の学習方法の説明とそのための Chord Tones (和声音) の Anki 単語帳が公開されています。&lt;/p&gt;
+      <description><p>Know the Fretboard の投稿 &ldquo;Using Anki for Improvisation: Chord Tones&rdquo; では、Anki を利用したインプロビゼーション (即興演奏) の学習方法の説明とそのための Chord Tones (和声音) の Anki 単語帳が公開されています。</p>
 </description>
     </item>
     

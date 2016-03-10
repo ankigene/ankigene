@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 14 Jan 2015 13:00:28 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/ankigene/016/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-2-manual/</link>
       <pubDate>Wed, 14 Jan 2015 13:00:28 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-2-manual/</guid>
-      <description>&lt;p&gt;AnkiDroid 2 取扱説明書が海月玲二さんの手により日本語訳され AnkiDroid オフィシャルサイトに公開されました。&lt;/p&gt;
+      <description><p>AnkiDroid 2 取扱説明書が海月玲二さんの手により日本語訳され AnkiDroid オフィシャルサイトに公開されました。</p>
 </description>
     </item>
     
@@ -24,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/media-import/</link>
       <pubDate>Wed, 14 Jan 2015 12:55:43 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/media-import/</guid>
-      <description>&lt;p&gt;メディアファイルからノートを一括作成するアドオン Media Import の最新版 v2.0 では、ノートタイプの選択、フィールドへファイル名や連番の指定が出来るユーザーインターフェイスが追加されました。&lt;/p&gt;
+      <description><p>メディアファイルからノートを一括作成するアドオン Media Import の最新版 v2.0 では、ノートタイプの選択、フィールドへファイル名や連番の指定が出来るユーザーインターフェイスが追加されました。</p>
 </description>
     </item>
     
@@ -33,7 +34,7 @@
       <link>http://ankigene.luminousspice.com/post/pollution-control-managers/</link>
       <pubDate>Wed, 14 Jan 2015 12:50:34 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/pollution-control-managers/</guid>
-      <description>&lt;p&gt;AnkiWeb の共有単語帳に公害防止管理者試験用単語帳が登録されました。&lt;/p&gt;
+      <description><p>AnkiWeb の共有単語帳に公害防止管理者試験用単語帳が登録されました。</p>
 </description>
     </item>
     
@@ -42,7 +43,7 @@
       <link>http://ankigene.luminousspice.com/post/hentaigana/</link>
       <pubDate>Wed, 14 Jan 2015 12:45:22 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/hentaigana/</guid>
-      <description>&lt;p&gt;AnkiWeb の共有単語帳に変体仮名 (異体仮名) の読み方を練習する単語帳が登録されました。&lt;/p&gt;
+      <description><p>AnkiWeb の共有単語帳に変体仮名 (異体仮名) の読み方を練習する単語帳が登録されました。</p>
 </description>
     </item>
     
@@ -51,7 +52,7 @@
       <link>http://ankigene.luminousspice.com/post/manyougana/</link>
       <pubDate>Wed, 14 Jan 2015 12:30:09 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/manyougana/</guid>
-      <description>&lt;p&gt;AnkiWeb の共有単語帳に万葉仮名の読み方を練習する単語帳が登録されました。&lt;/p&gt;
+      <description><p>AnkiWeb の共有単語帳に万葉仮名の読み方を練習する単語帳が登録されました。</p>
 </description>
     </item>
     

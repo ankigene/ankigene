@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 28 Mar 2015 17:14:53 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/piano-practice-anki/</link>
       <pubDate>Sat, 28 Mar 2015 17:14:53 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/piano-practice-anki/</guid>
-      <description>&lt;p&gt;YouTube の動画 &amp;ldquo;Piano practice session using Anki&amp;rdquo; では、ピアノの演奏練習に Anki を活用している様子を収録しています。既存カードの譜面から切り取って新規カードとして発展させる方法も確認できます。&lt;/p&gt;
+      <description><p>YouTube の動画 &ldquo;Piano practice session using Anki&rdquo; では、ピアノの演奏練習に Anki を活用している様子を収録しています。既存カードの譜面から切り取って新規カードとして発展させる方法も確認できます。</p>
 </description>
     </item>
     
@@ -24,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/anki-for-guitar-fretboard/</link>
       <pubDate>Sat, 21 Feb 2015 16:00:37 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-for-guitar-fretboard/</guid>
-      <description>&lt;p&gt;Know The Fretboard &amp;ldquo;Flashcards For Everything On The Guitar Fretboard&amp;rdquo; ではギターの指板を暗記するための Anki 単語帳 (要ユーザー登録) の使い方と、作成済みの Anki 単語帳へのリンクが紹介されています。&lt;/p&gt;
+      <description><p>Know The Fretboard &ldquo;Flashcards For Everything On The Guitar Fretboard&rdquo; ではギターの指板を暗記するための Anki 単語帳 (要ユーザー登録) の使い方と、作成済みの Anki 単語帳へのリンクが紹介されています。</p>
 </description>
     </item>
     
@@ -33,7 +34,7 @@
       <link>http://ankigene.luminousspice.com/post/how-to-memorize-lyrics/</link>
       <pubDate>Sat, 21 Feb 2015 15:40:30 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/how-to-memorize-lyrics/</guid>
-      <description>&lt;p&gt;Guitarhabits &amp;ldquo;How to Memorize Music and Lyrics Forever and Ever!&amp;rdquo; では、Anki を利用して歌詞 (lyrics) を覚える方法を具体的な設問を示しながら解説しています。&lt;/p&gt;
+      <description><p>Guitarhabits &ldquo;How to Memorize Music and Lyrics Forever and Ever!&rdquo; では、Anki を利用して歌詞 (lyrics) を覚える方法を具体的な設問を示しながら解説しています。</p>
 </description>
     </item>
     
@@ -42,7 +43,7 @@
       <link>http://ankigene.luminousspice.com/post/improvisation-chord-tones/</link>
       <pubDate>Fri, 31 Oct 2014 20:30:08 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/improvisation-chord-tones/</guid>
-      <description>&lt;p&gt;Know the Fretboard の投稿 &amp;ldquo;Using Anki for Improvisation: Chord Tones&amp;rdquo; では、Anki を利用したインプロビゼーション (即興演奏) の学習方法の説明とそのための Chord Tones (和声音) の Anki 単語帳が公開されています。&lt;/p&gt;
+      <description><p>Know the Fretboard の投稿 &ldquo;Using Anki for Improvisation: Chord Tones&rdquo; では、Anki を利用したインプロビゼーション (即興演奏) の学習方法の説明とそのための Chord Tones (和声音) の Anki 単語帳が公開されています。</p>
 </description>
     </item>
     
@@ -51,7 +52,7 @@
       <link>http://ankigene.luminousspice.com/post/generator-for-jazz-piano-cords/</link>
       <pubDate>Wed, 27 Aug 2014 13:15:02 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/generator-for-jazz-piano-cords/</guid>
-      <description>&lt;p&gt;GitHub に公開の pianochords は、コードネーム (コードシンボル) で質問し、解答を鍵盤図で表示するジャズピアノのコード学習用の Anki 単語帳用データを自動生成します。&lt;/p&gt;
+      <description><p>GitHub に公開の pianochords は、コードネーム (コードシンボル) で質問し、解答を鍵盤図で表示するジャズピアノのコード学習用の Anki 単語帳用データを自動生成します。</p>
 </description>
     </item>
     
@@ -60,7 +61,7 @@
       <link>http://ankigene.luminousspice.com/post/musical-repertoire/</link>
       <pubDate>Thu, 15 May 2014 15:20:09 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/musical-repertoire/</guid>
-      <description>&lt;p&gt;スズキ・メソードで歌とバイオリンを学んでいる音楽家から Anki を使ったレパートリ管理の事例がサポートサイトに寄せられました。期日設定の上限、復習の際の難易の判断について具体的に解説しています。&lt;/p&gt;
+      <description><p>スズキ・メソードで歌とバイオリンを学んでいる音楽家から Anki を使ったレパートリ管理の事例がサポートサイトに寄せられました。期日設定の上限、復習の際の難易の判断について具体的に解説しています。</p>
 </description>
     </item>
     

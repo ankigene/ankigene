@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 29 Jan 2015 23:30:44 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/ankigene/018/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/incremental-reading-report/</link>
       <pubDate>Thu, 29 Jan 2015 23:30:44 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/incremental-reading-report/</guid>
-      <description>&lt;p&gt;ブログ Michael Fogleman の投稿 &amp;ldquo;Books, Friends, and Incremental Reading&amp;rdquo; では、SRS を活用した学習技術 Incremental Reading の利用体験と読書活動の変化について報告しています。&lt;/p&gt;
+      <description><p>ブログ Michael Fogleman の投稿 &ldquo;Books, Friends, and Incremental Reading&rdquo; では、SRS を活用した学習技術 Incremental Reading の利用体験と読書活動の変化について報告しています。</p>
 </description>
     </item>
     
@@ -24,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/hieroglyphs-deck/</link>
       <pubDate>Thu, 29 Jan 2015 23:20:35 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/hieroglyphs-deck/</guid>
-      <description>&lt;p&gt;Stuff in Egyptian の投稿 &amp;ldquo;Essential Hieroglyphs: Flashcards for Anki&amp;rdquo; では、中エジプト語を読むためのヒエログリフの基本単語帳が公開されました。&lt;/p&gt;
+      <description><p>Stuff in Egyptian の投稿 &ldquo;Essential Hieroglyphs: Flashcards for Anki&rdquo; では、中エジプト語を読むためのヒエログリフの基本単語帳が公開されました。</p>
 </description>
     </item>
     
@@ -33,7 +34,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-2-4-released/</link>
       <pubDate>Thu, 29 Jan 2015 17:50:54 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-2-4-released/</guid>
-      <description>&lt;p&gt;このリリースでは、日本語版マニュアルとの連携、作成済みのカードのノートタイプの変更、カードテンプレートの表示削除、動画再生のサポートなどが行われました。また、Chromebook のサポートがこのバージョンから正式に行われています。&lt;/p&gt;
+      <description><p>このリリースでは、日本語版マニュアルとの連携、作成済みのカードのノートタイプの変更、カードテンプレートの表示削除、動画再生のサポートなどが行われました。また、Chromebook のサポートがこのバージョンから正式に行われています。</p>
 </description>
     </item>
     
@@ -42,7 +43,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-kanji-test/</link>
       <pubDate>Sat, 24 Jan 2015 01:01:12 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-kanji-test/</guid>
-      <description>&lt;p&gt;YouTube に「Ankiを使って漢字の書き取り」という AnkiDroid とタブレットを活用した小学生の漢字書取練習を撮影した動画が pyanko さんによって投稿されました。&lt;/p&gt;
+      <description><p>YouTube に「Ankiを使って漢字の書き取り」という AnkiDroid とタブレットを活用した小学生の漢字書取練習を撮影した動画が pyanko さんによって投稿されました。</p>
 </description>
     </item>
     
@@ -51,7 +52,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-changelog/</link>
       <pubDate>Sat, 24 Jan 2015 00:30:56 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-changelog/</guid>
-      <description>&lt;p&gt;AnkiDroid オフィシャルサイトに更新履歴が公開されました。AnkiDroid 2 以降の主なバージョンで行われた変更点が確認できます。&lt;/p&gt;
+      <description><p>AnkiDroid オフィシャルサイトに更新履歴が公開されました。AnkiDroid 2 以降の主なバージョンで行われた変更点が確認できます。</p>
 </description>
     </item>
     

@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 28 Apr 2014 01:36:23 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/ankigene/001/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/hierarchical-tags/</link>
       <pubDate>Mon, 28 Apr 2014 01:36:23 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/hierarchical-tags/</guid>
-      <description>&lt;p&gt;階層化したタグが使えるようになるアドオン Hierarchical Tags が公開されました。ノートの分類にタグを多用している場合、ブラウザー画面が見やすく整理できます。&lt;/p&gt;
+      <description><p>階層化したタグが使えるようになるアドオン Hierarchical Tags が公開されました。ノートの分類にタグを多用している場合、ブラウザー画面が見やすく整理できます。</p>
 </description>
     </item>
     
@@ -24,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/emergency-medical-services-mnemonics/</link>
       <pubDate>Sat, 26 Apr 2014 22:25:35 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/emergency-medical-services-mnemonics/</guid>
-      <description>&lt;p&gt;米国の医学校でのAnkiの活用事例はたくさんあるため、日本でもAnkiが役立つ事例はないだろうかと探していたところ、救急診療に役立つ暗記メモ集をプロの方が作っていらっしゃいました。早速承諾を受けて、Anki単語帳化しました。&lt;/p&gt;
+      <description><p>米国の医学校でのAnkiの活用事例はたくさんあるため、日本でもAnkiが役立つ事例はないだろうかと探していたところ、救急診療に役立つ暗記メモ集をプロの方が作っていらっしゃいました。早速承諾を受けて、Anki単語帳化しました。</p>
 </description>
     </item>
     
@@ -33,7 +34,7 @@
       <link>http://ankigene.luminousspice.com/post/anki-2-0-26-os-x-mavericks/</link>
       <pubDate>Sat, 26 Apr 2014 22:15:46 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-2-0-26-os-x-mavericks/</guid>
-      <description>&lt;p&gt;Mac OS X 10.9 Mavericks上でのクラッシュはこの半年ぐらい色々な形で発生していたのですが、ついにAnki 2.0.26で解決したようです。最後のバグ出しスレッドを紹介します。関係者の皆様お疲れさまでした。&lt;/p&gt;
+      <description><p>Mac OS X 10.9 Mavericks上でのクラッシュはこの半年ぐらい色々な形で発生していたのですが、ついにAnki 2.0.26で解決したようです。最後のバグ出しスレッドを紹介します。関係者の皆様お疲れさまでした。</p>
 </description>
     </item>
     
@@ -42,8 +43,8 @@
       <link>http://ankigene.luminousspice.com/post/how-to-become-an-anki-core-developer/</link>
       <pubDate>Sat, 26 Apr 2014 16:57:02 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/how-to-become-an-anki-core-developer/</guid>
-      <description>&lt;p&gt;サポートサイトにAnkiのコア開発者になるためにどうしたら良いかという質問が寄せられました。
-これに対してAnkiの作者から特別に課題の提供が行われました。開発者として貢献するための要件を知ることができます。&lt;/p&gt;
+      <description><p>サポートサイトにAnkiのコア開発者になるためにどうしたら良いかという質問が寄せられました。
+これに対してAnkiの作者から特別に課題の提供が行われました。開発者として貢献するための要件を知ることができます。</p>
 </description>
     </item>
     
@@ -52,7 +53,7 @@
       <link>http://ankigene.luminousspice.com/post/anki-lesson-at-medical-school/</link>
       <pubDate>Sat, 26 Apr 2014 16:54:21 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-lesson-at-medical-school/</guid>
-      <description>&lt;p&gt;Ankiを医学校の授業で1年間活用した上での教訓が公開されました。次の3点に要約できます。1. 10−20秒以内に解答できるようカードを良く設計する。2. Image Occlusionを活用する。ただし情報コンテキストが分かる様なカードを作る。3. 出題形式に多様化を持たせる。&lt;/p&gt;
+      <description><p>Ankiを医学校の授業で1年間活用した上での教訓が公開されました。次の3点に要約できます。1. 10−20秒以内に解答できるようカードを良く設計する。2. Image Occlusionを活用する。ただし情報コンテキストが分かる様なカードを作る。3. 出題形式に多様化を持たせる。</p>
 </description>
     </item>
     
@@ -61,7 +62,7 @@
       <link>http://ankigene.luminousspice.com/post/srs-for-programmer/</link>
       <pubDate>Sat, 26 Apr 2014 15:28:43 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/srs-for-programmer/</guid>
-      <description>&lt;p&gt;Ankiを使ってプログラミング言語を分散学習する Janki Method の Drupal の学習例です。解答を入力するカードを使って、正しくタイピングできるまで記憶を強化する練習をしています。&lt;/p&gt;
+      <description><p>Ankiを使ってプログラミング言語を分散学習する Janki Method の Drupal の学習例です。解答を入力するカードを使って、正しくタイピングできるまで記憶を強化する練習をしています。</p>
 </description>
     </item>
     
@@ -70,7 +71,7 @@
       <link>http://ankigene.luminousspice.com/post/anki-in-the-class/</link>
       <pubDate>Sat, 26 Apr 2014 14:23:58 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-in-the-class/</guid>
-      <description>&lt;p&gt;語学の授業で複数の生徒が同じ内容を Anki 単語帳を使って学習し、進捗管理をする場合の指導者の注意点についてサポートフォーラムで議論がありました。&lt;/p&gt;
+      <description><p>語学の授業で複数の生徒が同じ内容を Anki 単語帳を使って学習し、進捗管理をする場合の指導者の注意点についてサポートフォーラムで議論がありました。</p>
 </description>
     </item>
     

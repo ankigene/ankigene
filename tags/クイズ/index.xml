@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 07 Mar 2015 18:40:09 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E3%82%AF%E3%82%A4%E3%82%BA/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/jeopardy-champion/</link>
       <pubDate>Sat, 07 Mar 2015 18:40:09 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/jeopardy-champion/</guid>
-      <description>&lt;p&gt;Mental Floss の記事 &amp;ldquo;Our Interview With Jeopardy! Champion Arthur Chu&amp;rdquo; は、米国のクイズ番組  Jeopardy! でチャンピオンになった Arthur Chu 氏へのインタビューを収録しています。その中で Anki をどのように活用したか説明しています。&lt;/p&gt;
+      <description><p>Mental Floss の記事 &ldquo;Our Interview With Jeopardy! Champion Arthur Chu&rdquo; は、米国のクイズ番組  Jeopardy! でチャンピオンになった Arthur Chu 氏へのインタビューを収録しています。その中で Anki をどのように活用したか説明しています。</p>
 </description>
     </item>
     

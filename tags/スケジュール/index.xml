@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 18 Oct 2014 23:53:58 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/anki-manual-sched/</link>
       <pubDate>Sat, 18 Oct 2014 23:53:58 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-manual-sched/</guid>
-      <description>&lt;p&gt;Anki ユーザーマニュアルに、スケジュールアルゴリズムの概要が掲載されました。復習での解答ボタンの選択によって、復習間隔や易しさ (ease) を決定する仕組みを解説しています。&lt;/p&gt;
+      <description><p>Anki ユーザーマニュアルに、スケジュールアルゴリズムの概要が掲載されました。復習での解答ボタンの選択によって、復習間隔や易しさ (ease) を決定する仕組みを解説しています。</p>
 </description>
     </item>
     

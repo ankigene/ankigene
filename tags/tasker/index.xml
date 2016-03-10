@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 03 Jan 2016 20:00:41 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/tasker/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-background-sync/</link>
       <pubDate>Sun, 03 Jan 2016 20:00:41 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-background-sync/</guid>
-      <description>&lt;p&gt;AnkiDroid 2.5 は、オートメーションアプリの Tasker を利用したバックグラウンド同期をサポートしています。GitHub の Wiki に設定方法とプロファイルのサンプルが掲載されました。&lt;/p&gt;
+      <description><p>AnkiDroid 2.5 は、オートメーションアプリの Tasker を利用したバックグラウンド同期をサポートしています。GitHub の Wiki に設定方法とプロファイルのサンプルが掲載されました。</p>
 </description>
     </item>
     

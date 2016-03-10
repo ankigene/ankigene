@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 29 Jan 2015 17:50:54 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/chromebook/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-2-4-released/</link>
       <pubDate>Thu, 29 Jan 2015 17:50:54 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-2-4-released/</guid>
-      <description>&lt;p&gt;このリリースでは、日本語版マニュアルとの連携、作成済みのカードのノートタイプの変更、カードテンプレートの表示削除、動画再生のサポートなどが行われました。また、Chromebook のサポートがこのバージョンから正式に行われています。&lt;/p&gt;
+      <description><p>このリリースでは、日本語版マニュアルとの連携、作成済みのカードのノートタイプの変更、カードテンプレートの表示削除、動画再生のサポートなどが行われました。また、Chromebook のサポートがこのバージョンから正式に行われています。</p>
 </description>
     </item>
     
@@ -24,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-on-chromebook/</link>
       <pubDate>Sat, 20 Sep 2014 18:50:41 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-on-chromebook/</guid>
-      <description>&lt;p&gt;AnkiDroid Forum への投稿 &amp;ldquo;AnkiDroid running on Chromebooks&amp;rdquo; では apk を Chrome OS 用に変換するツール Chromeos-apk を使って、AnkiDroid を Chromebook 上で実行する方法を紹介しています。(追記)  AnkiDroid 2.4 で Chromebook が正式サポートされました。&lt;/p&gt;
+      <description><p>AnkiDroid Forum への投稿 &ldquo;AnkiDroid running on Chromebooks&rdquo; では apk を Chrome OS 用に変換するツール Chromeos-apk を使って、AnkiDroid を Chromebook 上で実行する方法を紹介しています。(追記)  AnkiDroid 2.4 で Chromebook が正式サポートされました。</p>
 </description>
     </item>
     

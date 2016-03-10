@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 13 Aug 2014 00:14:57 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/sqlite/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/document-for-manual-analysis/</link>
       <pubDate>Wed, 13 Aug 2014 00:14:57 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/document-for-manual-analysis/</guid>
-      <description>&lt;p&gt;Anki学習の統計情報をデータベースから取り出し、手動で直接分析する方法がドキュメント化されました。&lt;/p&gt;
+      <description><p>Anki学習の統計情報をデータベースから取り出し、手動で直接分析する方法がドキュメント化されました。</p>
 </description>
     </item>
     
@@ -24,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/customize-anki-stats/</link>
       <pubDate>Sat, 09 Aug 2014 11:30:50 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/customize-anki-stats/</guid>
-      <description>&lt;p&gt;統計情報のカスタマイズがサポートサイトで話題になりました。アドオンを作る方法と、データベースから直接データ出力する方法が紹介され、サンプルアドオンも投稿されています。アドオン開発者には必須の情報源です。&lt;/p&gt;
+      <description><p>統計情報のカスタマイズがサポートサイトで話題になりました。アドオンを作る方法と、データベースから直接データ出力する方法が紹介され、サンプルアドオンも投稿されています。アドオン開発者には必須の情報源です。</p>
 </description>
     </item>
     
@@ -33,7 +34,7 @@
       <link>http://ankigene.luminousspice.com/post/anki-deck-apkg-insider/</link>
       <pubDate>Fri, 09 May 2014 16:30:20 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-deck-apkg-insider/</guid>
-      <description>&lt;p&gt;AnkiDroid の作者が Anki 単語帳パッケージ akpg ファイルの情報をまとめてくれました。フルスクラッチで sqlite を利用して apkg 作成し、コレクション、ノート、カードを追加していく手順を紹介しています。&lt;/p&gt;
+      <description><p>AnkiDroid の作者が Anki 単語帳パッケージ akpg ファイルの情報をまとめてくれました。フルスクラッチで sqlite を利用して apkg 作成し、コレクション、ノート、カードを追加していく手順を紹介しています。</p>
 </description>
     </item>
     

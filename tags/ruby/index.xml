@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 27 Aug 2014 13:15:02 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/generator-for-jazz-piano-cords/</link>
       <pubDate>Wed, 27 Aug 2014 13:15:02 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/generator-for-jazz-piano-cords/</guid>
-      <description>&lt;p&gt;GitHub に公開の pianochords は、コードネーム (コードシンボル) で質問し、解答を鍵盤図で表示するジャズピアノのコード学習用の Anki 単語帳用データを自動生成します。&lt;/p&gt;
+      <description><p>GitHub に公開の pianochords は、コードネーム (コードシンボル) で質問し、解答を鍵盤図で表示するジャズピアノのコード学習用の Anki 単語帳用データを自動生成します。</p>
 </description>
     </item>
     
@@ -24,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/mastering-programing-with-anki/</link>
       <pubDate>Wed, 20 Aug 2014 10:00:54 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/mastering-programing-with-anki/</guid>
-      <description>&lt;p&gt;Smashing Magazine &amp;ldquo;Tips For Mastering A Programming Language Using Spaced Repetition&amp;rdquo; では、Anki を使ってプログラミングを学習するための Tips を紹介。Janki Method のベストプラクティス。Ruby と JavaScript のサンプル単語帳もダウンロードできます。&lt;/p&gt;
+      <description><p>Smashing Magazine &ldquo;Tips For Mastering A Programming Language Using Spaced Repetition&rdquo; では、Anki を使ってプログラミングを学習するための Tips を紹介。Janki Method のベストプラクティス。Ruby と JavaScript のサンプル単語帳もダウンロードできます。</p>
 </description>
     </item>
     

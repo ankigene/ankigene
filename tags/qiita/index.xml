@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 25 Oct 2014 15:00:28 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/qiita/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/anki-with-tex-live/</link>
       <pubDate>Sat, 25 Oct 2014 15:00:28 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-with-tex-live/</guid>
-      <description>&lt;p&gt;Qiita「WindowsのAnkiでTeXを使う TeX Live 2014の場合」では、Windows 版 Anki で数式表示するための Tex Live ディストリビューションの設定手順を解説しています。&lt;/p&gt;
+      <description><p>Qiita「WindowsのAnkiでTeXを使う TeX Live 2014の場合」では、Windows 版 Anki で数式表示するための Tex Live ディストリビューションの設定手順を解説しています。</p>
 </description>
     </item>
     
