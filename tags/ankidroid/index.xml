@@ -16,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-theme-switcher/</link>
       <pubDate>Sun, 31 Jan 2016 08:20:26 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-theme-switcher/</guid>
-      <description><p>AnkiDroid 2.6alpha8 で Theme switcher 機能が追加になりました。デイモード、ナイトモードそれぞれ標準のデザインテーマと新たに追加のグレースケールで表現したシンプルなテーマに切り替えて使えるようになります。</p>
+      <description>&lt;p&gt;AnkiDroid 2.6alpha8 で Theme switcher 機能が追加になりました。デイモード、ナイトモードそれぞれ標準のデザインテーマと新たに追加のグレースケールで表現したシンプルなテーマに切り替えて使えるようになります。&lt;/p&gt;
 </description>
     </item>
     
@@ -25,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</link>
       <pubDate>Sat, 30 Jan 2016 09:00:30 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</guid>
-      <description><p>AnkiDroid 2.6alpha7 では、学習量を予測するシュミレーション機能が追加になりました。ユーザーが設定した正解率 (初期設定では 90%) で学習量を計算します。この機能は AnkiDroid のアドオンとして Jeffrey van Prehn が開発したものです。</p>
+      <description>&lt;p&gt;AnkiDroid 2.6alpha7 では、学習量を予測するシュミレーション機能が追加になりました。ユーザーが設定した正解率 (初期設定では 90%) で学習量を計算します。この機能は AnkiDroid のアドオンとして Jeffrey van Prehn が開発したものです。&lt;/p&gt;
 </description>
     </item>
     
@@ -34,7 +34,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-background-sync/</link>
       <pubDate>Sun, 03 Jan 2016 20:00:41 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-background-sync/</guid>
-      <description><p>AnkiDroid 2.5 は、オートメーションアプリの Tasker を利用したバックグラウンド同期をサポートしています。GitHub の Wiki に設定方法とプロファイルのサンプルが掲載されました。</p>
+      <description>&lt;p&gt;AnkiDroid 2.5 は、オートメーションアプリの Tasker を利用したバックグラウンド同期をサポートしています。GitHub の Wiki に設定方法とプロファイルのサンプルが掲載されました。&lt;/p&gt;
 </description>
     </item>
     
@@ -43,7 +43,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-2-5-japanese-manual/</link>
       <pubDate>Sun, 03 Jan 2016 19:50:51 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-2-5-japanese-manual/</guid>
-      <description><p>AnkiDroid 2.5 日本語マニュアルが公開になりました。ユーザーインターフェイスの変更や新機能を反映した内容になっています。</p>
+      <description>&lt;p&gt;AnkiDroid 2.5 日本語マニュアルが公開になりました。ユーザーインターフェイスの変更や新機能を反映した内容になっています。&lt;/p&gt;
 </description>
     </item>
     
@@ -52,7 +52,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-supports-custom-sync-server/</link>
       <pubDate>Thu, 31 Dec 2015 11:59:35 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-supports-custom-sync-server/</guid>
-      <description><p>AnkiDroid 2.6Alpha3 より同期サーバーが選択できるようになりました。この機能によって個人的に立ち上げた Anki Sync Server のようなサーバーをデータの同期先に指定できるようになります。</p>
+      <description>&lt;p&gt;AnkiDroid 2.6Alpha3 より同期サーバーが選択できるようになりました。この機能によって個人的に立ち上げた Anki Sync Server のようなサーバーをデータの同期先に指定できるようになります。&lt;/p&gt;
 </description>
     </item>
     
@@ -61,7 +61,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-advanced-formatting/</link>
       <pubDate>Sun, 27 Dec 2015 17:00:26 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-advanced-formatting/</guid>
-      <description><p>AnkiDroid 2.5 からノートタイプの編集ができるようになりました。これにあわせて AnkiDroid 用の書式ガイドが GitHub の Wiki 上に公開になりました。垂直方向のセンタリングやワードラップ、ナイトモードのカスタム方法などが紹介されています。</p>
+      <description>&lt;p&gt;AnkiDroid 2.5 からノートタイプの編集ができるようになりました。これにあわせて AnkiDroid 用の書式ガイドが GitHub の Wiki 上に公開になりました。垂直方向のセンタリングやワードラップ、ナイトモードのカスタム方法などが紹介されています。&lt;/p&gt;
 </description>
     </item>
     
@@ -70,7 +70,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-2-5/</link>
       <pubDate>Sun, 27 Dec 2015 16:30:42 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-2-5/</guid>
-      <description><p>AnkiDroid 2.5 シリーズでは、ユーザーインターフェイスを一新しました。ナイトモードも新しくなり、ノートタイプの管理やカードブラウザーでの検索条件の保存も AnkiDroid 上でできるようになりました。</p>
+      <description>&lt;p&gt;AnkiDroid 2.5 シリーズでは、ユーザーインターフェイスを一新しました。ナイトモードも新しくなり、ノートタイプの管理やカードブラウザーでの検索条件の保存も AnkiDroid 上でできるようになりました。&lt;/p&gt;
 </description>
     </item>
     
@@ -79,7 +79,7 @@
       <link>http://ankigene.luminousspice.com/post/certificate-for-childcare-worker/</link>
       <pubDate>Sun, 27 Dec 2015 14:00:36 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/certificate-for-childcare-worker/</guid>
-      <description><p>☆妊活と保育士を頑張るブログ☆の投稿「合格のために工夫したこと(筆記)②」では、AnkiDroid を活用した保育士試験の過去問や予想問題の復習方法を紹介しています。AnkiDroid の読み上げ機能を利用した音声による復習が効果的なのだそうです。</p>
+      <description>&lt;p&gt;☆妊活と保育士を頑張るブログ☆の投稿「合格のために工夫したこと(筆記)②」では、AnkiDroid を活用した保育士試験の過去問や予想問題の復習方法を紹介しています。AnkiDroid の読み上げ機能を利用した音声による復習が効果的なのだそうです。&lt;/p&gt;
 </description>
     </item>
     
@@ -88,7 +88,7 @@
       <link>http://ankigene.luminousspice.com/post/attach-audio-to-ankidroid/</link>
       <pubDate>Sat, 29 Aug 2015 14:15:03 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/attach-audio-to-ankidroid/</guid>
-      <description><p>kuni1591 さんの YouTube の投稿動画「Ankidroidへの音声ファイル・カット＆ペースト」では、Android 内で完結する AnkiDroid への音声データの取り込み方を紹介しています。</p>
+      <description>&lt;p&gt;kuni1591 さんの YouTube の投稿動画「Ankidroidへの音声ファイル・カット＆ペースト」では、Android 内で完結する AnkiDroid への音声データの取り込み方を紹介しています。&lt;/p&gt;
 </description>
     </item>
     
@@ -97,7 +97,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-tutorial-movie/</link>
       <pubDate>Mon, 01 Jun 2015 00:10:25 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-tutorial-movie/</guid>
-      <description><p>kuni1591 さんが YouTube に投稿した「Ankidroid使いこなし」では、AnkiDroid の基本的な操作方法と、PC 版 Anki との連携方法を紹介しています。</p>
+      <description>&lt;p&gt;kuni1591 さんが YouTube に投稿した「Ankidroid使いこなし」では、AnkiDroid の基本的な操作方法と、PC 版 Anki との連携方法を紹介しています。&lt;/p&gt;
 </description>
     </item>
     
@@ -106,7 +106,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-on-pc-with-arc-welder/</link>
       <pubDate>Tue, 07 Apr 2015 14:00:55 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-on-pc-with-arc-welder/</guid>
-      <description><p>Capricious POV「ARC Welderを使いPC上でAnkiDroidを動かす」では、Chrome ブラウザ上で Android アプリを動かすための Chrome アプリ ARC Welder を使って、PC 上で AnkiDroid を起動する方法を紹介しています。</p>
+      <description>&lt;p&gt;Capricious POV「ARC Welderを使いPC上でAnkiDroidを動かす」では、Chrome ブラウザ上で Android アプリを動かすための Chrome アプリ ARC Welder を使って、PC 上で AnkiDroid を起動する方法を紹介しています。&lt;/p&gt;
 </description>
     </item>
     
@@ -115,7 +115,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-2-5-alpha/</link>
       <pubDate>Sat, 28 Mar 2015 17:20:55 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-2-5-alpha/</guid>
-      <description><p>次期バーション AnkiDroid 2.5 の開発が始まっています。ユーザーインターフェイスのリニューアルや、外部のアプリから AnkiDroid のデータベースにノートやカードを入力するコンテンツプロバイダの機能などの作成が進められています。</p>
+      <description>&lt;p&gt;次期バーション AnkiDroid 2.5 の開発が始まっています。ユーザーインターフェイスのリニューアルや、外部のアプリから AnkiDroid のデータベースにノートやカードを入力するコンテンツプロバイダの機能などの作成が進められています。&lt;/p&gt;
 </description>
     </item>
     
@@ -124,7 +124,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-2-4-2/</link>
       <pubDate>Tue, 17 Mar 2015 12:10:01 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-2-4-2/</guid>
-      <description><p>このリリースでは、2.4.1 で新たに発生したカードテンプレートに利用する Conditional Replacement (条件置換) の動作に問題を修正しました。なお、2.4.1 ではフィルター単語帳、ズーム機能、穴埋め問題、共有単語帳のダウンロード、ブラウザーで単語帳変更、AnkiWeb との同期などの機能に関する問題点が修正されました。また、クラッシュの原因となる問題点も解決しました。</p>
+      <description>&lt;p&gt;このリリースでは、2.4.1 で新たに発生したカードテンプレートに利用する Conditional Replacement (条件置換) の動作に問題を修正しました。なお、2.4.1 ではフィルター単語帳、ズーム機能、穴埋め問題、共有単語帳のダウンロード、ブラウザーで単語帳変更、AnkiWeb との同期などの機能に関する問題点が修正されました。また、クラッシュの原因となる問題点も解決しました。&lt;/p&gt;
 </description>
     </item>
     
@@ -133,7 +133,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-pali-accents-support/</link>
       <pubDate>Mon, 16 Mar 2015 14:00:56 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-pali-accents-support/</guid>
-      <description><p>AnkiDroid Forum では、AnkiDroid で固有に発生するパーリ語のアクセント記号表示の問題について投稿が寄せられました。</p>
+      <description>&lt;p&gt;AnkiDroid Forum では、AnkiDroid で固有に発生するパーリ語のアクセント記号表示の問題について投稿が寄せられました。&lt;/p&gt;
 </description>
     </item>
     
@@ -142,7 +142,7 @@
       <link>http://ankigene.luminousspice.com/post/adblock-ankidroid-sync/</link>
       <pubDate>Fri, 06 Mar 2015 10:00:06 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/adblock-ankidroid-sync/</guid>
-      <description><p>Anki サポートフォーラムに広告ブロックアプリを利用すると AnkiDroid と AnkiWeb との同期に問題が発生することが報告されました。</p>
+      <description>&lt;p&gt;Anki サポートフォーラムに広告ブロックアプリを利用すると AnkiDroid と AnkiWeb との同期に問題が発生することが報告されました。&lt;/p&gt;
 </description>
     </item>
     

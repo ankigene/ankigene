@@ -16,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/json-importer-addon/</link>
       <pubDate>Tue, 09 Feb 2016 20:00:16 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/json-importer-addon/</guid>
-      <description><p>AnkiWeb で公開のアドオン &ldquo;Json Importer&rdquo; は、Anki の読み込み機能に JSON 形式のサポートを追加します。読み込みデータのフィールドの内容を画像や動画のパスにすると、自動的にメディアファイルとして取り込む機能を提供しています。</p>
+      <description>&lt;p&gt;AnkiWeb で公開のアドオン &amp;ldquo;Json Importer&amp;rdquo; は、Anki の読み込み機能に JSON 形式のサポートを追加します。読み込みデータのフィールドの内容を画像や動画のパスにすると、自動的にメディアファイルとして取り込む機能を提供しています。&lt;/p&gt;
 </description>
     </item>
     
@@ -25,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/media-import/</link>
       <pubDate>Wed, 14 Jan 2015 12:55:43 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/media-import/</guid>
-      <description><p>メディアファイルからノートを一括作成するアドオン Media Import の最新版 v2.0 では、ノートタイプの選択、フィールドへファイル名や連番の指定が出来るユーザーインターフェイスが追加されました。</p>
+      <description>&lt;p&gt;メディアファイルからノートを一括作成するアドオン Media Import の最新版 v2.0 では、ノートタイプの選択、フィールドへファイル名や連番の指定が出来るユーザーインターフェイスが追加されました。&lt;/p&gt;
 </description>
     </item>
     

@@ -16,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</link>
       <pubDate>Sat, 30 Jan 2016 09:00:30 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</guid>
-      <description><p>AnkiDroid 2.6alpha7 では、学習量を予測するシュミレーション機能が追加になりました。ユーザーが設定した正解率 (初期設定では 90%) で学習量を計算します。この機能は AnkiDroid のアドオンとして Jeffrey van Prehn が開発したものです。</p>
+      <description>&lt;p&gt;AnkiDroid 2.6alpha7 では、学習量を予測するシュミレーション機能が追加になりました。ユーザーが設定した正解率 (初期設定では 90%) で学習量を計算します。この機能は AnkiDroid のアドオンとして Jeffrey van Prehn が開発したものです。&lt;/p&gt;
 </description>
     </item>
     
@@ -25,8 +25,8 @@
       <link>http://ankigene.luminousspice.com/post/random-simulator/</link>
       <pubDate>Sat, 18 Oct 2014 22:20:25 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/random-simulator/</guid>
-      <description><p>Anki Random Simulator は、モンテカルロ法を使って Anki の復習スケジュールをシュミレーションします。
-このサイトでは、正解率90%、5年間に設定していますが、GitHub でソースコードを公開していますので、設定変更してシュミレーションできます。</p>
+      <description>&lt;p&gt;Anki Random Simulator は、モンテカルロ法を使って Anki の復習スケジュールをシュミレーションします。
+このサイトでは、正解率90%、5年間に設定していますが、GitHub でソースコードを公開していますので、設定変更してシュミレーションできます。&lt;/p&gt;
 </description>
     </item>
     

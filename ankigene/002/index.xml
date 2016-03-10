@@ -16,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/anki-deck-apkg-insider/</link>
       <pubDate>Fri, 09 May 2014 16:30:20 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-deck-apkg-insider/</guid>
-      <description><p>AnkiDroid の作者が Anki 単語帳パッケージ akpg ファイルの情報をまとめてくれました。フルスクラッチで sqlite を利用して apkg 作成し、コレクション、ノート、カードを追加していく手順を紹介しています。</p>
+      <description>&lt;p&gt;AnkiDroid の作者が Anki 単語帳パッケージ akpg ファイルの情報をまとめてくれました。フルスクラッチで sqlite を利用して apkg 作成し、コレクション、ノート、カードを追加していく手順を紹介しています。&lt;/p&gt;
 </description>
     </item>
     
@@ -25,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/learning-thai-vocabulary-with-anki-and-lwt/</link>
       <pubDate>Sat, 03 May 2014 00:00:38 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/learning-thai-vocabulary-with-anki-and-lwt/</guid>
-      <description><p>タイ11年在住の方がタイ語の読み書きの理解を向上ために取り組んだ語彙学習の事例です。自分が読みたいテキストから語彙を抽出してAnkiで覚えている点がユニークです。私はこの記事でLWTというアプリの存在を知りました。</p>
+      <description>&lt;p&gt;タイ11年在住の方がタイ語の読み書きの理解を向上ために取り組んだ語彙学習の事例です。自分が読みたいテキストから語彙を抽出してAnkiで覚えている点がユニークです。私はこの記事でLWTというアプリの存在を知りました。&lt;/p&gt;
 </description>
     </item>
     
@@ -34,7 +34,7 @@
       <link>http://ankigene.luminousspice.com/post/how-to-improve-foreign-languages/</link>
       <pubDate>Fri, 02 May 2014 12:00:14 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/how-to-improve-foreign-languages/</guid>
-      <description><p>Ankiで外国語を学ぶなら目を通しておきたい不滅の一冊。外国語学習の極意は忘れることを恐れず繰り返すこと。最初の欲高いうちに基本語彙を覚える。Ankiはこの重要な段階を乗り切るのに最適。この本の指針がそのままAnkiの効果的な使い方につながる。</p>
+      <description>&lt;p&gt;Ankiで外国語を学ぶなら目を通しておきたい不滅の一冊。外国語学習の極意は忘れることを恐れず繰り返すこと。最初の欲高いうちに基本語彙を覚える。Ankiはこの重要な段階を乗り切るのに最適。この本の指針がそのままAnkiの効果的な使い方につながる。&lt;/p&gt;
 </description>
     </item>
     
@@ -43,7 +43,7 @@
       <link>http://ankigene.luminousspice.com/post/learn-to-speak-4-languages/</link>
       <pubDate>Thu, 01 May 2014 20:00:49 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/learn-to-speak-4-languages/</guid>
-      <description><p>ポリグロット向けメソッド Tower of Babelfish の要約。C1:独仏露、B2:伊の著者がミドルベリー大学の集中授業の経験を元に発展させた学習法です。Ankiを活用した毎日60分6か月間の学習モデルを紹介しています。</p>
+      <description>&lt;p&gt;ポリグロット向けメソッド Tower of Babelfish の要約。C1:独仏露、B2:伊の著者がミドルベリー大学の集中授業の経験を元に発展させた学習法です。Ankiを活用した毎日60分6か月間の学習モデルを紹介しています。&lt;/p&gt;
 </description>
     </item>
     
@@ -52,7 +52,7 @@
       <link>http://ankigene.luminousspice.com/post/chess-fen-for-anki/</link>
       <pubDate>Tue, 29 Apr 2014 20:00:34 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/chess-fen-for-anki/</guid>
-      <description><p>FEN(Forsyth-Edwards Notation)で表記したチェス盤を表示するアドオン FEN chess visualizer が公開されました。AnkiDroidのFEN表示機能と同じ書き方で表示できます。</p>
+      <description>&lt;p&gt;FEN(Forsyth-Edwards Notation)で表記したチェス盤を表示するアドオン FEN chess visualizer が公開されました。AnkiDroidのFEN表示機能と同じ書き方で表示できます。&lt;/p&gt;
 </description>
     </item>
     

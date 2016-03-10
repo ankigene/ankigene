@@ -16,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</link>
       <pubDate>Sat, 30 Jan 2016 09:00:30 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</guid>
-      <description><p>AnkiDroid 2.6alpha7 では、学習量を予測するシュミレーション機能が追加になりました。ユーザーが設定した正解率 (初期設定では 90%) で学習量を計算します。この機能は AnkiDroid のアドオンとして Jeffrey van Prehn が開発したものです。</p>
+      <description>&lt;p&gt;AnkiDroid 2.6alpha7 では、学習量を予測するシュミレーション機能が追加になりました。ユーザーが設定した正解率 (初期設定では 90%) で学習量を計算します。この機能は AnkiDroid のアドオンとして Jeffrey van Prehn が開発したものです。&lt;/p&gt;
 </description>
     </item>
     
@@ -25,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/document-for-manual-analysis/</link>
       <pubDate>Wed, 13 Aug 2014 00:14:57 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/document-for-manual-analysis/</guid>
-      <description><p>Anki学習の統計情報をデータベースから取り出し、手動で直接分析する方法がドキュメント化されました。</p>
+      <description>&lt;p&gt;Anki学習の統計情報をデータベースから取り出し、手動で直接分析する方法がドキュメント化されました。&lt;/p&gt;
 </description>
     </item>
     
@@ -34,7 +34,7 @@
       <link>http://ankigene.luminousspice.com/post/ankistats-for-ankidroid/</link>
       <pubDate>Fri, 18 Jul 2014 10:45:18 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankistats-for-ankidroid/</guid>
-      <description><p>Android アプリ AnkiStats は AnkiDroid の学習データを使って、PC版 Anki と同じ形式の統計情報を表示します。(追記) この機能は AnkiDroid 2.3 の統計情報として採用されました。最新の Alpha 版で確認できます。</p>
+      <description>&lt;p&gt;Android アプリ AnkiStats は AnkiDroid の学習データを使って、PC版 Anki と同じ形式の統計情報を表示します。(追記) この機能は AnkiDroid 2.3 の統計情報として採用されました。最新の Alpha 版で確認できます。&lt;/p&gt;
 </description>
     </item>
     

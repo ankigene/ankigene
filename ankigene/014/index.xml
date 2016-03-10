@@ -16,7 +16,7 @@
       <link>http://ankigene.luminousspice.com/post/anki-2-0-31/</link>
       <pubDate>Sun, 19 Oct 2014 21:00:49 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-2-0-31/</guid>
-      <description><p>このバージョンでは、大量のデータを定期的に同期するとタイムアウトが発生する問題に対応しました。</p>
+      <description>&lt;p&gt;このバージョンでは、大量のデータを定期的に同期するとタイムアウトが発生する問題に対応しました。&lt;/p&gt;
 </description>
     </item>
     
@@ -25,7 +25,7 @@
       <link>http://ankigene.luminousspice.com/post/anki-manual-sched/</link>
       <pubDate>Sat, 18 Oct 2014 23:53:58 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-manual-sched/</guid>
-      <description><p>Anki ユーザーマニュアルに、スケジュールアルゴリズムの概要が掲載されました。復習での解答ボタンの選択によって、復習間隔や易しさ (ease) を決定する仕組みを解説しています。</p>
+      <description>&lt;p&gt;Anki ユーザーマニュアルに、スケジュールアルゴリズムの概要が掲載されました。復習での解答ボタンの選択によって、復習間隔や易しさ (ease) を決定する仕組みを解説しています。&lt;/p&gt;
 </description>
     </item>
     
@@ -34,8 +34,8 @@
       <link>http://ankigene.luminousspice.com/post/random-simulator/</link>
       <pubDate>Sat, 18 Oct 2014 22:20:25 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/random-simulator/</guid>
-      <description><p>Anki Random Simulator は、モンテカルロ法を使って Anki の復習スケジュールをシュミレーションします。
-このサイトでは、正解率90%、5年間に設定していますが、GitHub でソースコードを公開していますので、設定変更してシュミレーションできます。</p>
+      <description>&lt;p&gt;Anki Random Simulator は、モンテカルロ法を使って Anki の復習スケジュールをシュミレーションします。
+このサイトでは、正解率90%、5年間に設定していますが、GitHub でソースコードを公開していますので、設定変更してシュミレーションできます。&lt;/p&gt;
 </description>
     </item>
     
@@ -44,7 +44,7 @@
       <link>http://ankigene.luminousspice.com/post/anki-2-0-30/</link>
       <pubDate>Sat, 18 Oct 2014 22:00:13 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-2-0-30/</guid>
-      <description><p>Anki 2.0.30 がリリースになりました。OS X 10.5, 10.6 用の代替ビルドで同期機能を継続利用するには、このバージョンへのアップグレードが必要です。</p>
+      <description>&lt;p&gt;Anki 2.0.30 がリリースになりました。OS X 10.5, 10.6 用の代替ビルドで同期機能を継続利用するには、このバージョンへのアップグレードが必要です。&lt;/p&gt;
 </description>
     </item>
     
@@ -53,7 +53,7 @@
       <link>http://ankigene.luminousspice.com/post/power-format-pack/</link>
       <pubDate>Tue, 07 Oct 2014 18:30:34 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/power-format-pack/</guid>
-      <description><p>Power format pack は、ノートエディタで指定する書式を強化するアドオンです。表やリスト、コードブロック、取り消し線、罫線などが利用できます。</p>
+      <description>&lt;p&gt;Power format pack は、ノートエディタで指定する書式を強化するアドオンです。表やリスト、コードブロック、取り消し線、罫線などが利用できます。&lt;/p&gt;
 </description>
     </item>
     
