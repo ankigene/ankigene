@@ -6,10 +6,19 @@
     <description>最新記事 in Posts | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Mar 2016 01:27:46 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 13 Mar 2016 21:30:53 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiMobile 2.0.18 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-18/</link>
+      <pubDate>Sun, 13 Mar 2016 21:30:53 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-18/</guid>
+      <description>&lt;p&gt;最新版の Anki の iOS アプリ AnkiMobile 2.0.18 では、自動バックアップ管理や学習オプションなど設定が PC 版との連携なしにできるようになりました。画面分割マルチタスク、Bluetooth キーボード、Apple Pencil の対応が行われています。iPhone のサイレントスイッチが AnkiMobile の音声の自動再生を無効にするようになりました。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Anki を活用した世界遺産検定２級勉強法</title>
@@ -134,15 +143,6 @@
       <pubDate>Mon, 18 Jan 2016 18:00:21 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-for-3years/</guid>
       <description>&lt;p&gt;Reddit の投稿 &amp;ldquo;Anki every day for 3 years straight&amp;rdquo; では、20年間のブランクの後、イタリア語を再開して CEFR C2レベルに達するまで Anki をどう活用したか説明しています。統計情報もリンクしているので、詳しい学習状況も確認できます。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>16進数九九の単語帳</title>
-      <link>http://ankigene.luminousspice.com/post/deck-hexadecimal-multiplication-table/</link>
-      <pubDate>Mon, 11 Jan 2016 18:40:38 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/deck-hexadecimal-multiplication-table/</guid>
-      <description>&lt;p&gt;AnkiWeb の共有単語帳一覧に「十六進数掛け算」が登録されました。&lt;/p&gt;
 </description>
     </item>
     

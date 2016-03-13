@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple Pencil on Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/apple-pencil/</link>
+    <description>最新記事 in Apple Pencil | Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 13 Mar 2016 21:30:53 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="http://ankigene.luminousspice.com/tags/apple-pencil/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiMobile 2.0.18 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-18/</link>
+      <pubDate>Sun, 13 Mar 2016 21:30:53 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-18/</guid>
+      <description>&lt;p&gt;最新版の Anki の iOS アプリ AnkiMobile 2.0.18 では、自動バックアップ管理や学習オプションなど設定が PC 版との連携なしにできるようになりました。画面分割マルチタスク、Bluetooth キーボード、Apple Pencil の対応が行われています。iPhone のサイレントスイッチが AnkiMobile の音声の自動再生を無効にするようになりました。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
