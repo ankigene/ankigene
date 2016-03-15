@@ -18,7 +18,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: -apple-system-headline, "Hiragino Kaku Gothic Pro", "Meiryo", "Source Han Sans", Helvetica, sans-serif;
+    font-family: sans-serif;
 }
 
 .lead {
@@ -40,11 +40,11 @@ h6 {
 }
 
 .intro-message > h3 {
-    font-family: -apple-system-headline, "Hiragino Kaku Gothic Pro", "Meiryo", "Source Han Sans", Helvetica, sans-serif;
+    font-family: sans-serif;
 }
 
 .intro-message > h1 {
-    font-family: -apple-system-subheadline, "Hiragino Kaku Gothic Pro", "Meiryo", "Source Han Sans", Helvetica, sans-serif;
+    font-family: sans-serif;
     font-size: 4.5em;
 }
 
