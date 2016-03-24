@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Api on Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/api/</link>
+    <description>最新記事 in Api | Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 24 Mar 2016 21:23:23 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="http://ankigene.luminousspice.com/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiDroid API 1.1</title>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-api-1-1/</link>
+      <pubDate>Thu, 24 Mar 2016 21:23:23 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-api-1-1/</guid>
+      <description>&lt;p&gt;AnkiDroid 2.6alpha19 のリリースによって Ankidroid API 1.1 が導入されました。このリリースで大量のノートを追加した時のパフォーマンスの向上しました。更新の概要はサポートサイトのリリースノートをご覧下さい。また詳しい情報は、リリースノートからリンクしているGitHub のレポジトリのソースコード内のコメント、Wiki、サンプルコードから調べることができます。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

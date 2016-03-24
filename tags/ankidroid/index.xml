@@ -6,10 +6,19 @@
     <description>最新記事 in Ankidroid | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 31 Jan 2016 08:20:26 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 24 Mar 2016 21:23:23 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/ankidroid/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiDroid API 1.1</title>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-api-1-1/</link>
+      <pubDate>Thu, 24 Mar 2016 21:23:23 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-api-1-1/</guid>
+      <description>&lt;p&gt;AnkiDroid 2.6alpha19 のリリースによって Ankidroid API 1.1 が導入されました。このリリースで大量のノートを追加した時のパフォーマンスの向上しました。更新の概要はサポートサイトのリリースノートをご覧下さい。また詳しい情報は、リリースノートからリンクしているGitHub のレポジトリのソースコード内のコメント、Wiki、サンプルコードから調べることができます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiDroid テーマ切り替え機能</title>
@@ -134,15 +143,6 @@
       <pubDate>Mon, 16 Mar 2015 14:00:56 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-pali-accents-support/</guid>
       <description>&lt;p&gt;AnkiDroid Forum では、AnkiDroid で固有に発生するパーリ語のアクセント記号表示の問題について投稿が寄せられました。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>広告ブロックアプリと AnkiDroid の同期機能</title>
-      <link>http://ankigene.luminousspice.com/post/adblock-ankidroid-sync/</link>
-      <pubDate>Fri, 06 Mar 2015 10:00:06 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/adblock-ankidroid-sync/</guid>
-      <description>&lt;p&gt;Anki サポートフォーラムに広告ブロックアプリを利用すると AnkiDroid と AnkiWeb との同期に問題が発生することが報告されました。&lt;/p&gt;
 </description>
     </item>
     

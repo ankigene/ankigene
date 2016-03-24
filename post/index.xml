@@ -6,10 +6,19 @@
     <description>最新記事 in Posts | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Mar 2016 21:30:53 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 24 Mar 2016 21:23:23 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiDroid API 1.1</title>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-api-1-1/</link>
+      <pubDate>Thu, 24 Mar 2016 21:23:23 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-api-1-1/</guid>
+      <description>&lt;p&gt;AnkiDroid 2.6alpha19 のリリースによって Ankidroid API 1.1 が導入されました。このリリースで大量のノートを追加した時のパフォーマンスの向上しました。更新の概要はサポートサイトのリリースノートをご覧下さい。また詳しい情報は、リリースノートからリンクしているGitHub のレポジトリのソースコード内のコメント、Wiki、サンプルコードから調べることができます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiMobile 2.0.18 リリース</title>
@@ -134,15 +143,6 @@
       <pubDate>Fri, 22 Jan 2016 21:00:12 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-essentials/</guid>
       <description>&lt;p&gt;バークレーの人工知能研究機関 MIRI (Machine Intelligence Research Institute) に勤務する Alex Vermeer 氏執筆による電子書籍 &amp;ldquo;Anki Essentials - the Complete Guide to Remembering Anything with Anki&amp;rdquo; が期間限定で無料ダウンロードできるようになりました。Anki の操作方法に加えて、マニュアルよりも更に詳しく Anki の動作を知りたい方のために、図解しながら丁寧に説明しています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>三年間 Anki を続けたら</title>
-      <link>http://ankigene.luminousspice.com/post/anki-for-3years/</link>
-      <pubDate>Mon, 18 Jan 2016 18:00:21 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/anki-for-3years/</guid>
-      <description>&lt;p&gt;Reddit の投稿 &amp;ldquo;Anki every day for 3 years straight&amp;rdquo; では、20年間のブランクの後、イタリア語を再開して CEFR C2レベルに達するまで Anki をどう活用したか説明しています。統計情報もリンクしているので、詳しい学習状況も確認できます。&lt;/p&gt;
 </description>
     </item>
     

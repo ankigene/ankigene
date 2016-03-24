@@ -6,10 +6,19 @@
     <description>最新記事 in 英文 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 07 Feb 2016 23:30:39 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 24 Mar 2016 21:23:23 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E8%8B%B1%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiDroid API 1.1</title>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-api-1-1/</link>
+      <pubDate>Thu, 24 Mar 2016 21:23:23 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-api-1-1/</guid>
+      <description>&lt;p&gt;AnkiDroid 2.6alpha19 のリリースによって Ankidroid API 1.1 が導入されました。このリリースで大量のノートを追加した時のパフォーマンスの向上しました。更新の概要はサポートサイトのリリースノートをご覧下さい。また詳しい情報は、リリースノートからリンクしているGitHub のレポジトリのソースコード内のコメント、Wiki、サンプルコードから調べることができます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>3年間でフランス語 DALF C1 を取るためにやったこと</title>
@@ -134,15 +143,6 @@
       <pubDate>Mon, 16 Mar 2015 14:00:56 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-pali-accents-support/</guid>
       <description>&lt;p&gt;AnkiDroid Forum では、AnkiDroid で固有に発生するパーリ語のアクセント記号表示の問題について投稿が寄せられました。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>クイズ番組 Jeopardy! チャンピオンの Anki 活用法</title>
-      <link>http://ankigene.luminousspice.com/post/jeopardy-champion/</link>
-      <pubDate>Sat, 07 Mar 2015 18:40:09 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/jeopardy-champion/</guid>
-      <description>&lt;p&gt;Mental Floss の記事 &amp;ldquo;Our Interview With Jeopardy! Champion Arthur Chu&amp;rdquo; は、米国のクイズ番組  Jeopardy! でチャンピオンになった Arthur Chu 氏へのインタビューを収録しています。その中で Anki をどのように活用したか説明しています。&lt;/p&gt;
 </description>
     </item>
     
