@@ -6,6 +6,8 @@ paginate = 5
 canonifyurls = true
 hasCJKLanguage = true
 theme = "landing"
+disableRobotsTXT = false
+verbose = true
 
 [permalinks] 
   post = "/:section/:filename/"
@@ -13,6 +15,11 @@ theme = "landing"
 [taxonomies]
 tag = "tags"
 ankigene = "ankigene"
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
 
 [params]
     description = "Anki ユーザーを活性化するユニークな話題を要約してお届けします。"
