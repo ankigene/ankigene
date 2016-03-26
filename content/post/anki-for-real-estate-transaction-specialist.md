@@ -1,4 +1,5 @@
 ---
+draft: true
 slug: "anki-for-real-estate-transaction-specialist"
 date: "2014-07-18T11:30:26+00:00"
 lastmod: "2015-01-15T13:43:37+00:00"
