@@ -1,10 +1,17 @@
 User-agent: *
-
 Disallow: /*.js$
 Disallow: /*.css$
 Disallow: /*.apkg$
 Disallow: /*.json$
 Disallow: /css/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /tags/
+
+User-agent: Googlebot
+Disallow: /*.js$
+Disallow: /*.apkg$
+Disallow: /*.json$
 Disallow: /fonts/
 Disallow: /js/
 Disallow: /tags/
