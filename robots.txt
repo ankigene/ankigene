@@ -9,6 +9,10 @@ Disallow: /fonts/
 Disallow: /js/
 Disallow: /tags/
 
+User-agent: Googlebot*
+Allow: /*.css$
+Allow: /css/
+
 User-agent: duggmirror
 Disallow: /
 
