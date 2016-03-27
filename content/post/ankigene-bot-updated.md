@@ -3,7 +3,7 @@ slug: "ankigene-bot-updated"
 date: "2015-01-23T15:05:45+00:00"
 lastmod: "2015-01-23T15:51:09+00:00"
 title: "Anki の基礎知識をつぶやいてます"
-gene_url: "http://rightstuff.luminousspice.com/ankigene-bot-guide/"
+gene_url: "http://rs.luminousspice.com/ankigene-bot-guide/"
 tags: ["Twitter"]
 thumbnail: "ankigene-bot-guide.png"
 Ankigene: "017"
