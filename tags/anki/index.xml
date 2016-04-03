@@ -6,10 +6,19 @@
     <description>最新記事 in Anki | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Mar 2016 23:41:16 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2016 00:30:35 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/anki/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Image Occlusion 2.0 Enhanced リリース</title>
+      <link>http://ankigene.luminousspice.com/post/image-occlusion-2-enhanced/</link>
+      <pubDate>Mon, 04 Apr 2016 00:30:35 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/image-occlusion-2-enhanced/</guid>
+      <description>&lt;p&gt;アドオン Image Occlusion 2.0 Enhanced がリリースされました。Image Occlusion の原作者から引き継いでメンテナンスしていた開発者による機能拡張版で、データ入力系のユーザーインターフェイスを中心に新機能が盛り込まれています。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Anki 2.0.34 リリース</title>
@@ -134,15 +143,6 @@
       <pubDate>Sat, 07 Mar 2015 18:40:09 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/jeopardy-champion/</guid>
       <description>&lt;p&gt;Mental Floss の記事 &amp;ldquo;Our Interview With Jeopardy! Champion Arthur Chu&amp;rdquo; は、米国のクイズ番組  Jeopardy! でチャンピオンになった Arthur Chu 氏へのインタビューを収録しています。その中で Anki をどのように活用したか説明しています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>1万件のバックログから復帰するには</title>
-      <link>http://ankigene.luminousspice.com/post/clear-10k-backlog/</link>
-      <pubDate>Tue, 03 Mar 2015 23:20:38 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/clear-10k-backlog/</guid>
-      <description>&lt;p&gt;かなり特殊なケースですが、他のアプリからカードを移行したため、学習履歴が消失して発生した11,000枚のカードのバックログをどのように解消すべきかという相談がサポートサイトに寄せられました。&lt;/p&gt;
 </description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>最新記事 in Posts | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Mar 2016 23:41:16 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2016 00:30:35 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Image Occlusion 2.0 Enhanced リリース</title>
+      <link>http://ankigene.luminousspice.com/post/image-occlusion-2-enhanced/</link>
+      <pubDate>Mon, 04 Apr 2016 00:30:35 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/image-occlusion-2-enhanced/</guid>
+      <description>&lt;p&gt;アドオン Image Occlusion 2.0 Enhanced がリリースされました。Image Occlusion の原作者から引き継いでメンテナンスしていた開発者による機能拡張版で、データ入力系のユーザーインターフェイスを中心に新機能が盛り込まれています。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Anki 2.0.34 リリース</title>
@@ -134,15 +143,6 @@
       <pubDate>Thu, 28 Jan 2016 15:15:54 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/aha-eureka-moment/</guid>
       <description>&lt;p&gt;Reddit の投稿 &amp;lsquo;Is there such thing as an &amp;ldquo;aha / eureka&amp;rdquo; moment in language learning and why?&amp;rsquo; では、学習している外国語が突然分かり出す瞬間とはどのようなものだったか、ドイツ語、フランス語、スペイン語、アラビア語エジプト方言などについてコメントが寄せられています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>難読漢字シリーズ単語帳</title>
-      <link>http://ankigene.luminousspice.com/post/deck-nandoku-kanji/</link>
-      <pubDate>Sat, 23 Jan 2016 18:55:02 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/deck-nandoku-kanji/</guid>
-      <description>&lt;p&gt;AnkiWeb に難読漢字シリーズの単語帳が公開になりました。テーマ別に五つに分類した単語帳からなり、高校生レベルから始めて漢字検定一級が目指せる難易度設定になっています。&lt;/p&gt;
 </description>
     </item>
     
