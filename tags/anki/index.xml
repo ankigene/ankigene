@@ -6,10 +6,19 @@
     <description>最新記事 in Anki | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 04 Apr 2016 00:30:35 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 03 Apr 2016 17:08:29 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/anki/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>単語帳の統計概要をツールチップで表示するアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/deck-overview-stats-tooltip/</link>
+      <pubDate>Sun, 03 Apr 2016 17:08:29 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/deck-overview-stats-tooltip/</guid>
+      <description>&lt;p&gt;アドオン Deck Overview Stats Tooltip は、メインウィンドウで単語帳名にカーソルを重ねると、その単語帳のオプショングループ名や収録カード枚数、当日の学習結果の内訳など統計概要をチュールチップで表示します。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Image Occlusion 2.0 Enhanced リリース</title>
@@ -134,15 +143,6 @@
       <pubDate>Sat, 21 Mar 2015 05:29:30 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-settings-on-ubuntu/</guid>
       <description>&lt;p&gt;萌え萌えmoebuntu「語学学習や暗記物に「Anki」アプリ設定のポイント」は、Linux ディストリビューション Ubuntu 環境での Anki のチュートリアルです。インストールからテキストファイル読み込みによる教材作成、Google TTS の設定など、Anki の基本的な使い方をコンパクトにまとめています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>クイズ番組 Jeopardy! チャンピオンの Anki 活用法</title>
-      <link>http://ankigene.luminousspice.com/post/jeopardy-champion/</link>
-      <pubDate>Sat, 07 Mar 2015 18:40:09 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/jeopardy-champion/</guid>
-      <description>&lt;p&gt;Mental Floss の記事 &amp;ldquo;Our Interview With Jeopardy! Champion Arthur Chu&amp;rdquo; は、米国のクイズ番組  Jeopardy! でチャンピオンになった Arthur Chu 氏へのインタビューを収録しています。その中で Anki をどのように活用したか説明しています。&lt;/p&gt;
 </description>
     </item>
     

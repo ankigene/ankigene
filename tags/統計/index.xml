@@ -6,10 +6,19 @@
     <description>最新記事 in 統計 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 30 Jan 2016 09:00:30 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 03 Apr 2016 17:08:29 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E7%B5%B1%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>単語帳の統計概要をツールチップで表示するアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/deck-overview-stats-tooltip/</link>
+      <pubDate>Sun, 03 Apr 2016 17:08:29 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/deck-overview-stats-tooltip/</guid>
+      <description>&lt;p&gt;アドオン Deck Overview Stats Tooltip は、メインウィンドウで単語帳名にカーソルを重ねると、その単語帳のオプショングループ名や収録カード枚数、当日の学習結果の内訳など統計概要をチュールチップで表示します。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiDroid シュミレーションによる学習量予測</title>
