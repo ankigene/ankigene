@@ -2,6 +2,7 @@ baseurl = "http://ankigene.luminousspice.com/"
 languageCode = "ja"
 title = "Ankigene"
 author = "luminosspice"
+metaDataFormat = "yaml"
 paginate = 5
 canonifyurls = true
 hasCJKLanguage = true
