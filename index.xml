@@ -6,10 +6,19 @@
     <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 03 Apr 2016 17:08:29 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 Apr 2016 10:58:02 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anki 2.0.35 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/anki-2-0-35/</link>
+      <pubDate>Tue, 05 Apr 2016 10:58:02 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/anki-2-0-35/</guid>
+      <description>&lt;p&gt;Anki 2.0.35 がリリースされました。このアップデートでユーザーインターフェイスの言語設定の変更が環境設定画面からできるようになりました。バージョン1.2まで利用できた機能が復活しました。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>単語帳の統計概要をツールチップで表示するアドオン</title>
@@ -134,15 +143,6 @@
       <pubDate>Sat, 30 Jan 2016 10:00:01 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/esl-demography-in-asia/</guid>
       <description>&lt;p&gt;hellog～英語史ブログの投稿「#2469. アジアの英語圏」によれば、南アジア・東南アジアの ESL 人口はおおよそ 3.2 億人だそうです。これは日本の近隣諸国に莫大な英語話者が既に存在すること、今後の人口成長や英語教育の進展から世界の英語全体の動向への影響が強くなっていくことを意味し、日本は近隣諸国の英語を巡る環境変化に注意が必要であろうとのことです。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AnkiDroid シュミレーションによる学習量予測</title>
-      <link>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</link>
-      <pubDate>Sat, 30 Jan 2016 09:00:30 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</guid>
-      <description>&lt;p&gt;AnkiDroid 2.6alpha7 では、学習量を予測するシュミレーション機能が追加になりました。ユーザーが設定した正解率 (初期設定では 90%) で学習量を計算します。この機能は AnkiDroid のアドオンとして Jeffrey van Prehn が開発したものです。&lt;/p&gt;
 </description>
     </item>
     
