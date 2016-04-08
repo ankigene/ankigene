@@ -6,10 +6,19 @@
     <description>最新記事 in 更新情報 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 05 Apr 2016 10:58:02 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2016 16:03:00 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiMobile 2.0.20 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-20/</link>
+      <pubDate>Fri, 08 Apr 2016 16:03:00 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-20/</guid>
+      <description>&lt;p&gt;今回のアップデートでは、問題修正を中心に更新します。ミュートボタンを無視する設定項目が出来ました。マナーモード中に Web Speech API を呼び出すとエラーが発生する問題も解決します。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Anki 2.0.35 リリース</title>

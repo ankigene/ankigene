@@ -6,10 +6,19 @@
     <description>最新記事 in Iphone | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Mar 2016 21:30:53 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2016 16:03:00 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiMobile 2.0.20 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-20/</link>
+      <pubDate>Fri, 08 Apr 2016 16:03:00 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-20/</guid>
+      <description>&lt;p&gt;今回のアップデートでは、問題修正を中心に更新します。ミュートボタンを無視する設定項目が出来ました。マナーモード中に Web Speech API を呼び出すとエラーが発生する問題も解決します。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiMobile 2.0.18 リリース</title>
