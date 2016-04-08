@@ -50,4 +50,7 @@
 <!--Twitter Cards-->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="{{ .Site.Params.twitter_user_name }}">
-
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:creator" content="{{ .Site.Params.twitter_user_name }}">
+<meta name="twitter:description" content='{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}'>
+<meta name="twitter:domain" content="luminousspice.com">
