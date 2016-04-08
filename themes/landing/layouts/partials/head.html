@@ -21,7 +21,9 @@
 
     <style>
     {{ printf "%v" (partial "template.css" . ) | safeCSS  }}
-  </style>
+    </style>
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 {{ if .RSSlink }}
   <link href="{{ .Site.BaseURL }}/index.xml" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
   <link href="{{ .Site.BaseURL }}/index.xml" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
