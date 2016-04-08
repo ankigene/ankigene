@@ -6,10 +6,19 @@
     <description>最新記事 in 開発 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Mar 2016 21:23:23 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2016 20:42:29 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E9%96%8B%E7%99%BA/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiDroid カスタムテーマの作り方</title>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-custom-theme/</link>
+      <pubDate>Fri, 08 Apr 2016 20:42:29 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-custom-theme/</guid>
+      <description>&lt;p&gt;AnkiDroid Forum &amp;ldquo;Night mode&amp;rdquo; では、ナイトモードを自作したい方の質問に対して、AnkiDroid のカラーテーマの仕組みについて解説がありました。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiDroid API 1.1</title>
@@ -135,15 +144,6 @@
       <pubDate>Wed, 20 Aug 2014 10:00:54 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/mastering-programing-with-anki/</guid>
       <description>&lt;p&gt;Smashing Magazine &amp;ldquo;Tips For Mastering A Programming Language Using Spaced Repetition&amp;rdquo; では、Anki を使ってプログラミングを学習するための Tips を紹介。Janki Method のベストプラクティス。Ruby と JavaScript のサンプル単語帳もダウンロードできます。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>統計情報のカスタマイズ</title>
-      <link>http://ankigene.luminousspice.com/post/customize-anki-stats/</link>
-      <pubDate>Sat, 09 Aug 2014 11:30:50 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/customize-anki-stats/</guid>
-      <description>&lt;p&gt;統計情報のカスタマイズがサポートサイトで話題になりました。アドオンを作る方法と、データベースから直接データ出力する方法が紹介され、サンプルアドオンも投稿されています。アドオン開発者には必須の情報源です。&lt;/p&gt;
 </description>
     </item>
     

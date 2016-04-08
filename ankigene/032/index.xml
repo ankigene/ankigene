@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>032 on Ankigene</title>
+    <link>http://ankigene.luminousspice.com/ankigene/032/</link>
+    <description>最新記事 in 032 | Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 08 Apr 2016 20:42:29 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="http://ankigene.luminousspice.com/ankigene/032/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiDroid カスタムテーマの作り方</title>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-custom-theme/</link>
+      <pubDate>Fri, 08 Apr 2016 20:42:29 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-custom-theme/</guid>
+      <description>&lt;p&gt;AnkiDroid Forum &amp;ldquo;Night mode&amp;rdquo; では、ナイトモードを自作したい方の質問に対して、AnkiDroid のカラーテーマの仕組みについて解説がありました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AnkiMobile 2.0.20 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-20/</link>
+      <pubDate>Fri, 08 Apr 2016 16:03:00 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-20/</guid>
+      <description>&lt;p&gt;今回のアップデートでは、問題修正を中心に更新します。ミュートボタンを無視する設定項目が出来ました。マナーモード中に Web Speech API を呼び出すとエラーが発生する問題も解決します。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anki 2.0.35 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/anki-2-0-35/</link>
+      <pubDate>Tue, 05 Apr 2016 10:58:02 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/anki-2-0-35/</guid>
+      <description>&lt;p&gt;Anki 2.0.35 がリリースされました。このアップデートでユーザーインターフェイスの言語設定の変更が環境設定画面からできるようになりました。バージョン1.2まで利用できた機能が復活しました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>単語帳の統計概要をツールチップで表示するアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/deck-overview-stats-tooltip/</link>
+      <pubDate>Sun, 03 Apr 2016 17:08:29 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/deck-overview-stats-tooltip/</guid>
+      <description>&lt;p&gt;アドオン Deck Overview Stats Tooltip は、メインウィンドウで単語帳名にカーソルを重ねると、その単語帳のオプショングループ名や収録カード枚数、当日の学習結果の内訳など統計概要をチュールチップで表示します。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Image Occlusion 2.0 Enhanced リリース</title>
+      <link>http://ankigene.luminousspice.com/post/image-occlusion-2-enhanced/</link>
+      <pubDate>Mon, 04 Apr 2016 00:30:35 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/image-occlusion-2-enhanced/</guid>
+      <description>&lt;p&gt;アドオン Image Occlusion 2.0 Enhanced がリリースされました。Image Occlusion の原作者から引き継いでメンテナンスしていた開発者による機能拡張版で、データ入力系のユーザーインターフェイスを中心に新機能が盛り込まれています。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

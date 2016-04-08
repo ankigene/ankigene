@@ -6,10 +6,19 @@
     <description>最新記事 in サポート | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 31 Dec 2015 11:59:35 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2016 20:42:29 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiDroid カスタムテーマの作り方</title>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-custom-theme/</link>
+      <pubDate>Fri, 08 Apr 2016 20:42:29 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-custom-theme/</guid>
+      <description>&lt;p&gt;AnkiDroid Forum &amp;ldquo;Night mode&amp;rdquo; では、ナイトモードを自作したい方の質問に対して、AnkiDroid のカラーテーマの仕組みについて解説がありました。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiDroid 同期サーバー変更可能に</title>
@@ -135,15 +144,6 @@ Question about changes to conditions regarding Ipad App&amp;rdquo; の中で回�
       <pubDate>Sun, 05 Oct 2014 23:44:22 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/how-to-catch-up-behind/</guid>
       <description>&lt;p&gt;サポートサイトに、Anki の学習を 5 か月間休んだ方からの相談が寄せられました。寄せられたアドバイスの要点は、スケジュールをリセットしない、新規カードを一時中断する、バックログを隔離して少しずつ取り組むというものです。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Windows 8  へのインストール</title>
-      <link>http://ankigene.luminousspice.com/post/install-anki-for-windows8/</link>
-      <pubDate>Sun, 05 Oct 2014 23:20:18 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/install-anki-for-windows8/</guid>
-      <description>&lt;p&gt;Windows 8 にインストール後、Anki が起動できない問題が繰り返しサポートサイトに報告されてます。Anki フォルダ内の prefs.db を削除するか、名前を変更するのがサポート推奨の解決方法です。今回の投稿では、起動時のエラーメッセージの画像が投稿されていますので、この問題が自分に当てはまるかの判断材料になります。&lt;/p&gt;
 </description>
     </item>
     

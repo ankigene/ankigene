@@ -6,10 +6,19 @@
     <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 08 Apr 2016 16:03:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2016 20:42:29 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiDroid カスタムテーマの作り方</title>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-custom-theme/</link>
+      <pubDate>Fri, 08 Apr 2016 20:42:29 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-custom-theme/</guid>
+      <description>&lt;p&gt;AnkiDroid Forum &amp;ldquo;Night mode&amp;rdquo; では、ナイトモードを自作したい方の質問に対して、AnkiDroid のカラーテーマの仕組みについて解説がありました。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiMobile 2.0.20 リリース</title>
@@ -134,15 +143,6 @@
       <pubDate>Sun, 07 Feb 2016 23:30:39 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/3years-for-french-c1/</guid>
       <description>&lt;p&gt;reddit の投稿 &amp;ldquo;3 years ago I started teaching myself French and I passed C1 today!&amp;rdquo; では、台湾人の方が3年でフランス語 C1 レベルの DALF を取得するために行った学習内容を説明しています。ネットの動画やラジオの活用に加えて、早い段階で小説を読み始めるのが特徴的です。一番最初の本はタラ・ダンカン (Tara Duncun) シリーズだそうです。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AnkiDroid テーマ切り替え機能</title>
-      <link>http://ankigene.luminousspice.com/post/ankidroid-theme-switcher/</link>
-      <pubDate>Sun, 31 Jan 2016 08:20:26 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/ankidroid-theme-switcher/</guid>
-      <description>&lt;p&gt;AnkiDroid 2.6alpha8 で Theme switcher 機能が追加になりました。デイモード、ナイトモードそれぞれ標準のデザインテーマと新たに追加のグレースケールで表現したシンプルなテーマに切り替えて使えるようになります。&lt;/p&gt;
 </description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>最新記事 in 英文 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Mar 2016 21:23:23 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2016 20:42:29 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E8%8B%B1%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiDroid カスタムテーマの作り方</title>
+      <link>http://ankigene.luminousspice.com/post/ankidroid-custom-theme/</link>
+      <pubDate>Fri, 08 Apr 2016 20:42:29 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankidroid-custom-theme/</guid>
+      <description>&lt;p&gt;AnkiDroid Forum &amp;ldquo;Night mode&amp;rdquo; では、ナイトモードを自作したい方の質問に対して、AnkiDroid のカラーテーマの仕組みについて解説がありました。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiDroid API 1.1</title>
@@ -134,15 +143,6 @@
       <pubDate>Sat, 28 Mar 2015 17:20:55 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-2-5-alpha/</guid>
       <description>&lt;p&gt;次期バーション AnkiDroid 2.5 の開発が始まっています。ユーザーインターフェイスのリニューアルや、外部のアプリから AnkiDroid のデータベースにノートやカードを入力するコンテンツプロバイダの機能などの作成が進められています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AnkiDroid でのパーリ語アクセント表示</title>
-      <link>http://ankigene.luminousspice.com/post/ankidroid-pali-accents-support/</link>
-      <pubDate>Mon, 16 Mar 2015 14:00:56 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/ankidroid-pali-accents-support/</guid>
-      <description>&lt;p&gt;AnkiDroid Forum では、AnkiDroid で固有に発生するパーリ語のアクセント記号表示の問題について投稿が寄せられました。&lt;/p&gt;
 </description>
     </item>
     
