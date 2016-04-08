@@ -11,13 +11,12 @@
 	{{ $.Scratch.Add "title" " | Ankigene" }}
 {{end}}
 
-<meta name="description" content="{{ .Description }}">
-<meta name="author" content="">
+<meta name="author" content="{{ if .Params.author }}{{ .Params.author }}{{ else if .Site.Params.author }}{{ .Site.Params.author }}{{ end }}">
 <base href="{{ .Site.BaseURL }}">
 <title>{{ $.Scratch.Get "title" }}</title>
 
-{{with .Description }}<meta name="description" content="{{ . }}">{{end}}
-<meta name="keywords" content="{{ if .Keywords }}{{ range .Keywords }}{{ . }}, {{ end }}{{else if isset .Params "tags" }}{{ range .Params.tags }}{{ . }}, {{ end }}{{end}}">
+<meta name="description" content="{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="keywords" content="{{ if .Keywords }}{{ range .Keywords }}{{ . }}, {{ end }}{{ else if isset .Params "tags" }}{{ range .Params.tags }}{{ . }}, {{ end }}{{ end }}">
 
  <!-- open graph -->
 {{ if .IsHome }}

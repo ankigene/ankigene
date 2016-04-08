@@ -24,6 +24,7 @@ filename = "sitemap.xml"
 
 [params]
     description = "Anki ユーザーを活性化するユニークな話題を要約してお届けします。"
+    author = "luminousspice"
     author_url = "http://rightstuff.luminosspice.com"
     project_url = "http://github.com/ankigene/ankigene"
     project_documentation = "http://ankihene.github.io/docs"
