@@ -38,14 +38,5 @@
 </description>
     </item>
     
-    <item>
-      <title>MathJax サポートアドオン</title>
-      <link>http://ankigene.luminousspice.com/post/mathjax-support-addon-for-anki/</link>
-      <pubDate>Sat, 09 Aug 2014 14:30:57 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/mathjax-support-addon-for-anki/</guid>
-      <description>&lt;p&gt;数式表示のための MathJax サポートアドオンが公開。LaTeXなどの追加インストールは不要で、必要なのはネットワーク接続です。&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
