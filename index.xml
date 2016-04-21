@@ -6,10 +6,37 @@
     <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 08 Apr 2016 20:42:29 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 Apr 2016 23:01:59 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>単語帳 変体仮名</title>
+      <link>http://ankigene.luminousspice.com/post/deck-hentaigana/</link>
+      <pubDate>Thu, 21 Apr 2016 23:01:59 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/deck-hentaigana/</guid>
+      <description>&lt;p&gt;AnkiWeb の共有単語帳に変体仮名 (異体仮名) の単語帳が登録されました。古文書を読むための 596 枚の毛筆画像を使ったカードを収録しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AnkiMobile 2.0.21 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-21/</link>
+      <pubDate>Thu, 21 Apr 2016 22:29:29 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-21/</guid>
+      <description>&lt;p&gt;今回のアップデートでは、AnkiMobile で作成したカードに発生する問題を解決します。過去の作成したカードは、Check Database を実行すると解決するそうです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anki 2.0.36 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/anki-2-0-36/</link>
+      <pubDate>Thu, 21 Apr 2016 22:27:05 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/anki-2-0-36/</guid>
+      <description>&lt;p&gt;Anki 2.0.36 がリリースされました。このアップデートでは、Windows Vista 上で起動する際に発生する問題を解決します。その他のシステムを使っている場合は、アップデートの必要はないそうです。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiDroid カスタムテーマの作り方</title>
@@ -116,33 +143,6 @@
       <pubDate>Sat, 20 Feb 2016 20:00:34 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/awesometts-tutorial/</guid>
       <description>&lt;p&gt;萌え萌えmoebuntu の投稿「語学学習アプリ「Anki」の「音声読み上げ設定」　２、3 」は、二回にわたる AwesomeTTS のチュートリアルです。英語のテキストを読み上げるの方法から、TTSで読み上げる音声ファイルを一括作成する手順まで、画像をふんだんに使って丁寧に説明しています。PCとスマホで同じTTSの音声を聞きたい方にはお勧めの内容です。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ペーストする画像の大きさを変更するアドオン</title>
-      <link>http://ankigene.luminousspice.com/post/image-resizer-addon/</link>
-      <pubDate>Tue, 09 Feb 2016 20:30:53 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/image-resizer-addon/</guid>
-      <description>&lt;p&gt;AnkiWeb に登録された &amp;ldquo;Image Resizer &amp;ndash; Resize the image when pasting&amp;rdquo; は、フィールドに画像を貼り付ける時に指定の大きさを変更するアドオンです。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>メディアの登録を強化する JSON 読み込みアドオン</title>
-      <link>http://ankigene.luminousspice.com/post/json-importer-addon/</link>
-      <pubDate>Tue, 09 Feb 2016 20:00:16 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/json-importer-addon/</guid>
-      <description>&lt;p&gt;AnkiWeb で公開のアドオン &amp;ldquo;Json Importer&amp;rdquo; は、Anki の読み込み機能に JSON 形式のサポートを追加します。読み込みデータのフィールドの内容を画像や動画のパスにすると、自動的にメディアファイルとして取り込む機能を提供しています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>3年間でフランス語 DALF C1 を取るためにやったこと</title>
-      <link>http://ankigene.luminousspice.com/post/3years-for-french-c1/</link>
-      <pubDate>Sun, 07 Feb 2016 23:30:39 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/3years-for-french-c1/</guid>
-      <description>&lt;p&gt;reddit の投稿 &amp;ldquo;3 years ago I started teaching myself French and I passed C1 today!&amp;rdquo; では、台湾人の方が3年でフランス語 C1 レベルの DALF を取得するために行った学習内容を説明しています。ネットの動画やラジオの活用に加えて、早い段階で小説を読み始めるのが特徴的です。一番最初の本はタラ・ダンカン (Tara Duncun) シリーズだそうです。&lt;/p&gt;
 </description>
     </item>
     

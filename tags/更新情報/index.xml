@@ -6,10 +6,28 @@
     <description>最新記事 in 更新情報 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 08 Apr 2016 16:03:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 Apr 2016 22:29:29 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiMobile 2.0.21 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-21/</link>
+      <pubDate>Thu, 21 Apr 2016 22:29:29 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-21/</guid>
+      <description>&lt;p&gt;今回のアップデートでは、AnkiMobile で作成したカードに発生する問題を解決します。過去の作成したカードは、Check Database を実行すると解決するそうです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anki 2.0.36 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/anki-2-0-36/</link>
+      <pubDate>Thu, 21 Apr 2016 22:27:05 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/anki-2-0-36/</guid>
+      <description>&lt;p&gt;Anki 2.0.36 がリリースされました。このアップデートでは、Windows Vista 上で起動する際に発生する問題を解決します。その他のシステムを使っている場合は、アップデートの必要はないそうです。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiMobile 2.0.20 リリース</title>
@@ -125,24 +143,6 @@
       <pubDate>Sun, 21 Sep 2014 20:00:03 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-2-0-29-released/</guid>
       <description>&lt;p&gt;OS X Yosemite 対応、タグの大文字小文字区別の同一視、100MB 以上のファイルが同期対象外になるなどの変更がありました。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AnkiDroid 2.2 リリース</title>
-      <link>http://ankigene.luminousspice.com/post/ankidroid-2-2-released/</link>
-      <pubDate>Tue, 29 Jul 2014 17:10:04 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/ankidroid-2-2-released/</guid>
-      <description>&lt;p&gt;このリリースでレイアウト設計の見直しが行われました。多くの機能や設定項目が画面左上の Anki アイコンをクリックして開くドロワーにまとめられた点に注意です。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Anki 2.0.28 リリース</title>
-      <link>http://ankigene.luminousspice.com/post/anki-2-0-28-released/</link>
-      <pubDate>Tue, 29 Jul 2014 16:00:07 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/anki-2-0-28-released/</guid>
-      <description>&lt;p&gt;この最新版のリリースには、メディア同期機能の改良、ブラウザーでの検索条件の保存などの新機能と多くの修正点が含まれています。&lt;/p&gt;
 </description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>最新記事 in Anki 単語帳 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 23 Jan 2016 18:55:02 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 Apr 2016 23:01:59 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/anki-%E5%8D%98%E8%AA%9E%E5%B8%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>単語帳 変体仮名</title>
+      <link>http://ankigene.luminousspice.com/post/deck-hentaigana/</link>
+      <pubDate>Thu, 21 Apr 2016 23:01:59 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/deck-hentaigana/</guid>
+      <description>&lt;p&gt;AnkiWeb の共有単語帳に変体仮名 (異体仮名) の単語帳が登録されました。古文書を読むための 596 枚の毛筆画像を使ったカードを収録しています。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>難読漢字シリーズ単語帳</title>

@@ -6,10 +6,19 @@
     <description>最新記事 in Ios | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 08 Apr 2016 16:03:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 Apr 2016 22:29:29 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiMobile 2.0.21 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-21/</link>
+      <pubDate>Thu, 21 Apr 2016 22:29:29 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-21/</guid>
+      <description>&lt;p&gt;今回のアップデートでは、AnkiMobile で作成したカードに発生する問題を解決します。過去の作成したカードは、Check Database を実行すると解決するそうです。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiMobile 2.0.20 リリース</title>
