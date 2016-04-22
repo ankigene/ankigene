@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows Vista on Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/windows-vista/</link>
+    <description>最新記事 in Windows Vista | Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 21 Apr 2016 22:27:05 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="http://ankigene.luminousspice.com/tags/windows-vista/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anki 2.0.36 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/anki-2-0-36/</link>
+      <pubDate>Thu, 21 Apr 2016 22:27:05 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/anki-2-0-36/</guid>
+      <description>&lt;p&gt;Anki 2.0.36 がリリースされました。このアップデートでは、Windows Vista 上で起動する際に発生する問題を解決します。その他のシステムを使っている場合は、アップデートの必要はないそうです。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
