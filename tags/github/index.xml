@@ -6,10 +6,19 @@
     <description>最新記事 in Github | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Mar 2016 21:23:23 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 24 Apr 2016 20:17:56 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>穴埋め問題作成を効率化する Vim プラグイン</title>
+      <link>http://ankigene.luminousspice.com/post/vim-operator-ankicloze/</link>
+      <pubDate>Sun, 24 Apr 2016 20:17:56 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/vim-operator-ankicloze/</guid>
+      <description>&lt;p&gt;:set titlestring=秀丸の投稿「vim-operator-ankicloze 0.0.1」において、一括登録用のテキストファイルので穴埋め問題の作成を効率化する Vim プラグインの公開が報告されました。ビジュアルモードで文字単位、行単位、矩形選択の選択領域に穴埋め用のタグを設定できるようになります。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiDroid API 1.1</title>
@@ -135,15 +144,6 @@
       <guid>http://ankigene.luminousspice.com/post/random-simulator/</guid>
       <description>&lt;p&gt;Anki Random Simulator は、モンテカルロ法を使って Anki の復習スケジュールをシュミレーションします。
 このサイトでは、正解率90%、5年間に設定していますが、GitHub でソースコードを公開していますので、設定変更してシュミレーションできます。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chromebook で AnkiDroid を使う</title>
-      <link>http://ankigene.luminousspice.com/post/ankidroid-on-chromebook/</link>
-      <pubDate>Sat, 20 Sep 2014 18:50:41 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/ankidroid-on-chromebook/</guid>
-      <description>&lt;p&gt;AnkiDroid Forum への投稿 &amp;ldquo;AnkiDroid running on Chromebooks&amp;rdquo; では apk を Chrome OS 用に変換するツール Chromeos-apk を使って、AnkiDroid を Chromebook 上で実行する方法を紹介しています。(追記)  AnkiDroid 2.4 で Chromebook が正式サポートされました。&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>プラグイン on Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/</link>
+    <description>最新記事 in プラグイン | Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 24 Apr 2016 20:17:56 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="http://ankigene.luminousspice.com/tags/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>穴埋め問題作成を効率化する Vim プラグイン</title>
+      <link>http://ankigene.luminousspice.com/post/vim-operator-ankicloze/</link>
+      <pubDate>Sun, 24 Apr 2016 20:17:56 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/vim-operator-ankicloze/</guid>
+      <description>&lt;p&gt;:set titlestring=秀丸の投稿「vim-operator-ankicloze 0.0.1」において、一括登録用のテキストファイルので穴埋め問題の作成を効率化する Vim プラグインの公開が報告されました。ビジュアルモードで文字単位、行単位、矩形選択の選択領域に穴埋め用のタグを設定できるようになります。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
