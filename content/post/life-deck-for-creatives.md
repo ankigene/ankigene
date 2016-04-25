@@ -1,4 +1,5 @@
 ---
+draft: true
 slug: "life-deck-for-creatives"
 date: "2015-02-20T00:05:24+00:00"
 lastmod: "2015-02-21T23:11:20+00:00"
