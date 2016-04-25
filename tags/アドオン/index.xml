@@ -6,10 +6,19 @@
     <description>最新記事 in アドオン | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 03 Apr 2016 17:08:29 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 25 Apr 2016 17:26:26 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>クリップボードの内容からノートを追加するアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-add-note-from-clipboard/</link>
+      <pubDate>Mon, 25 Apr 2016 17:26:26 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-add-note-from-clipboard/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開されたアドオン「Add Note From Clipboard」は、クリップボードの内容から直接ノートを追加します。HTML タグ、[sound:] タグ、穴埋め {{c1::}} タグも正しく処理し、単語帳やノートの名前、タグに日本語が使えます。同時に複数のコマンドを使用して、複数の単語帳に振り分けて登録することも可能です。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>単語帳の統計概要をツールチップで表示するアドオン</title>
@@ -134,15 +143,6 @@
       <pubDate>Wed, 14 Jan 2015 12:55:43 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/media-import/</guid>
       <description>&lt;p&gt;メディアファイルからノートを一括作成するアドオン Media Import の最新版 v2.0 では、ノートタイプの選択、フィールドへファイル名や連番の指定が出来るユーザーインターフェイスが追加されました。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>表、リスト、コードブロックの入力を簡単にするアドオン</title>
-      <link>http://ankigene.luminousspice.com/post/power-format-pack/</link>
-      <pubDate>Tue, 07 Oct 2014 18:30:34 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/power-format-pack/</guid>
-      <description>&lt;p&gt;Power format pack は、ノートエディタで指定する書式を強化するアドオンです。表やリスト、コードブロック、取り消し線、罫線などが利用できます。&lt;/p&gt;
 </description>
     </item>
     

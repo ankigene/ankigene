@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ノート追加 on Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/%E3%83%8E%E3%83%BC%E3%83%88%E8%BF%BD%E5%8A%A0/</link>
+    <description>最新記事 in ノート追加 | Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 25 Apr 2016 17:26:26 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="http://ankigene.luminousspice.com/tags/%E3%83%8E%E3%83%BC%E3%83%88%E8%BF%BD%E5%8A%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>クリップボードの内容からノートを追加するアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-add-note-from-clipboard/</link>
+      <pubDate>Mon, 25 Apr 2016 17:26:26 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-add-note-from-clipboard/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開されたアドオン「Add Note From Clipboard」は、クリップボードの内容から直接ノートを追加します。HTML タグ、[sound:] タグ、穴埋め {{c1::}} タグも正しく処理し、単語帳やノートの名前、タグに日本語が使えます。同時に複数のコマンドを使用して、複数の単語帳に振り分けて登録することも可能です。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

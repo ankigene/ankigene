@@ -6,10 +6,19 @@
     <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 24 Apr 2016 20:17:56 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 25 Apr 2016 17:26:26 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>クリップボードの内容からノートを追加するアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-add-note-from-clipboard/</link>
+      <pubDate>Mon, 25 Apr 2016 17:26:26 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-add-note-from-clipboard/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開されたアドオン「Add Note From Clipboard」は、クリップボードの内容から直接ノートを追加します。HTML タグ、[sound:] タグ、穴埋め {{c1::}} タグも正しく処理し、単語帳やノートの名前、タグに日本語が使えます。同時に複数のコマンドを使用して、複数の単語帳に振り分けて登録することも可能です。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>穴埋め問題作成を効率化する Vim プラグイン</title>
@@ -134,15 +143,6 @@
       <pubDate>Mon, 29 Feb 2016 00:03:52 +0900</pubDate>
       <guid>http://ankigene.luminousspice.com/post/search-browser-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開された「Search browser for selected words」というアドオンは、Anki のカード面で選択した内容を検索して、カードブラウザー内に結果を表示する機能を提供します。別のカードに同じ項目が含まれていないか調べるのに役立ちます。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>米国医師国家試験のための Anki の活用法</title>
-      <link>http://ankigene.luminousspice.com/post/usmle-step1/</link>
-      <pubDate>Sat, 20 Feb 2016 21:00:38 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/usmle-step1/</guid>
-      <description>&lt;p&gt;医師アメリカ留学のためのブログ～USMLE勉強法、MPH～ の投稿「USMLE STEP1 勉強法　各論１ 」では、米国医師国家試験 (USMLE) に合格した著者の Anki 活用法を取り上げています。カードの内容や分量、学習ペースなどを具体的に紹介しています。医学生の Anki の活用法は英文では簡単に見つかりますが、日本から医学留学した方が自らの体験を元に日本語で書いている点が大変貴重です。&lt;/p&gt;
 </description>
     </item>
     
