@@ -6,10 +6,19 @@
     <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 25 Apr 2016 17:26:26 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2016 18:47:26 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カードの初期化にも使えるカードをコピーするアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-copy-selected-cards/</link>
+      <pubDate>Mon, 02 May 2016 18:47:26 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-copy-selected-cards/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Create Copy of Selected Cards」は、カードブラウザで選択したカードをコピーします。タグやマークは複製しますが、学習履歴はコピーしませんのでカードの初期化にも使えます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>クリップボードの内容からノートを追加するアドオン</title>
@@ -134,15 +143,6 @@
       <pubDate>Wed, 09 Mar 2016 01:27:46 +0900</pubDate>
       <guid>http://ankigene.luminousspice.com/post/sekaken-study/</guid>
       <description>&lt;p&gt;マイルで１００の世界遺産！旅行記のブログ投稿「【世界遺産検定２級勉強法】難易度・テキストと日本の登録リスト暗記法」では、世界遺産検定２級取得のための Anki の活用法が紹介されています。iPhone と AnkiWeb によるユニークな事例で、テキストの選び方から設問の組み方、カードの作り方まで具体的に分かる内容になっています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>カードの内容をブラウザーの中で検索するアドオン</title>
-      <link>http://ankigene.luminousspice.com/post/search-browser-addon/</link>
-      <pubDate>Mon, 29 Feb 2016 00:03:52 +0900</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/search-browser-addon/</guid>
-      <description>&lt;p&gt;AnkiWeb に公開された「Search browser for selected words」というアドオンは、Anki のカード面で選択した内容を検索して、カードブラウザー内に結果を表示する機能を提供します。別のカードに同じ項目が含まれていないか調べるのに役立ちます。&lt;/p&gt;
 </description>
     </item>
     

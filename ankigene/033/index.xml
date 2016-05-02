@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>033 on Ankigene</title>
+    <link>http://ankigene.luminousspice.com/ankigene/033/</link>
+    <description>最新記事 in 033 | Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 02 May 2016 18:47:26 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="http://ankigene.luminousspice.com/ankigene/033/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カードの初期化にも使えるカードをコピーするアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-copy-selected-cards/</link>
+      <pubDate>Mon, 02 May 2016 18:47:26 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-copy-selected-cards/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Create Copy of Selected Cards」は、カードブラウザで選択したカードをコピーします。タグやマークは複製しますが、学習履歴はコピーしませんのでカードの初期化にも使えます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>クリップボードの内容からノートを追加するアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-add-note-from-clipboard/</link>
+      <pubDate>Mon, 25 Apr 2016 17:26:26 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-add-note-from-clipboard/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開されたアドオン「Add Note From Clipboard」は、クリップボードの内容から直接ノートを追加します。HTML タグ、[sound:] タグ、穴埋め {{c1::}} タグも正しく処理し、単語帳やノートの名前、タグに日本語が使えます。同時に複数のコマンドを使用して、複数の単語帳に振り分けて登録することも可能です。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>穴埋め問題作成を効率化する Vim プラグイン</title>
+      <link>http://ankigene.luminousspice.com/post/vim-operator-ankicloze/</link>
+      <pubDate>Sun, 24 Apr 2016 20:17:56 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/vim-operator-ankicloze/</guid>
+      <description>&lt;p&gt;:set titlestring=秀丸の投稿「vim-operator-ankicloze 0.0.1」において、一括登録用のテキストファイルので穴埋め問題の作成を効率化する Vim プラグインの公開が報告されました。ビジュアルモードで文字単位、行単位、矩形選択の選択領域に穴埋め用のタグを設定できるようになります。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>単語帳 変体仮名</title>
+      <link>http://ankigene.luminousspice.com/post/deck-hentaigana/</link>
+      <pubDate>Thu, 21 Apr 2016 23:01:59 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/deck-hentaigana/</guid>
+      <description>&lt;p&gt;AnkiWeb の共有単語帳に変体仮名 (異体仮名) の単語帳が登録されました。古文書を読むための 596 枚の毛筆画像を使ったカードを収録しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AnkiMobile 2.0.21 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-21/</link>
+      <pubDate>Thu, 21 Apr 2016 22:29:29 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-21/</guid>
+      <description>&lt;p&gt;今回のアップデートでは、AnkiMobile で作成したカードに発生する問題を解決します。過去の作成したカードは、Check Database を実行すると解決するそうです。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,19 @@
     <description>最新記事 in Anki | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 25 Apr 2016 17:26:26 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2016 18:47:26 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/anki/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カードの初期化にも使えるカードをコピーするアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-copy-selected-cards/</link>
+      <pubDate>Mon, 02 May 2016 18:47:26 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-copy-selected-cards/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Create Copy of Selected Cards」は、カードブラウザで選択したカードをコピーします。タグやマークは複製しますが、学習履歴はコピーしませんのでカードの初期化にも使えます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>クリップボードの内容からノートを追加するアドオン</title>
@@ -134,15 +143,6 @@
       <pubDate>Tue, 07 Apr 2015 13:30:09 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/night-mode-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開された Night Mode は、PC 版 Anki でも AnkiDroid のようなナイトモードの表示を実現します。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ウェブページの内容からカードを作るアドオン</title>
-      <link>http://ankigene.luminousspice.com/post/html2anki-addon/</link>
-      <pubDate>Tue, 07 Apr 2015 13:00:35 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/html2anki-addon/</guid>
-      <description>&lt;p&gt;AnkiWeb に公開されたアドオン &amp;ldquo;HTML 2 ANKI&amp;rdquo; は、ウェブページの繰り返し表示する内容を HTML 要素、属性、値を指定して抽出し、カードを一括生成するアドオンです。&lt;/p&gt;
 </description>
     </item>
     

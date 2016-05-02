@@ -6,10 +6,19 @@
     <description>最新記事 in アドオン | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 25 Apr 2016 17:26:26 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2016 18:47:26 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カードの初期化にも使えるカードをコピーするアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-copy-selected-cards/</link>
+      <pubDate>Mon, 02 May 2016 18:47:26 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-copy-selected-cards/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Create Copy of Selected Cards」は、カードブラウザで選択したカードをコピーします。タグやマークは複製しますが、学習履歴はコピーしませんのでカードの初期化にも使えます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>クリップボードの内容からノートを追加するアドオン</title>
@@ -134,15 +143,6 @@
       <pubDate>Sun, 08 Feb 2015 08:55:06 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/incremental-reading-log/</guid>
       <description>&lt;p&gt;道草趣向の投稿「使える読書ログを Anki と Incremental Reading でつくる」では、Anki と Incremental Reading アドオンを活用して、記憶することを前提とした読書ログの取り方を紹介しています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>メディアファイルからノートを自動作成 Media Import</title>
-      <link>http://ankigene.luminousspice.com/post/media-import/</link>
-      <pubDate>Wed, 14 Jan 2015 12:55:43 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/media-import/</guid>
-      <description>&lt;p&gt;メディアファイルからノートを一括作成するアドオン Media Import の最新版 v2.0 では、ノートタイプの選択、フィールドへファイル名や連番の指定が出来るユーザーインターフェイスが追加されました。&lt;/p&gt;
 </description>
     </item>
     
