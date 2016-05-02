@@ -4,5 +4,6 @@ title: "カードの初期化にも使えるカードをコピーするアドオ
 Tags: ["Anki","アドオン","初期化"]
 gene_url: "https://ankiweb.net/shared/info/787914845"
 thumbnail: "addon-copy-selected-cards.png"
+Ankigene: "033"
 ---
 AnkiWeb に公開中の Anki アドオン「Create Copy of Selected Cards」は、カードブラウザで選択したカードをコピーします。タグやマークは複製しますが、学習履歴はコピーしませんのでカードの初期化にも使えます。
