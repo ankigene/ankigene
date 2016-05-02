@@ -1,4 +1,5 @@
 ---
+draft: true
 slug: "example-of-study-options"
 date: "2014-08-13T00:25:25+00:00"
 lastmod: "2014-09-06T23:38:02+00:00"
