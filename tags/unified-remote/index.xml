@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unified Remote on Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/unified-remote/</link>
+    <description>最新記事 in Unified Remote | Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 14 May 2016 21:27:13 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="http://ankigene.luminousspice.com/tags/unified-remote/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>スマホをリモコンにするアプリ Unified Remote で Anki を操作する</title>
+      <link>http://ankigene.luminousspice.com/post/unified-remote-anki/</link>
+      <pubDate>Sat, 14 May 2016 21:27:13 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/unified-remote-anki/</guid>
+      <description>&lt;p&gt;スマホをリモコンにするアプリ Unified Remote を使って PC 上の Anki を操作するスクリプトの更新版が公開されました。学習セッションに必要なコマンドを使うことができます。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

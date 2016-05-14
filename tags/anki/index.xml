@@ -6,10 +6,19 @@
     <description>最新記事 in Anki | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 02 May 2016 18:47:26 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 May 2016 21:27:13 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/anki/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>スマホをリモコンにするアプリ Unified Remote で Anki を操作する</title>
+      <link>http://ankigene.luminousspice.com/post/unified-remote-anki/</link>
+      <pubDate>Sat, 14 May 2016 21:27:13 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/unified-remote-anki/</guid>
+      <description>&lt;p&gt;スマホをリモコンにするアプリ Unified Remote を使って PC 上の Anki を操作するスクリプトの更新版が公開されました。学習セッションに必要なコマンドを使うことができます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>カードの初期化にも使えるカードをコピーするアドオン</title>
@@ -134,15 +143,6 @@
       <pubDate>Sun, 27 Dec 2015 17:30:54 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/awesometts-ends-gtts-support/</guid>
       <description>&lt;p&gt;アドオン AwesomeTTS の作者によれば、Google Translate TTS サービスのサポートを終了するとのことです。既存のデータを Google TTS から変更する際に参考となる、利用可能な TTS の一覧とその詳細は AwesomeTTS サイトで紹介しています。なお、標準設定は Windows では SAPI、OS X では SAY コマンド、Linux では Yandex Translate に変更とのことです。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PC 版 Anki 用ナイトモードアドオン</title>
-      <link>http://ankigene.luminousspice.com/post/night-mode-addon/</link>
-      <pubDate>Tue, 07 Apr 2015 13:30:09 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/night-mode-addon/</guid>
-      <description>&lt;p&gt;AnkiWeb に公開された Night Mode は、PC 版 Anki でも AnkiDroid のようなナイトモードの表示を実現します。&lt;/p&gt;
 </description>
     </item>
     
