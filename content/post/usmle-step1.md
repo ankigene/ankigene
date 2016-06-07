@@ -4,7 +4,7 @@ date: "2016-02-20T21:00:38+00:00"
 lastmod: "2016-02-20T21:24:44+00:00"
 title: "米国医師国家試験のための Anki の活用法"
 gene_url: "http://usmle-mph-doctor.blog.jp/archives/1474062.html"
-tags: ["Anki","USMLE","利用事例","医学","医師国家試験","資格試験"]
+tags: ["Anki","USMLE","利用事例","医学","医師国家試験","資格試験","留学"]
 thumbnail: "usmle-step1.png"
 Ankigene: "030"
 ---

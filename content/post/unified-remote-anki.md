@@ -4,5 +4,6 @@ title: "スマホをリモコンにするアプリ Unified Remote で Anki を�
 Tags: ["Anki","Unified Remote","リモコン"]
 gene_url: "https://www.unifiedremote.com/remotes/glutanimate-anki"
 thumbnail: "unified-remote-anki.png"
+Ankigene: "034"
 ---
 スマホをリモコンにするアプリ Unified Remote を使って PC 上の Anki を操作するスクリプトの更新版が公開されました。学習セッションに必要なコマンドを使うことができます。
