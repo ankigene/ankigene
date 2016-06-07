@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ankigene.luminousspice.com/post/ankimobile-2-0-22/</loc>
+    <lastmod>2016-06-07T09:48:17+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ankigene.luminousspice.com/post/casestudy-harvard-kennedy-school/</loc>
+    <lastmod>2016-06-07T09:32:54+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ankigene.luminousspice.com/post/addon-create-filtered-deck-from-browser/</loc>
+    <lastmod>2016-06-07T09:02:10+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ankigene.luminousspice.com/post/addon-search-and-replace-tags/</loc>
+    <lastmod>2016-06-07T09:02:09+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ankigene.luminousspice.com/post/unified-remote-anki/</loc>
     <lastmod>2016-05-14T21:27:13+09:00</lastmod>
     <changefreq>monthly</changefreq>

@@ -6,10 +6,47 @@
     <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 May 2016 21:27:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jun 2016 09:48:17 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiMobile 2.0.22 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-22/</link>
+      <pubDate>Tue, 07 Jun 2016 09:48:17 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-22/</guid>
+      <description>&lt;p&gt;今回のアップデートでは、AnkiMobile に WYSIWYG エディタ機能が追加されました。ボタンを押して太字、斜字体、下線の設定でき、エディタの入力フィールドを HTML の書式を反映して表示するようになりました。このバージョンから iOS 8 以降が必要になりました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ハーバード・ケネディスクール留学生の Anki の活用法</title>
+      <link>http://ankigene.luminousspice.com/post/casestudy-harvard-kennedy-school/</link>
+      <pubDate>Tue, 07 Jun 2016 09:32:54 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/casestudy-harvard-kennedy-school/</guid>
+      <description>&lt;p&gt;We Are What We Choose の投稿「２年を経て、留学前の自分に伝えたいこと」では、ハーバード・ケネディスクール留学生の著者が、じゅぎょうにひ英語の能力を高めるために Anki をどのように活用したか取り上げています。カードの内容や分量、学習ペースなどを具体的に紹介しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>カードブラウザからフィルター単語帳を作るアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-create-filtered-deck-from-browser/</link>
+      <pubDate>Tue, 07 Jun 2016 09:02:10 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-create-filtered-deck-from-browser/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開されたアドオン「Create Filtered Deck from the Browser」は、カードブラウザで絞り込んだ検索条件からフィルター単語帳を作成する機能を追加します。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>タグを検索置換するアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-search-and-replace-tags/</link>
+      <pubDate>Tue, 07 Jun 2016 09:02:09 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-search-and-replace-tags/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開されたアドオン「
+Search and Replace Tags」は、カードブラウザからタグの検索置換する機能を追加します。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>スマホをリモコンにするアプリ Unified Remote で Anki を操作する</title>
@@ -107,42 +144,6 @@
       <pubDate>Sun, 03 Apr 2016 17:08:29 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/deck-overview-stats-tooltip/</guid>
       <description>&lt;p&gt;アドオン Deck Overview Stats Tooltip は、メインウィンドウで単語帳名にカーソルを重ねると、その単語帳のオプショングループ名や収録カード枚数、当日の学習結果の内訳など統計概要をチュールチップで表示します。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Image Occlusion 2.0 Enhanced リリース</title>
-      <link>http://ankigene.luminousspice.com/post/image-occlusion-2-enhanced/</link>
-      <pubDate>Mon, 04 Apr 2016 00:30:35 +0900</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/image-occlusion-2-enhanced/</guid>
-      <description>&lt;p&gt;アドオン Image Occlusion 2.0 Enhanced がリリースされました。Image Occlusion の原作者から引き継いでメンテナンスしていた開発者による機能拡張版で、データ入力系のユーザーインターフェイスを中心に新機能が盛り込まれています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Anki 2.0.34 リリース</title>
-      <link>http://ankigene.luminousspice.com/post/anki-2-0-34/</link>
-      <pubDate>Sun, 27 Mar 2016 23:41:16 +0900</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/anki-2-0-34/</guid>
-      <description>&lt;p&gt;Anki 2.0.34 がリリースされました。Windows システムの高 DPI ディスプレイ対応、apkg ファイル書き出す際にメディアフォルダに設定されていた容量 2GB とファイル数 64k 制限の撤廃、apkg ファイルの読み込みや書き出しの高速化が図られています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AnkiDroid API 1.1</title>
-      <link>http://ankigene.luminousspice.com/post/ankidroid-api-1-1/</link>
-      <pubDate>Thu, 24 Mar 2016 21:23:23 +0900</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/ankidroid-api-1-1/</guid>
-      <description>&lt;p&gt;AnkiDroid 2.6alpha19 のリリースによって Ankidroid API 1.1 が導入されました。このリリースで大量のノートを追加した時のパフォーマンスの向上しました。更新の概要はサポートサイトのリリースノートをご覧下さい。また詳しい情報は、リリースノートからリンクしているGitHub のレポジトリのソースコード内のコメント、Wiki、サンプルコードから調べることができます。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AnkiMobile 2.0.18 リリース</title>
-      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-18/</link>
-      <pubDate>Sun, 13 Mar 2016 21:30:53 +0900</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-18/</guid>
-      <description>&lt;p&gt;最新版の Anki の iOS アプリ AnkiMobile 2.0.18 では、自動バックアップ管理や学習オプションなど設定が PC 版との連携なしにできるようになりました。画面分割マルチタスク、Bluetooth キーボード、Apple Pencil の対応が行われています。iPhone のサイレントスイッチが AnkiMobile の音声の自動再生を無効にするようになりました。&lt;/p&gt;
 </description>
     </item>
     

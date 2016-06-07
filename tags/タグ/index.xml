@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>タグ on Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/%E3%82%BF%E3%82%B0/</link>
+    <description>最新記事 in タグ | Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 07 Jun 2016 09:02:09 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="http://ankigene.luminousspice.com/tags/%E3%82%BF%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>タグを検索置換するアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-search-and-replace-tags/</link>
+      <pubDate>Tue, 07 Jun 2016 09:02:09 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-search-and-replace-tags/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開されたアドオン「
+Search and Replace Tags」は、カードブラウザからタグの検索置換する機能を追加します。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

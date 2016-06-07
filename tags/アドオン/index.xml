@@ -6,10 +6,29 @@
     <description>最新記事 in アドオン | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 02 May 2016 18:47:26 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jun 2016 09:02:10 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カードブラウザからフィルター単語帳を作るアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-create-filtered-deck-from-browser/</link>
+      <pubDate>Tue, 07 Jun 2016 09:02:10 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-create-filtered-deck-from-browser/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開されたアドオン「Create Filtered Deck from the Browser」は、カードブラウザで絞り込んだ検索条件からフィルター単語帳を作成する機能を追加します。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>タグを検索置換するアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-search-and-replace-tags/</link>
+      <pubDate>Tue, 07 Jun 2016 09:02:09 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-search-and-replace-tags/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開されたアドオン「
+Search and Replace Tags」は、カードブラウザからタグの検索置換する機能を追加します。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>カードの初期化にも使えるカードをコピーするアドオン</title>
@@ -125,24 +144,6 @@
       <pubDate>Mon, 30 Mar 2015 13:45:48 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-selective-card-generation/</guid>
       <description>&lt;p&gt;AnkiWeb に公開されたアドオン Selective Card Generation は、ノート追加画面でカードを作成するカードテンプレートの選択が可能になるアドオンです。例えば、既定の基本(裏面カード付き)をノートタイプとして指定しながら、表面カードだけを作成することができます。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>単語単位でフィールド検索をするためのアドオン</title>
-      <link>http://ankigene.luminousspice.com/post/search-by-word-addon/</link>
-      <pubDate>Sat, 21 Mar 2015 06:08:55 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/search-by-word-addon/</guid>
-      <description>&lt;p&gt;Anki アドオン &amp;ldquo;Word search and wildcard field name&amp;rdquo; は、カードブラウザーでのフィールド検索にワイルドカードの使用や単語単位での検索の機能を追加します。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Incremental Reading を利用した記憶するための読書ログ</title>
-      <link>http://ankigene.luminousspice.com/post/incremental-reading-log/</link>
-      <pubDate>Sun, 08 Feb 2015 08:55:06 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/incremental-reading-log/</guid>
-      <description>&lt;p&gt;道草趣向の投稿「使える読書ログを Anki と Incremental Reading でつくる」では、Anki と Incremental Reading アドオンを活用して、記憶することを前提とした読書ログの取り方を紹介しています。&lt;/p&gt;
 </description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>最新記事 in Ipad | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 21 Apr 2016 22:29:29 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jun 2016 09:48:17 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/ipad/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiMobile 2.0.22 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-22/</link>
+      <pubDate>Tue, 07 Jun 2016 09:48:17 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-22/</guid>
+      <description>&lt;p&gt;今回のアップデートでは、AnkiMobile に WYSIWYG エディタ機能が追加されました。ボタンを押して太字、斜字体、下線の設定でき、エディタの入力フィールドを HTML の書式を反映して表示するようになりました。このバージョンから iOS 8 以降が必要になりました。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiMobile 2.0.21 リリース</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>フィルター単語帳 on Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E5%8D%98%E8%AA%9E%E5%B8%B3/</link>
+    <description>最新記事 in フィルター単語帳 | Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 07 Jun 2016 09:02:10 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="http://ankigene.luminousspice.com/tags/%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E5%8D%98%E8%AA%9E%E5%B8%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カードブラウザからフィルター単語帳を作るアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-create-filtered-deck-from-browser/</link>
+      <pubDate>Tue, 07 Jun 2016 09:02:10 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-create-filtered-deck-from-browser/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開されたアドオン「Create Filtered Deck from the Browser」は、カードブラウザで絞り込んだ検索条件からフィルター単語帳を作成する機能を追加します。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
