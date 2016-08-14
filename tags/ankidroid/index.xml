@@ -6,10 +6,20 @@
     <description>最新記事 in Ankidroid | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 08 Apr 2016 20:42:29 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Aug 2016 19:30:12 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/ankidroid/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>情報セキュリティスペシャリスト試験のための Anki 活用法</title>
+      <link>http://ankigene.luminousspice.com/post/anki-for-information-security-specialist/</link>
+      <pubDate>Sun, 14 Aug 2016 19:30:12 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/anki-for-information-security-specialist/</guid>
+      <description>&lt;p&gt;えこみみのブログに慣れるためのブログの投稿「
+情報セキュリティスペシャリスト試験に合格したので勉強法と参考書を書いてみる 」では、情報セキュリティスペシャリスト試験に合格した方が参考書、過去問の解き方やノートのまとめ方から Anki カードの作り方までを具体的に説明しています。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiDroid カスタムテーマの作り方</title>
@@ -134,15 +144,6 @@
       <pubDate>Sat, 28 Mar 2015 17:20:55 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-2-5-alpha/</guid>
       <description>&lt;p&gt;次期バーション AnkiDroid 2.5 の開発が始まっています。ユーザーインターフェイスのリニューアルや、外部のアプリから AnkiDroid のデータベースにノートやカードを入力するコンテンツプロバイダの機能などの作成が進められています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AnkiDroid 2.4.2 リリース</title>
-      <link>http://ankigene.luminousspice.com/post/ankidroid-2-4-2/</link>
-      <pubDate>Tue, 17 Mar 2015 12:10:01 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/ankidroid-2-4-2/</guid>
-      <description>&lt;p&gt;このリリースでは、2.4.1 で新たに発生したカードテンプレートに利用する Conditional Replacement (条件置換) の動作に問題を修正しました。なお、2.4.1 ではフィルター単語帳、ズーム機能、穴埋め問題、共有単語帳のダウンロード、ブラウザーで単語帳変更、AnkiWeb との同期などの機能に関する問題点が修正されました。また、クラッシュの原因となる問題点も解決しました。&lt;/p&gt;
 </description>
     </item>
     

@@ -6,10 +6,20 @@
     <description>最新記事 in 資格試験 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Mar 2016 01:27:46 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Aug 2016 19:30:12 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="http://ankigene.luminousspice.com/tags/%E8%B3%87%E6%A0%BC%E8%A9%A6%E9%A8%93/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>情報セキュリティスペシャリスト試験のための Anki 活用法</title>
+      <link>http://ankigene.luminousspice.com/post/anki-for-information-security-specialist/</link>
+      <pubDate>Sun, 14 Aug 2016 19:30:12 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/anki-for-information-security-specialist/</guid>
+      <description>&lt;p&gt;えこみみのブログに慣れるためのブログの投稿「
+情報セキュリティスペシャリスト試験に合格したので勉強法と参考書を書いてみる 」では、情報セキュリティスペシャリスト試験に合格した方が参考書、過去問の解き方やノートのまとめ方から Anki カードの作り方までを具体的に説明しています。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Anki を活用した世界遺産検定２級勉強法</title>
