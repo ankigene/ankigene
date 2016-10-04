@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>和声 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E5%92%8C%E5%A3%B0/</link>
-    <description>最新記事 in 和声 | Ankigene</description>
+    <title>Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/%E5%92%8C%E5%A3%B0/index.xml</link>
+    <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Oct 2014 20:30:08 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="http://ankigene.luminousspice.com/tags/%E5%92%8C%E5%A3%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E5%92%8C%E5%A3%B0/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anki による即興演奏の学習</title>

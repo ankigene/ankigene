@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>スズキメソード on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E3%82%B9%E3%82%BA%E3%82%AD%E3%83%A1%E3%82%BD%E3%83%BC%E3%83%89/</link>
-    <description>最新記事 in スズキメソード | Ankigene</description>
+    <title>Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/%E3%82%B9%E3%82%BA%E3%82%AD%E3%83%A1%E3%82%BD%E3%83%BC%E3%83%89/index.xml</link>
+    <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 May 2014 15:20:09 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="http://ankigene.luminousspice.com/tags/%E3%82%B9%E3%82%BA%E3%82%AD%E3%83%A1%E3%82%BD%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E3%82%B9%E3%82%BA%E3%82%AD%E3%83%A1%E3%82%BD%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>音楽家のレパートリと Anki</title>

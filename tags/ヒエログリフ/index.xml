@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ヒエログリフ on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E3%83%92%E3%82%A8%E3%83%AD%E3%82%B0%E3%83%AA%E3%83%95/</link>
-    <description>最新記事 in ヒエログリフ | Ankigene</description>
+    <title>Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/%E3%83%92%E3%82%A8%E3%83%AD%E3%82%B0%E3%83%AA%E3%83%95/index.xml</link>
+    <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Jan 2015 23:20:35 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="http://ankigene.luminousspice.com/tags/%E3%83%92%E3%82%A8%E3%83%AD%E3%82%B0%E3%83%AA%E3%83%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E3%83%92%E3%82%A8%E3%83%AD%E3%82%B0%E3%83%AA%E3%83%95/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>中エジプト語読解のためのヒエログリフ単語帳</title>

@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>アドオン on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/</link>
-    <description>最新記事 in アドオン | Ankigene</description>
+    <title>Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/index.xml</link>
+    <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jun 2016 09:02:10 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="http://ankigene.luminousspice.com/tags/%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Image Occlusion Enhanced チュートリアル</title>
+      <link>http://ankigene.luminousspice.com/post/image-occlusion-tutorials/</link>
+      <pubDate>Tue, 04 Oct 2016 22:12:49 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/image-occlusion-tutorials/</guid>
+      <description>&lt;p&gt;アドオン Image Occlusion Enhanced の作者によるチュートリアルビデオが YouTube に 公開されました。インストール方法、使い方、前バージョンからの変更点、カスタマイズ方法などを説明する七本の動画で構成しています。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>カードブラウザからフィルター単語帳を作るアドオン</title>
@@ -135,15 +143,6 @@ Search and Replace Tags」は、カードブラウザからタグの検索置換
       <pubDate>Tue, 07 Apr 2015 13:00:35 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/html2anki-addon/</guid>
       <description>&lt;p&gt;AnkiWeb に公開されたアドオン &amp;ldquo;HTML 2 ANKI&amp;rdquo; は、ウェブページの繰り返し表示する内容を HTML 要素、属性、値を指定して抽出し、カードを一括生成するアドオンです。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>カードテンプレートが選択できるアドオン</title>
-      <link>http://ankigene.luminousspice.com/post/anki-selective-card-generation/</link>
-      <pubDate>Mon, 30 Mar 2015 13:45:48 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/anki-selective-card-generation/</guid>
-      <description>&lt;p&gt;AnkiWeb に公開されたアドオン Selective Card Generation は、ノート追加画面でカードを作成するカードテンプレートの選択が可能になるアドオンです。例えば、既定の基本(裏面カード付き)をノートタイプとして指定しながら、表面カードだけを作成することができます。&lt;/p&gt;
 </description>
     </item>
     

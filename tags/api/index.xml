@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Api on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/api/</link>
-    <description>最新記事 in Api | Ankigene</description>
+    <title>Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/api/index.xml</link>
+    <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Mar 2016 21:23:23 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="http://ankigene.luminousspice.com/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/api/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiDroid API 1.1</title>

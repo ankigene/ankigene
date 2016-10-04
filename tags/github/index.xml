@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Github on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/github/</link>
-    <description>最新記事 in Github | Ankigene</description>
+    <title>Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/github/index.xml</link>
+    <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 24 Apr 2016 20:17:56 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="http://ankigene.luminousspice.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>穴埋め問題作成を効率化する Vim プラグイン</title>

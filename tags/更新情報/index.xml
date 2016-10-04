@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>更新情報 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1/</link>
-    <description>最新記事 in 更新情報 | Ankigene</description>
+    <title>Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1/index.xml</link>
+    <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jun 2016 09:48:17 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="http://ankigene.luminousspice.com/tags/%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiMobile 2.0.25 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-25/</link>
+      <pubDate>Tue, 04 Oct 2016 12:48:42 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-25/</guid>
+      <description>&lt;p&gt;今回のアップデートでは、iOS 10 の対応を中心とした前回のアップデート 2.0.24 に対する問題修正版です。iPad で発生するクラッシュの問題に対応しました。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiMobile 2.0.22 リリース</title>
@@ -134,15 +142,6 @@
       <pubDate>Sun, 19 Oct 2014 21:00:49 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/anki-2-0-31/</guid>
       <description>&lt;p&gt;このバージョンでは、大量のデータを定期的に同期するとタイムアウトが発生する問題に対応しました。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mac 用代替ビルドでの同期は 2.0.30 以降が必須</title>
-      <link>http://ankigene.luminousspice.com/post/anki-2-0-30/</link>
-      <pubDate>Sat, 18 Oct 2014 22:00:13 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/anki-2-0-30/</guid>
-      <description>&lt;p&gt;Anki 2.0.30 がリリースになりました。OS X 10.5, 10.6 用の代替ビルドで同期機能を継続利用するには、このバージョンへのアップグレードが必要です。&lt;/p&gt;
 </description>
     </item>
     

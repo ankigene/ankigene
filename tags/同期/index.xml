@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>同期 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E5%90%8C%E6%9C%9F/</link>
-    <description>最新記事 in 同期 | Ankigene</description>
+    <title>Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/%E5%90%8C%E6%9C%9F/index.xml</link>
+    <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 03 Jan 2016 20:00:41 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="http://ankigene.luminousspice.com/tags/%E5%90%8C%E6%9C%9F/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E5%90%8C%E6%9C%9F/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiDroid でバックグラウンド同期</title>

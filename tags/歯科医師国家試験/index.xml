@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>歯科医師国家試験 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E6%AD%AF%E7%A7%91%E5%8C%BB%E5%B8%AB%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93/</link>
-    <description>最新記事 in 歯科医師国家試験 | Ankigene</description>
+    <title>Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/%E6%AD%AF%E7%A7%91%E5%8C%BB%E5%B8%AB%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93/index.xml</link>
+    <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 21 Aug 2014 23:30:20 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="http://ankigene.luminousspice.com/tags/%E6%AD%AF%E7%A7%91%E5%8C%BB%E5%B8%AB%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E6%AD%AF%E7%A7%91%E5%8C%BB%E5%B8%AB%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>何をどう暗記するのか</title>

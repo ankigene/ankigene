@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>保育士 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E4%BF%9D%E8%82%B2%E5%A3%AB/</link>
-    <description>最新記事 in 保育士 | Ankigene</description>
+    <title>Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/%E4%BF%9D%E8%82%B2%E5%A3%AB/index.xml</link>
+    <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Dec 2015 14:00:36 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="http://ankigene.luminousspice.com/tags/%E4%BF%9D%E8%82%B2%E5%A3%AB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E4%BF%9D%E8%82%B2%E5%A3%AB/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>保育士試験のための活用法</title>

@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Html on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/html/</link>
-    <description>最新記事 in Html | Ankigene</description>
+    <title>Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/html/index.xml</link>
+    <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Apr 2015 13:00:35 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="http://ankigene.luminousspice.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/html/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ウェブページの内容からカードを作るアドオン</title>

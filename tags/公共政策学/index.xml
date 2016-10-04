@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>公共政策学 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E5%85%AC%E5%85%B1%E6%94%BF%E7%AD%96%E5%AD%A6/</link>
-    <description>最新記事 in 公共政策学 | Ankigene</description>
+    <title>Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/%E5%85%AC%E5%85%B1%E6%94%BF%E7%AD%96%E5%AD%A6/index.xml</link>
+    <description>最新記事 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jun 2016 09:32:54 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="http://ankigene.luminousspice.com/tags/%E5%85%AC%E5%85%B1%E6%94%BF%E7%AD%96%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E5%85%AC%E5%85%B1%E6%94%BF%E7%AD%96%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ハーバード・ケネディスクール留学生の Anki の活用法</title>
