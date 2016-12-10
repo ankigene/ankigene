@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on Ankigene</title>
+    <title>Posts on Ankigene</title>
     <link>http://ankigene.luminousspice.com/post/index.xml</link>
-    <description>最新記事 in Post-rsses | Ankigene</description>
+    <description>最新記事 in Posts | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Oct 2016 22:12:49 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2016 21:11:50 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiWeb アドオン一覧の表示順が変更になりました</title>
+      <link>http://ankigene.luminousspice.com/post/addon-list-sort/</link>
+      <pubDate>Sat, 10 Dec 2016 21:11:50 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-list-sort/</guid>
+      <description>&lt;p&gt;AnkiWeb の Anki アドオンの表示順が変更になりました。ユーザーによる評価の平均値から最高点(&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt;)の数の多いアドオンから表示するようになりました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>カードを両面同時にプレビューするアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-advanced-previewer/</link>
+      <pubDate>Thu, 08 Dec 2016 20:45:19 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-advanced-previewer/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Advanced Previewer」は、ブラウザのカードプレビュー機能を強化するアドオンです。カードの両面を同時に表示したり、カードブラウザで選択した複数のカードを一度にプレビューすることができます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Image Occlusion Enhanced チュートリアル</title>
@@ -127,24 +145,6 @@ Search and Replace Tags」は、カードブラウザからタグの検索置換
       <pubDate>Thu, 21 Apr 2016 22:29:29 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-21/</guid>
       <description>&lt;p&gt;今回のアップデートでは、AnkiMobile で作成したカードに発生する問題を解決します。過去の作成したカードは、Check Database を実行すると解決するそうです。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Anki 2.0.36 リリース</title>
-      <link>http://ankigene.luminousspice.com/post/anki-2-0-36/</link>
-      <pubDate>Thu, 21 Apr 2016 22:27:05 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/anki-2-0-36/</guid>
-      <description>&lt;p&gt;Anki 2.0.36 がリリースされました。このアップデートでは、Windows Vista 上で起動する際に発生する問題を解決します。その他のシステムを使っている場合は、アップデートの必要はないそうです。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AnkiDroid カスタムテーマの作り方</title>
-      <link>http://ankigene.luminousspice.com/post/ankidroid-custom-theme/</link>
-      <pubDate>Fri, 08 Apr 2016 20:42:29 +0900</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/ankidroid-custom-theme/</guid>
-      <description>&lt;p&gt;AnkiDroid Forum &amp;ldquo;Night mode&amp;rdquo; では、ナイトモードを自作したい方の質問に対して、AnkiDroid のカラーテーマの仕組みについて解説がありました。&lt;/p&gt;
 </description>
     </item>
     

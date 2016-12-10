@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ankigene.luminousspice.com/post/addon-list-sort/</loc>
+    <lastmod>2016-12-10T21:11:50+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ankigene.luminousspice.com/post/addon-advanced-previewer/</loc>
+    <lastmod>2016-12-08T20:45:19+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ankigene.luminousspice.com/post/image-occlusion-tutorials/</loc>
     <lastmod>2016-10-04T22:12:49+09:00</lastmod>
     <changefreq>monthly</changefreq>

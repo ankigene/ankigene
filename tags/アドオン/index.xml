@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ankigene</title>
+    <title>アドオン on Ankigene</title>
     <link>http://ankigene.luminousspice.com/tags/%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/index.xml</link>
-    <description>最新記事 | Ankigene</description>
+    <description>最新記事 in アドオン | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="/tags/%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiWeb アドオン一覧の表示順が変更になりました</title>
+      <link>http://ankigene.luminousspice.com/post/addon-list-sort/</link>
+      <pubDate>Sat, 10 Dec 2016 21:11:50 +0900</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-list-sort/</guid>
+      <description>&lt;p&gt;AnkiWeb の Anki アドオンの表示順が変更になりました。ユーザーによる評価の平均値から最高点(&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt;)の数の多いアドオンから表示するようになりました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>カードを両面同時にプレビューするアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-advanced-previewer/</link>
+      <pubDate>Thu, 08 Dec 2016 20:45:19 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-advanced-previewer/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Advanced Previewer」は、ブラウザのカードプレビュー機能を強化するアドオンです。カードの両面を同時に表示したり、カードブラウザで選択した複数のカードを一度にプレビューすることができます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Image Occlusion Enhanced チュートリアル</title>
@@ -125,24 +143,6 @@ Search and Replace Tags」は、カードブラウザからタグの検索置換
       <pubDate>Sun, 27 Dec 2015 17:30:54 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/awesometts-ends-gtts-support/</guid>
       <description>&lt;p&gt;アドオン AwesomeTTS の作者によれば、Google Translate TTS サービスのサポートを終了するとのことです。既存のデータを Google TTS から変更する際に参考となる、利用可能な TTS の一覧とその詳細は AwesomeTTS サイトで紹介しています。なお、標準設定は Windows では SAPI、OS X では SAY コマンド、Linux では Yandex Translate に変更とのことです。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PC 版 Anki 用ナイトモードアドオン</title>
-      <link>http://ankigene.luminousspice.com/post/night-mode-addon/</link>
-      <pubDate>Tue, 07 Apr 2015 13:30:09 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/night-mode-addon/</guid>
-      <description>&lt;p&gt;AnkiWeb に公開された Night Mode は、PC 版 Anki でも AnkiDroid のようなナイトモードの表示を実現します。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ウェブページの内容からカードを作るアドオン</title>
-      <link>http://ankigene.luminousspice.com/post/html2anki-addon/</link>
-      <pubDate>Tue, 07 Apr 2015 13:00:35 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/html2anki-addon/</guid>
-      <description>&lt;p&gt;AnkiWeb に公開されたアドオン &amp;ldquo;HTML 2 ANKI&amp;rdquo; は、ウェブページの繰り返し表示する内容を HTML 要素、属性、値を指定して抽出し、カードを一括生成するアドオンです。&lt;/p&gt;
 </description>
     </item>
     
