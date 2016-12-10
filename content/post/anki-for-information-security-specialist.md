@@ -4,6 +4,7 @@ title: "情報セキュリティスペシャリスト試験のための Anki 活
 Tags: ["情報セキュリティスペシャリスト","情報処理技術者試験","資格試験","利用事例","AnkiDroid"]
 gene_url: "http://ecommimi.hatenablog.jp/entry/20160619/1466299484"
 thumbnail: "anki-for-information-security-specialist.png"
+Ankigene: "035"
 ---
 えこみみのブログに慣れるためのブログの投稿「
 情報セキュリティスペシャリスト試験に合格したので勉強法と参考書を書いてみる 」では、情報セキュリティスペシャリスト試験に合格した方が参考書、過去問の解き方やノートのまとめ方から Anki カードの作り方までを具体的に説明しています。
