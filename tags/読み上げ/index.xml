@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>読み上げ on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E8%AA%AD%E3%81%BF%E4%B8%8A%E3%81%92/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/%E8%AA%AD%E3%81%BF%E4%B8%8A%E3%81%92/</link>
     <description>最新記事 in 読み上げ | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Sun, 27 Dec 2015 14:00:36 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/%E8%AA%AD%E3%81%BF%E4%B8%8A%E3%81%92/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E8%AA%AD%E3%81%BF%E4%B8%8A%E3%81%92/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>保育士試験のための活用法</title>

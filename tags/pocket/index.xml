@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pocket on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/pocket/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/pocket/</link>
     <description>最新記事 in Pocket | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Sat, 31 Jan 2015 14:35:07 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/pocket/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/pocket/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>同じ文章や動画を繰り返して言語習得</title>

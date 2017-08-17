@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>035 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/ankigene/035/index.xml</link>
+    <link>http://ankigene.luminousspice.com/ankigene/035/</link>
     <description>最新記事 in 035 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Sat, 10 Dec 2016 21:11:50 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/ankigene/035/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/ankigene/035/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiWeb アドオン一覧の表示順が変更になりました</title>

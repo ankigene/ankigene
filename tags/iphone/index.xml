@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iphone on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/iphone/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/iphone/</link>
     <description>最新記事 in Iphone | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Tue, 04 Oct 2016 12:48:42 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/iphone/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiMobile 2.0.25 リリース</title>

@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tips on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/tips/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/tips/</link>
     <description>最新記事 in Tips | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Sun, 21 Sep 2014 20:10:02 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/tips/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anki Tips をつぶやく Bot</title>

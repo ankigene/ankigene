@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>学術英語 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E5%AD%A6%E8%A1%93%E8%8B%B1%E8%AA%9E/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/%E5%AD%A6%E8%A1%93%E8%8B%B1%E8%AA%9E/</link>
     <description>最新記事 in 学術英語 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Fri, 16 May 2014 21:30:24 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/%E5%AD%A6%E8%A1%93%E8%8B%B1%E8%AA%9E/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E5%AD%A6%E8%A1%93%E8%8B%B1%E8%AA%9E/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>学術英語の学習辞典</title>

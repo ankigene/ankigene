@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>パーリ語 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E3%83%91%E3%83%BC%E3%83%AA%E8%AA%9E/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/%E3%83%91%E3%83%BC%E3%83%AA%E8%AA%9E/</link>
     <description>最新記事 in パーリ語 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Mon, 16 Mar 2015 14:00:56 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/%E3%83%91%E3%83%BC%E3%83%AA%E8%AA%9E/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E3%83%91%E3%83%BC%E3%83%AA%E8%AA%9E/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiDroid でのパーリ語アクセント表示</title>

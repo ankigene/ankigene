@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Toeic on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/toeic/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/toeic/</link>
     <description>最新記事 in Toeic | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Wed, 13 Aug 2014 00:25:25 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/toeic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/toeic/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>学習オプション設定例</title>

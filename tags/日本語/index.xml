@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>日本語 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
     <description>最新記事 in 日本語 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Thu, 21 Apr 2016 23:01:59 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>単語帳 変体仮名</title>

@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>プレビュー on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</link>
     <description>最新記事 in プレビュー | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Thu, 08 Dec 2016 20:45:19 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>カードを両面同時にプレビューするアドオン</title>

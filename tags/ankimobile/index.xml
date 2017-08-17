@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ankimobile on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/ankimobile/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/ankimobile/</link>
     <description>最新記事 in Ankimobile | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Thu, 18 Sep 2014 15:00:36 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/ankimobile/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/ankimobile/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>iOS 8 互換性情報</title>

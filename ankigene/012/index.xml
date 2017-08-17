@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>012 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/ankigene/012/index.xml</link>
+    <link>http://ankigene.luminousspice.com/ankigene/012/</link>
     <description>最新記事 in 012 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Sun, 28 Sep 2014 12:00:33 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/ankigene/012/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/ankigene/012/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anki とアクセシビリティ</title>

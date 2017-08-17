@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apple Pencil on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/apple-pencil/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/apple-pencil/</link>
     <description>最新記事 in Apple Pencil | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Sun, 13 Mar 2016 21:30:53 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/apple-pencil/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/apple-pencil/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiMobile 2.0.18 リリース</title>

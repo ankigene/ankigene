@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>動画 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E5%8B%95%E7%94%BB/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/%E5%8B%95%E7%94%BB/</link>
     <description>最新記事 in 動画 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Tue, 04 Oct 2016 22:12:49 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/%E5%8B%95%E7%94%BB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E5%8B%95%E7%94%BB/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Image Occlusion Enhanced チュートリアル</title>

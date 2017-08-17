@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apkg on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/apkg/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/apkg/</link>
     <description>最新記事 in Apkg | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Thu, 17 Aug 2017 09:22:16 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/apkg/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/apkg/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anki 2.0.47 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/anki-2-0-47/</link>
+      <pubDate>Thu, 17 Aug 2017 09:22:16 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/anki-2-0-47/</guid>
+      <description>&lt;p&gt;Anki 2.0.47 が公開されました。今回の更新はAPKGファイルの読み込みについてのセキュリティ対応です。AnkiWebの共有単語帳に問題がないことは確認済です。AnkiWeb以外から第三者のAPKGファイルを読み込んで使っている方は、最新版への更新をお勧めします。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Anki 2.0.34 リリース</title>

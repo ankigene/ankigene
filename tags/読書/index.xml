@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>読書 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E8%AA%AD%E6%9B%B8/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/%E8%AA%AD%E6%9B%B8/</link>
     <description>最新記事 in 読書 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Sat, 29 Aug 2015 13:50:11 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/%E8%AA%AD%E6%9B%B8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E8%AA%AD%E6%9B%B8/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>人物整理に Anki を利用する読書法</title>

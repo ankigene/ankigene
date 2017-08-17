@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>クイズ on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E3%82%AF%E3%82%A4%E3%82%BA/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/%E3%82%AF%E3%82%A4%E3%82%BA/</link>
     <description>最新記事 in クイズ | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Sat, 07 Mar 2015 18:40:09 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/%E3%82%AF%E3%82%A4%E3%82%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E3%82%AF%E3%82%A4%E3%82%BA/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>クイズ番組 Jeopardy! チャンピオンの Anki 活用法</title>

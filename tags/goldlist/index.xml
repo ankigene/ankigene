@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goldlist on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/goldlist/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/goldlist/</link>
     <description>最新記事 in Goldlist | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Sat, 31 Jan 2015 03:00:56 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/goldlist/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/goldlist/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Goldlist Method 日本語解説</title>

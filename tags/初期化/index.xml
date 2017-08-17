@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>初期化 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E5%88%9D%E6%9C%9F%E5%8C%96/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/%E5%88%9D%E6%9C%9F%E5%8C%96/</link>
     <description>最新記事 in 初期化 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Mon, 02 May 2016 18:47:26 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/%E5%88%9D%E6%9C%9F%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E5%88%9D%E6%9C%9F%E5%8C%96/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>カードの初期化にも使えるカードをコピーするアドオン</title>

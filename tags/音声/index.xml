@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>音声 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E9%9F%B3%E5%A3%B0/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/%E9%9F%B3%E5%A3%B0/</link>
     <description>最新記事 in 音声 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Sat, 29 Aug 2015 14:15:03 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/%E9%9F%B3%E5%A3%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E9%9F%B3%E5%A3%B0/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiDroid へ音声を読み込む効率的な方法</title>

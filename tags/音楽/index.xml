@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>音楽 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E9%9F%B3%E6%A5%BD/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/%E9%9F%B3%E6%A5%BD/</link>
     <description>最新記事 in 音楽 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Sat, 28 Mar 2015 17:14:53 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E9%9F%B3%E6%A5%BD/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ピアノ練習への Anki 活用例</title>

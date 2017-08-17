@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kindle on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/kindle/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/kindle/</link>
     <description>最新記事 in Kindle | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Sat, 17 Jan 2015 21:30:56 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/kindle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/kindle/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Kindle ハイライトを Anki に取り組む方法</title>

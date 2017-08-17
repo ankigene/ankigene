@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>003 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/ankigene/003/index.xml</link>
+    <link>http://ankigene.luminousspice.com/ankigene/003/</link>
     <description>最新記事 in 003 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Fri, 16 May 2014 21:30:24 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/ankigene/003/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/ankigene/003/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>学術英語の学習辞典</title>

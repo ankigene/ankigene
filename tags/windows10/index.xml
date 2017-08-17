@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows10 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/windows10/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/windows10/</link>
     <description>最新記事 in Windows10 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Thu, 17 Aug 2017 09:45:43 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/windows10/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/windows10/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Windows 10 アプリ Anki Universal が AnkiWeb 対応に</title>
+      <link>http://ankigene.luminousspice.com/post/anki-universal/</link>
+      <pubDate>Thu, 17 Aug 2017 09:45:43 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/anki-universal/</guid>
+      <description>&lt;p&gt;Windows 10 アプリ Anki Universal が AnkiWeb 対応になりました。メディアファイルの同期はまだサポートしていませんが、Windows 10 Mobile 機器から AnkiWeb と同期できるようになりました。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Windows 10 へのアップグレード後の注意点</title>

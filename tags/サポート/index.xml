@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>サポート on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/index.xml</link>
+    <link>http://ankigene.luminousspice.com/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</link>
     <description>最新記事 in サポート | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Fri, 08 Apr 2016 20:42:29 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AnkiDroid カスタムテーマの作り方</title>

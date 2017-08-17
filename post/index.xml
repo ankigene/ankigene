@@ -2,14 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/post/index.xml</link>
+    <link>http://ankigene.luminousspice.com/post/</link>
     <description>最新記事 in Posts | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Dec 2016 21:11:50 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 09:45:43 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Windows 10 アプリ Anki Universal が AnkiWeb 対応に</title>
+      <link>http://ankigene.luminousspice.com/post/anki-universal/</link>
+      <pubDate>Thu, 17 Aug 2017 09:45:43 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/anki-universal/</guid>
+      <description>&lt;p&gt;Windows 10 アプリ Anki Universal が AnkiWeb 対応になりました。メディアファイルの同期はまだサポートしていませんが、Windows 10 Mobile 機器から AnkiWeb と同期できるようになりました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anki 2.0.47 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/anki-2-0-47/</link>
+      <pubDate>Thu, 17 Aug 2017 09:22:16 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/anki-2-0-47/</guid>
+      <description>&lt;p&gt;Anki 2.0.47 が公開されました。今回の更新はAPKGファイルの読み込みについてのセキュリティ対応です。AnkiWebの共有単語帳に問題がないことは確認済です。AnkiWeb以外から第三者のAPKGファイルを読み込んで使っている方は、最新版への更新をお勧めします。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiWeb アドオン一覧の表示順が変更になりました</title>
@@ -127,24 +145,6 @@ Search and Replace Tags」は、カードブラウザからタグの検索置換
       <pubDate>Sun, 24 Apr 2016 20:17:56 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/vim-operator-ankicloze/</guid>
       <description>&lt;p&gt;:set titlestring=秀丸の投稿「vim-operator-ankicloze 0.0.1」において、一括登録用のテキストファイルので穴埋め問題の作成を効率化する Vim プラグインの公開が報告されました。ビジュアルモードで文字単位、行単位、矩形選択の選択領域に穴埋め用のタグを設定できるようになります。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>単語帳 変体仮名</title>
-      <link>http://ankigene.luminousspice.com/post/deck-hentaigana/</link>
-      <pubDate>Thu, 21 Apr 2016 23:01:59 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/deck-hentaigana/</guid>
-      <description>&lt;p&gt;AnkiWeb の共有単語帳に変体仮名 (異体仮名) の単語帳が登録されました。古文書を読むための 596 枚の毛筆画像を使ったカードを収録しています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AnkiMobile 2.0.21 リリース</title>
-      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-21/</link>
-      <pubDate>Thu, 21 Apr 2016 22:29:29 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-21/</guid>
-      <description>&lt;p&gt;今回のアップデートでは、AnkiMobile で作成したカードに発生する問題を解決します。過去の作成したカードは、Check Database を実行すると解決するそうです。&lt;/p&gt;
 </description>
     </item>
     

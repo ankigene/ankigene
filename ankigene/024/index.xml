@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>024 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/ankigene/024/index.xml</link>
+    <link>http://ankigene.luminousspice.com/ankigene/024/</link>
     <description>最新記事 in 024 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Tue, 07 Apr 2015 14:00:55 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/ankigene/024/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/ankigene/024/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PC 上で AnkiDroid を動かす方法</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>セキュリティ on Ankigene</title>
+    <link>http://ankigene.luminousspice.com/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</link>
+    <description>最新記事 in セキュリティ | Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 17 Aug 2017 09:22:16 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anki 2.0.47 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/anki-2-0-47/</link>
+      <pubDate>Thu, 17 Aug 2017 09:22:16 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/anki-2-0-47/</guid>
+      <description>&lt;p&gt;Anki 2.0.47 が公開されました。今回の更新はAPKGファイルの読み込みについてのセキュリティ対応です。AnkiWebの共有単語帳に問題がないことは確認済です。AnkiWeb以外から第三者のAPKGファイルを読み込んで使っている方は、最新版への更新をお勧めします。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

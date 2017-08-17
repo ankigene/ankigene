@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>008 on Ankigene</title>
-    <link>http://ankigene.luminousspice.com/ankigene/008/index.xml</link>
+    <link>http://ankigene.luminousspice.com/ankigene/008/</link>
     <description>最新記事 in 008 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Thu, 21 Aug 2014 23:30:20 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <atom:link href="/ankigene/008/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/ankigene/008/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>何をどう暗記するのか</title>
