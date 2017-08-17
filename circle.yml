@@ -26,7 +26,7 @@ dependencies:
 test:
   post:
     - hugo version
-    - hugo --baseURL="/" -v
+    - hugo #--baseURL="/" -v
     - bundle exec htmlproof ./public --only-4xx --href-ignore '/anki.tenderapp.com/' --alt-ignore '/.*/' --file-ignore /.*vendor\/bundle*/
     - rm -rf public
 
