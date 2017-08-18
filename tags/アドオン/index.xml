@@ -6,10 +6,28 @@
     <description>最新記事 in アドオン | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Dec 2016 21:11:50 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 08:13:23 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="/tags/%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カードブラウザでの検索結果をハイライトするアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-highlight-search/</link>
+      <pubDate>Fri, 18 Aug 2017 08:13:23 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-highlight-search/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Highlight Search Results in the Browser」は、カードブラウザの検索結果の中のキーワードをハイライトします。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>学習活動を可視化するヒートマップ作成アドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-review-heatmap/</link>
+      <pubDate>Fri, 18 Aug 2017 08:02:19 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-review-heatmap/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Review Heatmap」は、学習活動を可視化するヒートマップ作成します。どれだけ継続して、Anki を使っているか一目瞭然でわかり、休まずに Anki を使う動機付けになります。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiWeb アドオン一覧の表示順が変更になりました</title>
@@ -126,24 +144,6 @@ Search and Replace Tags」は、カードブラウザからタグの検索置換
       <pubDate>Tue, 09 Feb 2016 20:00:16 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/json-importer-addon/</guid>
       <description>&lt;p&gt;AnkiWeb で公開のアドオン &amp;ldquo;Json Importer&amp;rdquo; は、Anki の読み込み機能に JSON 形式のサポートを追加します。読み込みデータのフィールドの内容を画像や動画のパスにすると、自動的にメディアファイルとして取り込む機能を提供しています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AnkiDroid シュミレーションによる学習量予測</title>
-      <link>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</link>
-      <pubDate>Sat, 30 Jan 2016 09:00:30 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/ankidroid-stats-simulation/</guid>
-      <description>&lt;p&gt;AnkiDroid 2.6alpha7 では、学習量を予測するシュミレーション機能が追加になりました。ユーザーが設定した正解率 (初期設定では 90%) で学習量を計算します。この機能は AnkiDroid のアドオンとして Jeffrey van Prehn が開発したものです。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AwesomeTTS における Google Translate TTS サポート終了</title>
-      <link>http://ankigene.luminousspice.com/post/awesometts-ends-gtts-support/</link>
-      <pubDate>Sun, 27 Dec 2015 17:30:54 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/awesometts-ends-gtts-support/</guid>
-      <description>&lt;p&gt;アドオン AwesomeTTS の作者によれば、Google Translate TTS サービスのサポートを終了するとのことです。既存のデータを Google TTS から変更する際に参考となる、利用可能な TTS の一覧とその詳細は AwesomeTTS サイトで紹介しています。なお、標準設定は Windows では SAPI、OS X では SAY コマンド、Linux では Yandex Translate に変更とのことです。&lt;/p&gt;
 </description>
     </item>
     

@@ -6,10 +6,28 @@
     <description>最新記事 in Posts | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Aug 2017 09:45:43 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 08:13:23 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カードブラウザでの検索結果をハイライトするアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-highlight-search/</link>
+      <pubDate>Fri, 18 Aug 2017 08:13:23 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-highlight-search/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Highlight Search Results in the Browser」は、カードブラウザの検索結果の中のキーワードをハイライトします。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>学習活動を可視化するヒートマップ作成アドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-review-heatmap/</link>
+      <pubDate>Fri, 18 Aug 2017 08:02:19 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-review-heatmap/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Review Heatmap」は、学習活動を可視化するヒートマップ作成します。どれだけ継続して、Anki を使っているか一目瞭然でわかり、休まずに Anki を使う動機付けになります。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Windows 10 アプリ Anki Universal が AnkiWeb 対応に</title>
@@ -127,24 +145,6 @@ Search and Replace Tags」は、カードブラウザからタグの検索置換
       <pubDate>Mon, 02 May 2016 18:47:26 +0900</pubDate>
       <guid>http://ankigene.luminousspice.com/post/addon-copy-selected-cards/</guid>
       <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Create Copy of Selected Cards」は、カードブラウザで選択したカードをコピーします。タグやマークは複製しますが、学習履歴はコピーしませんのでカードの初期化にも使えます。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>クリップボードの内容からノートを追加するアドオン</title>
-      <link>http://ankigene.luminousspice.com/post/addon-add-note-from-clipboard/</link>
-      <pubDate>Mon, 25 Apr 2016 17:26:26 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/addon-add-note-from-clipboard/</guid>
-      <description>&lt;p&gt;AnkiWeb に公開されたアドオン「Add Note From Clipboard」は、クリップボードの内容から直接ノートを追加します。HTML タグ、[sound:] タグ、穴埋め {{c1::}} タグも正しく処理し、単語帳やノートの名前、タグに日本語が使えます。同時に複数のコマンドを使用して、複数の単語帳に振り分けて登録することも可能です。表計算ソフト LibreOffice Calc のセルから直接追加できました。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>穴埋め問題作成を効率化する Vim プラグイン</title>
-      <link>http://ankigene.luminousspice.com/post/vim-operator-ankicloze/</link>
-      <pubDate>Sun, 24 Apr 2016 20:17:56 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/vim-operator-ankicloze/</guid>
-      <description>&lt;p&gt;:set titlestring=秀丸の投稿「vim-operator-ankicloze 0.0.1」において、一括登録用のテキストファイルので穴埋め問題の作成を効率化する Vim プラグインの公開が報告されました。ビジュアルモードで文字単位、行単位、矩形選択の選択領域に穴埋め用のタグを設定できるようになります。&lt;/p&gt;
 </description>
     </item>
     

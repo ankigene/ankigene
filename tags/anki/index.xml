@@ -6,10 +6,28 @@
     <description>最新記事 in Anki | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Aug 2017 09:22:16 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 08:13:23 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="/tags/anki/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>カードブラウザでの検索結果をハイライトするアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-highlight-search/</link>
+      <pubDate>Fri, 18 Aug 2017 08:13:23 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-highlight-search/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Highlight Search Results in the Browser」は、カードブラウザの検索結果の中のキーワードをハイライトします。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>学習活動を可視化するヒートマップ作成アドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-review-heatmap/</link>
+      <pubDate>Fri, 18 Aug 2017 08:02:19 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-review-heatmap/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Review Heatmap」は、学習活動を可視化するヒートマップ作成します。どれだけ継続して、Anki を使っているか一目瞭然でわかり、休まずに Anki を使う動機付けになります。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Anki 2.0.47 リリース</title>
@@ -126,24 +144,6 @@ Search and Replace Tags」は、カードブラウザからタグの検索置換
       <pubDate>Sun, 03 Apr 2016 17:08:29 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/deck-overview-stats-tooltip/</guid>
       <description>&lt;p&gt;アドオン Deck Overview Stats Tooltip は、メインウィンドウで単語帳名にカーソルを重ねると、その単語帳のオプショングループ名や収録カード枚数、当日の学習結果の内訳など統計概要をチュールチップで表示します。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Image Occlusion 2.0 Enhanced リリース</title>
-      <link>http://ankigene.luminousspice.com/post/image-occlusion-2-enhanced/</link>
-      <pubDate>Mon, 04 Apr 2016 00:30:35 +0900</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/image-occlusion-2-enhanced/</guid>
-      <description>&lt;p&gt;アドオン Image Occlusion 2.0 Enhanced がリリースされました。Image Occlusion の原作者から引き継いでメンテナンスしていた開発者による機能拡張版で、データ入力系のユーザーインターフェイスを中心に新機能が盛り込まれています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Anki 2.0.34 リリース</title>
-      <link>http://ankigene.luminousspice.com/post/anki-2-0-34/</link>
-      <pubDate>Sun, 27 Mar 2016 23:41:16 +0900</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/anki-2-0-34/</guid>
-      <description>&lt;p&gt;Anki 2.0.34 がリリースされました。Windows システムの高 DPI ディスプレイ対応、apkg ファイル書き出す際にメディアフォルダに設定されていた容量 2GB とファイル数 64k 制限の撤廃、apkg ファイルの読み込みや書き出しの高速化が図られています。&lt;/p&gt;
 </description>
     </item>
     

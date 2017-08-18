@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ankigene.luminousspice.com/post/addon-highlight-search/</loc>
+    <lastmod>2017-08-18T08:13:23+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ankigene.luminousspice.com/post/addon-review-heatmap/</loc>
+    <lastmod>2017-08-18T08:02:19+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ankigene.luminousspice.com/post/anki-universal/</loc>
     <lastmod>2017-08-17T09:45:43+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1242,7 +1256,7 @@
   
   <url>
     <loc>http://ankigene.luminousspice.com/post/</loc>
-    <lastmod>2017-08-17T09:45:43+00:00</lastmod>
+    <lastmod>2017-08-18T08:13:23+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
