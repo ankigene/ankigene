@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>036 on Ankigene</title>
+    <link>http://ankigene.luminousspice.com/ankigene/036/</link>
+    <description>最新記事 in 036 | Ankigene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 09 Sep 2017 08:40:47 +0900</lastBuildDate>
+    <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="/ankigene/036/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Motî: Anki カードを作る辞書アプリ</title>
+      <link>http://ankigene.luminousspice.com/post/moti-ditctionary-creates-anki-cards/</link>
+      <pubDate>Sat, 09 Sep 2017 08:40:47 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/moti-ditctionary-creates-anki-cards/</guid>
+      <description>&lt;p&gt;辞書アプリ Motî が更新になり、AnkiMobile へカードを書き出せるようになりました。書き出し先の Deck、Note Type、Profile を指定でき、テンプレートタグを使ってノートの内容を編集できます。iPhone に調べたい言葉を話して Motî で検索し、そのまま Anki カードを作ることができます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>カードブラウザでの検索結果をハイライトするアドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-highlight-search/</link>
+      <pubDate>Fri, 18 Aug 2017 08:13:23 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-highlight-search/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Highlight Search Results in the Browser」は、カードブラウザの検索結果の中のキーワードをハイライトします。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>学習活動を可視化するヒートマップ作成アドオン</title>
+      <link>http://ankigene.luminousspice.com/post/addon-review-heatmap/</link>
+      <pubDate>Fri, 18 Aug 2017 08:02:19 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/addon-review-heatmap/</guid>
+      <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Review Heatmap」は、学習活動を可視化するヒートマップ作成します。どれだけ継続して、Anki を使っているか一目瞭然でわかり、休まずに Anki を使う動機付けになります。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Windows 10 アプリ Anki Universal が AnkiWeb 対応に</title>
+      <link>http://ankigene.luminousspice.com/post/anki-universal/</link>
+      <pubDate>Thu, 17 Aug 2017 09:45:43 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/anki-universal/</guid>
+      <description>&lt;p&gt;Windows 10 アプリ Anki Universal が AnkiWeb 対応になりました。メディアファイルの同期はまだサポートしていませんが、Windows 10 Mobile 機器から AnkiWeb と同期できるようになりました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anki 2.0.47 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/anki-2-0-47/</link>
+      <pubDate>Thu, 17 Aug 2017 09:22:16 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/anki-2-0-47/</guid>
+      <description>&lt;p&gt;Anki 2.0.47 が公開されました。今回の更新はAPKGファイルの読み込みについてのセキュリティ対応です。AnkiWebの共有単語帳に問題がないことは確認済です。AnkiWeb以外から第三者のAPKGファイルを読み込んで使っている方は、最新版への更新をお勧めします。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,19 @@
     <description>最新記事 in Ankigene | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Aug 2017 08:13:23 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 09 Sep 2017 08:40:47 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Motî: Anki カードを作る辞書アプリ</title>
+      <link>http://ankigene.luminousspice.com/post/moti-ditctionary-creates-anki-cards/</link>
+      <pubDate>Sat, 09 Sep 2017 08:40:47 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/moti-ditctionary-creates-anki-cards/</guid>
+      <description>&lt;p&gt;辞書アプリ Motî が更新になり、AnkiMobile へカードを書き出せるようになりました。書き出し先の Deck、Note Type、Profile を指定でき、テンプレートタグを使ってノートの内容を編集できます。iPhone に調べたい言葉を話して Motî で検索し、そのまま Anki カードを作ることができます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>カードブラウザでの検索結果をハイライトするアドオン</title>
@@ -136,15 +145,6 @@ Search and Replace Tags」は、カードブラウザからタグの検索置換
       <pubDate>Sat, 14 May 2016 21:27:13 +0900</pubDate>
       <guid>http://ankigene.luminousspice.com/post/unified-remote-anki/</guid>
       <description>&lt;p&gt;スマホをリモコンにするアプリ Unified Remote を使って PC 上の Anki を操作するスクリプトの更新版が公開されました。学習セッションに必要なコマンドを使うことができます。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>カードの初期化にも使えるカードをコピーするアドオン</title>
-      <link>http://ankigene.luminousspice.com/post/addon-copy-selected-cards/</link>
-      <pubDate>Mon, 02 May 2016 18:47:26 +0900</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/addon-copy-selected-cards/</guid>
-      <description>&lt;p&gt;AnkiWeb に公開中の Anki アドオン「Create Copy of Selected Cards」は、カードブラウザで選択したカードをコピーします。タグやマークは複製しますが、学習履歴はコピーしませんのでカードの初期化にも使えます。&lt;/p&gt;
 </description>
     </item>
     

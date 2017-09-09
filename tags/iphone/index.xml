@@ -6,10 +6,19 @@
     <description>最新記事 in Iphone | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Oct 2016 12:48:42 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 09 Sep 2017 08:40:47 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="/tags/iphone/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Motî: Anki カードを作る辞書アプリ</title>
+      <link>http://ankigene.luminousspice.com/post/moti-ditctionary-creates-anki-cards/</link>
+      <pubDate>Sat, 09 Sep 2017 08:40:47 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/moti-ditctionary-creates-anki-cards/</guid>
+      <description>&lt;p&gt;辞書アプリ Motî が更新になり、AnkiMobile へカードを書き出せるようになりました。書き出し先の Deck、Note Type、Profile を指定でき、テンプレートタグを使ってノートの内容を編集できます。iPhone に調べたい言葉を話して Motî で検索し、そのまま Anki カードを作ることができます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnkiMobile 2.0.25 リリース</title>
