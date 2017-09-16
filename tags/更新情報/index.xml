@@ -6,10 +6,19 @@
     <description>最新記事 in 更新情報 | Ankigene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Aug 2017 09:45:43 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 16 Sep 2017 02:34:28 +0900</lastBuildDate>
     <atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <atom:link href="/tags/%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AnkiMobile 2.0.32 リリース</title>
+      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-32/</link>
+      <pubDate>Sat, 16 Sep 2017 02:34:28 +0000</pubDate>
+      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-32/</guid>
+      <description>&lt;p&gt;今回のアップデートでは Anki 2.1 Beta との連携が行われ、 MathJax と mhchem をサポートしました。AnkiMobile から数式や化学式が直接入力できるようになりました。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Windows 10 アプリ Anki Universal が AnkiWeb 対応に</title>
@@ -134,15 +143,6 @@
       <pubDate>Thu, 29 Jan 2015 17:50:54 +0000</pubDate>
       <guid>http://ankigene.luminousspice.com/post/ankidroid-2-4-released/</guid>
       <description>&lt;p&gt;このリリースでは、日本語版マニュアルとの連携、作成済みのカードのノートタイプの変更、カードテンプレートの表示削除、動画再生のサポートなどが行われました。また、Chromebook のサポートがこのバージョンから正式に行われています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AnkiMobile 2.0.17 リリース</title>
-      <link>http://ankigene.luminousspice.com/post/ankimobile-2-0-17/</link>
-      <pubDate>Fri, 23 Jan 2015 15:15:23 +0000</pubDate>
-      <guid>http://ankigene.luminousspice.com/post/ankimobile-2-0-17/</guid>
-      <description>&lt;p&gt;Anki の iOS アプリ AnkiMobile の最新版は、2015/1/5 公開の 2.0.17 です。前回のバージョンからたくさんのメディアファイルを同期した時にクラッシュする問題を修正しています。このバージョンから開発元の表示が Ankitects Pty Ltd に変わりました。&lt;/p&gt;
 </description>
     </item>
     

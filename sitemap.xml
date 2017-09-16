@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ankigene.luminousspice.com/post/ankimobile-2-0-32/</loc>
+    <lastmod>2017-09-16T02:34:28+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ankigene.luminousspice.com/post/moti-ditctionary-creates-anki-cards/</loc>
     <lastmod>2017-09-09T08:40:47+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -849,13 +856,6 @@
   </url>
   
   <url>
-    <loc>http://ankigene.luminousspice.com/post/goldlist-method-review/</loc>
-    <lastmod>2014-09-28T12:09:19+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://ankigene.luminousspice.com/post/ankigene-favorites/</loc>
     <lastmod>2014-09-28T12:09:19+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1263,7 +1263,7 @@
   
   <url>
     <loc>http://ankigene.luminousspice.com/post/</loc>
-    <lastmod>2017-09-09T08:40:47+00:00</lastmod>
+    <lastmod>2017-09-16T02:34:28+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
