@@ -1,4 +1,5 @@
 ---
+draft: true
 slug: "goldlist-method-review"
 date: "2014-09-28T11:20:26+00:00"
 lastmod: "2014-09-28T12:09:19+00:00"
